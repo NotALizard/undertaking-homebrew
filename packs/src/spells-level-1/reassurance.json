@@ -1,0 +1,62 @@
+{
+    "name": "Reassurance",
+    "type": "spell",
+    "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You assuage feelings of panic and desperation in one creature you can see, steeling its resolve to act. Choose one of the following effects:</p><ul><li>If the creature has taken a desperate action since its last turn, it can act normally on its next turn. Even with this benefit, it can&rsquo;t take another desperate action before the start of its next turn.</li><li>If the creature is suffering from one or more effects causing it to be @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} or @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened} you can force it to immediately repeat its (Save) check against one of those effects at advantage.</li></ul><p>&nbsp;</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: You can choose both effects.</li><li>1 Mana: If you choose to make the target repeat its (Save) check and it fails, it makes all subsequent (Save) checks to end that effect at advantage.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "enc",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "",
+            "units": "inst"
+        },
+        "range": {
+            "value": "30",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "J5U5KBOO9206NABR"
+}

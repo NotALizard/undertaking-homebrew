@@ -1,0 +1,23 @@
+{
+  "name": "Wild-Blood Minotaur",
+  "type": "race",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Wild-Blood minotaurs share a kinship with the more primeval and remote stretches of the wilderness. They sport shorter horns and longer fur than most of their kin. Their tie to the natural energies of the world is rather unique, and it's quite common to see a lesser natural spirit in animal form striding beside a Wild-Blood minotaur.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Wild-Blood Minotaur Traits</p><ul><li><b>Compatibility: </b>Bestial</li><li><b>Attribute Increase: </b>Your Wisdom score increases by 1.</li><li><b>Wild Spirit: </b>@Compendium[undertaking-homebrew.abilities.7U9PFUNYXKJE4423]{Wild Spirit}</li><li><b>Favor of the Land: </b>You gain proficiency in one of the following: Intelligence (Nature), Botany, Fishing, or Pathfinding Trade.</li><li><strong><em>Alternate Heritage:</em></strong> Minotaur heritage can present in various ways. If your core race does not grant you Horns, you can choose to replace the &ldquo;Favor of the Land&rdquo; trait offered by this branch race with the following ability:<ul><li><strong>Lesser Horns:</strong> @Compendium[undertaking-homebrew.abilities.MPBFI0K1205Z8O2G]{Lesser Horns}</li></ul></li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "S15CACVO0VP809K2"
+}

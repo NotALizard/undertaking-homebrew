@@ -1,0 +1,24 @@
+{
+  "name": "Purloined Essence",
+  "type": "ability",
+  "img": "icons/creatures/abilities/dragon-breath-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a reaction to taking damage that matches your Elemental Affinity's type, you can spend your @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Dice to heal yourself for the total faith roll plus your Wisdom modifier. You can use this ability even if the initial damage was reduced to 0, for example as a result of resistance or immunity.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Dragon Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "4RLLUUNYF7O4NQJ6"
+}

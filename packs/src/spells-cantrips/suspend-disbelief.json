@@ -1,0 +1,62 @@
+{
+    "name": "Suspend Disbelief",
+    "type": "spell",
+    "img": "icons/magic/control/buff-luck-fortune-rainbow.webp",
+    "system": {
+        "description": {
+            "value": "<p>With a flourish of magic and a short prescription you magically alter the scenery to better fit your creative vision. You create one of the following effects within range:</p><ul><li>You alter the text present on an object to say something else or render it illegible. This effect lasts one hour. A creature can perceive the unaltered version of the text with a successful Intelligence (Investigation) check against your spell save DC.</li><li>You instantly clean or bloodstain one surface, worn garment, or medium or smaller object. A creature can determine the blood created by this effect to be fake with a successful Wisdom (Medicine) check against your spell save DC.</li><li>You create the sound of a voice speaking a single word, or any other short non-verbal sound such as thunder, an animal noise, or a crowd&rsquo;s cheer. The sound originates from a point you can see within range. A creature can determine that the sound is an imitation with a successful Wisdom (Insight) check against your spell save DC.</li><li>You create an image no larger than 15 feet in any dimension and styled like a painting on one undecorated surface within range such as a blank sheet of parchment or plain wall. When viewed from up close, the image appears to be hastily made and lacking artistry.</li><li>You instantly light or snuff a single non-magical light source such as a candle, lantern, chandelier, or small campfire. You can also dim a light source for 1 hour, suppressing the dim light emitted by it and reducing its bright light to dim light.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": false,
+        "school": "tra",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "a small pot of paints, dyes, or pigments",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "hour"
+        },
+        "range": {
+            "value": "30",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "object"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "8GEXMY7D4YFCZ32Z"
+}

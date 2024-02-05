@@ -1,0 +1,25 @@
+{
+  "name": "Mighty Physique",
+  "type": "ability",
+  "img": "icons/magic/control/buff-strength-muscle-damage-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your carrying capacity is doubled, and you can attempt to use the Shove, Grapple, or Trip action against a target that is two sizes larger than you at disadvantage.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WZKVGY28MAZHGYMK"
+}

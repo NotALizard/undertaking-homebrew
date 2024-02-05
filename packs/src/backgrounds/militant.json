@@ -1,0 +1,21 @@
+{
+  "name": "Militant",
+  "type": "background",
+  "img": "icons/environment/people/infantry-army.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have spent impactful portions of your life around regions marked by strife. Whether you were instructed in self-defense as a youth or trained as an adult to serve in an army or guardpost, you have acquired the skills to brave the test of combat.</p>\n<hr />\n<p>Choose @Compendium[undertaking-homebrew.backgrounds-early.CQL5HS9GMYEMJ4VE]{Early} and/or @Compendium[undertaking-homebrew.backgrounds-later.HRG5607DEJM3LMRV]{Later}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "JJRNL9NJQ5HUHCSE"
+}

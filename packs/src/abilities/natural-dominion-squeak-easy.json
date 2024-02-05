@@ -1,0 +1,24 @@
+{
+  "name": "Squeak Easy",
+  "type": "ability",
+  "img": "icons/creatures/mammals/rabbit-movement-glowing-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can conduct a 1 minute long ritual to attune yourself to the local wildlife of an area, granting you the ability to converse with the nearby fauna. At the end of the ritual, one or more nearby Beasts (any area with vegetation will usually have at least one Tiny Beast such as a mouse, squirrel, or bird) approaches you and you may ask it questions about the local area. Any beasts you speak to as part of the ritual are considered @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by you for the duration. The creatures have a basic understanding of all of the following within a 1 mile radius: persistent hazards, dangerous monsters, routine humanoid activity, and unusual events that have occurred within the last 10 days. The creatures are not able to identify specific people, kinds of monsters, or iconography but they can provide simple, surface-level descriptions such as \"a huge flying lizard\" for a dragon or \"a big hairy person with horns and a red cloak\" for a minotaur cultist.<br>&nbsp;&nbsp;&nbsp;&nbsp;The ritual's effects last until you decide to end them, you move more than 30 feet from the spot where you began it, or 1 hour has passed. If one or more of the beasts affected by the ritual are harmed by you or your allies, the effects immediately end and you lose 1 @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Natural Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "J1I3ZN58X2VSQ2YJ"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Core Mandrid",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Mandrids are bipedal humanoids that, strangely enough, resemble any one of a variety of salamanders walking upright. They are slightly shorter and stockier on average than humans, and they have a tail that extends behind them by roughly their height. Like salamanders, they are fully amphibious and dwell on land as often as beneath the water. Their skin is smooth and perpetually moist to the touch, save for when they are extremely dehydrated.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Core Mandrid Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Constitution and Presence scores both increase by 1.</li><li><b>Lifespan: </b>Mandrids reach maturity around 20 years old and live 150 to 200 years on average.</li><li><b>Size: </b>Medium; Mandrid height is generally between 4 1/2 to 6 feet tall, and they weigh between 100 and 200 pounds.</li><li><b>Speed: </b>Your base walking speed is 30 feet.</li><li><b>Natural Swimmer: </b>You have a swim speed of 30 feet.</li><li><b>Amphibious: </b>@Compendium[undertaking-homebrew.abilities.FIAKA97FYXBI8RXA]{Amphibious}</li><li><b>Moist Skin: </b>@Compendium[undertaking-homebrew.abilities.OQYT9KI73HD5VRJI]{Moist Skin}</li><li><b>Languages: </b>You can speak, read, and write Common and Aquan.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LFRU13U7JVI9NQ3Y"
+}

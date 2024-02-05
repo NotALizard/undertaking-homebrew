@@ -1,0 +1,23 @@
+{
+  "name": "Elysian Lep'ix",
+  "type": "race",
+  "img": "icons/environment/creatures/bug-tick-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Elysian Lep'ix have an affinity for the realms of idyll and divine grace. Their mystical gifts harken to the splendor and providence of an ideal world. Wing patterns may include features such as breath-taking butterfly colors, stained glass-like collages, or mimicked embossment of precious metals, to name a few.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Elysian Lep'ix Traits</p><ul><li><b>Compatibility: </b>Insectoid</li><li><b>Attribute Increase: </b>Your Presence and Wisdom both increase by 1.</li><li><b>Elysian Magic: </b>@Compendium[undertaking-homebrew.abilities.4VJ2G7YQ1FMRJWEX]{Elysian Magic}</li><li><b>Omen of Fortune: </b>@Compendium[undertaking-homebrew.abilities.WSK3MYKHHGFSAXNM]{Omen of Fortune}</li><li><b>Empyrean Resistance: </b>@Compendium[undertaking-homebrew.abilities.0Z0Q6FNI3460D9OW]{Empyrean Resistance}</li><li><b>Healing Hands: </b>@Compendium[undertaking-homebrew.abilities.AHPJ6C17ALZ9WJ8G]{Healing Hands}</li><li><b>Language: </b>You can speak, read, and write Celestial.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "3742KSRAIK74QZTT"
+}

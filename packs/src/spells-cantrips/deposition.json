@@ -1,0 +1,67 @@
+{
+    "name": "Deposition",
+    "type": "spell",
+    "img": "icons/magic/water/orb-ice-glow.webp",
+    "system": {
+        "description": {
+            "value": "<p>You cause the humidity to freeze and cling to a creature within range, chilling it and making sudden bursts of movement difficult. The creature must succeed on a Constitution (Save) check or take 1d8 cold damage and lose the ability to take reactions until the start of its next turn.</p><p>&nbsp;</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li> 1 Mana: Upon failing the Constitution (Save) check, the creature&rsquo;s movement speed is halved until the end of its next turn.</li><li> 1 Mana: The cold damage is increased to 2d8.</li><li> 2 Mana: The cold damage is increased to 3d8.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": true,
+        "school": "tra",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "save",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "round"
+        },
+        "range": {
+            "value": "60",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "1d8",
+                    "cold"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "con",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": true
+    },
+    "_id": "KH6D03TEJYZNA62N"
+}

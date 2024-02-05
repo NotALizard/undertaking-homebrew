@@ -1,0 +1,25 @@
+{
+  "name": "Heavy Hitter",
+  "type": "ability",
+  "img": "icons/magic/control/buff-strength-muscle-damage-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you attack with a melee weapon that lacks the Light property, a ranged weapon that has the Heavy property, or a natural weapon, the weapon's damage die is increased by one step.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "666YST9UQN7QPICB"
+}

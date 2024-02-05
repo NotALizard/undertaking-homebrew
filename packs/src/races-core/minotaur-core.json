@@ -1,0 +1,23 @@
+{
+  "name": "Core Minotaur",
+  "type": "race",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>Minotaurs are bipedal beings reminiscent of humans, though unlike humans they have a head resembling a bull's, hooved feet, and a covering of short, bovine fur. Minotaur fur generally comes in shades of brown, white, black, or a mixture of those colors. Regardless of whether they are male or female, the head of a minotaur is adorned with a formidable pair of bull-like horns. Their bodies also tend to have a larger build than humans, with the average minotaur sharing a height with some of the tallest humans.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Core Minotaur Traits</p><ul><li><b>Compatibility: </b>Bestial</li><li><b>Attribute Increase: </b>Your Strength and Constitution scores both increase by 1.</li><li><b>Lifespan: </b>Minotaurs reach adulthood in their mid-teens and few live past 80 years of age.</li><li><b>Size: </b>Medium; Minotaur height generally ranges from 5 and a half to 7 feet tall, and their weight ranges from below 150 lbs. to 275 lbs. or more.</li><li><b>Speed: </b>Your base walking speed is 30 feet.</li><li><b>Horns: </b>@Compendium[undertaking-homebrew.abilities.KE1XK9SLI0D93UHX]{Horns (Minotaur)}</li><li><b>Bull Rush: </b>@Compendium[undertaking-homebrew.abilities.LGWWYVXE4UCUIR9I]{Bull Rush}</li><li><b>Trailblazer: </b>@Compendium[undertaking-homebrew.abilities.HL7IFX1LMPKKB7LJ]{Trailblazer}</li><li><b>Bestial Creature: </b>@Compendium[undertaking.abilities.A69S7OIOQPX7A5GA]{Bestial Creature}</li><li><b>Languages: </b>You can speak, read, and write Common and Landspeak.</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "K5ER3882YONF2SAT"
+}

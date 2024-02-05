@@ -1,0 +1,25 @@
+{
+  "name": "Sublime Descent",
+  "type": "ability",
+  "img": "icons/magic/light/projectiles-star-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>Creatures of your choice within 10 feet of you have resistance to damage caused by falling.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ATC9IW4AOMA74635"
+}

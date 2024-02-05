@@ -1,0 +1,25 @@
+{
+  "name": "Natural Regeneration",
+  "type": "ability",
+  "img": "icons/magic/life/heart-shadow-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>If you lose an eye or appendage, it grows back over the course of 7 days. Whenever you spend a rest die to regain hit points, you can regain extra hit points on a low roll, as detailed below:</p><ul><li>D4 rest die: When you roll a 2 or lower on the die, add 2 to the total.</li><li>D6 rest die: When you roll a 3 or lower on the die, add 3 to the total.</li><li>D8 rest die: When you roll a 4 or lower on the die, add 4 to the total.</li><li>D10 rest die: When you roll a 5 or lower on the die, add 5 to the total.</li><li>D12 rest die: When you roll a 6 or lower on the die, add 6 to the total.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NZF69C583MKEQ0PB"
+}

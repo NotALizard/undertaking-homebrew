@@ -1,0 +1,22 @@
+{
+  "name": "Early Aristocrat",
+  "type": "background",
+  "img": "icons/commodities/treasure/broach-crown-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>Whether you were born to high society or merely appointed to it later in life, you have learned and internalized the customs and manners of the who's-who. Though entreating with other figures of influence can be an exhausting ordeal at times, it's certainly not without its perks.</p>\n<hr />\n<p><strong>Skill Proficiency:</strong> Pick one of the following: Culture, Deception, Insight, Intimidation, Perform, Persuasion.</p>\n<p><strong>Other Proficiency:</strong> Pick one of the following:<ul><li>You are proficient in one of the following trades: Art, Entertainment (Singing, Dance, or Musical Instrument), or Subterfuge (Forgery)</li><li>You can speak, read, and write one additional language of your choice.</li></ul></p>\n<p><strong>Background Feature:</strong> @Compendium[undertaking-homebrew.abilities.2BWN854LL0WQ39J3]{Institutional Sway}</p>\n<p><strong>Equipment: </strong>A signet ring and one of the following: a paint kit, forgery kit, or musical instrument.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "early"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "GWOPIKU2B4T2KLRQ"
+}

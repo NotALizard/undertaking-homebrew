@@ -1,0 +1,24 @@
+{
+  "name": "Covetous Defiance",
+  "type": "ability",
+  "img": "icons/equipment/chest/breastplate-layered-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>You know to keep your friends close, your enemies closer, and your hoard closest of all. You gain a bonus to your maximum hit points based on the magic items you are attuned to at any given moment. The bonus for each item is determined by its rarity, as follows:</p><ul><li>Common: +1 maximum hit points.</li><li>Uncommon: +3 maximum hit points.</li><li>Rare: +5 maximum hit points.</li><li>Very Rare: +7 maximum hit points.</li><li>Legendary: +10 maximum hit points.</li><li>Artifact: +10 maximum hit points, and your maximum rest dice for Cleric increases by 1.</li></ul><p>Additionally, while you have all of your attunement slots filled you also gain a +1 bonus to all save checks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Dragon Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "D1GJLP59RK0A613P"
+}

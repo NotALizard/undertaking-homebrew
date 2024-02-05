@@ -1,0 +1,24 @@
+{
+  "name": "Nature Provides",
+  "type": "ability",
+  "img": "icons/environment/wilderness/tree-spruce-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with either the Botany, Fishing, or Pathfinding Trade.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "7YFK8JVWZMT9FTKS"
+}

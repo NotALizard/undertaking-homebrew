@@ -1,0 +1,25 @@
+{
+  "name": "Inject Venom",
+  "type": "ability",
+  "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you hit a creature with your bite, you can choose to deal an additional 2d4 poison damage. Once you use this ability, you can't use it again until you finish a rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "PT5XC6EU86D58ODI"
+}

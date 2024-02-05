@@ -1,0 +1,24 @@
+{
+  "name": "Fearsome Presence",
+  "type": "ability",
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You exude the awe and power of the dragons. You gain proficiency in Presence (Intimidation) if you were not already proficient in it, and you can speak, read, and write Draconic.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "BP376DKTF70JKEHV"
+}

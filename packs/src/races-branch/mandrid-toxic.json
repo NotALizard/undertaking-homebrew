@@ -1,0 +1,23 @@
+{
+  "name": "Toxic Mandrid",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Toxic Mandrids' appearance can vary significantly, but they always sport bright warning color patterns on their skin, a warning of the toxins stored within. They are well adapted to living in lakes, swamps, and jungles - just about anywhere with ample moisture will do, as their latent toxins tend to make would-be predators think twice.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Toxic Mandrid Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Constitution score increases by 1.</li><li><b>Sluggish Step: </b>Your walking and swim speed both decrease by 5 feet.</li><li><b>Resist Toxins: </b>@Compendium[undertaking-homebrew.abilities.2PRN9S8X7YFBJP10]{Resist Toxins}</li><li><b>Crushing Bite: </b>@Compendium[undertaking-homebrew.abilities.XTBTJVESG8QZXIDM]{Crushing Bite}</li><li><b>Inject Venom: </b>@Compendium[undertaking-homebrew.abilities.PT5XC6EU86D58ODI]{Inject Venom}</li><li><b>Secrete Toxin: </b>@Compendium[undertaking-homebrew.abilities.EZ51QFJQ8CC1P3GQ]{Secrete Toxin}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "AYPE0HZ9W2EQYW0Q"
+}

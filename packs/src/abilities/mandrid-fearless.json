@@ -1,0 +1,25 @@
+{
+  "name": "Fearless",
+  "type": "ability",
+  "img": "icons/magic/control/fear-fright-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on saving throws made to resist being @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened}.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "NG4N84ST7ES1J9IE"
+}

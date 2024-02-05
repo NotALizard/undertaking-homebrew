@@ -1,0 +1,24 @@
+{
+  "name": "Commiseration",
+  "type": "ability",
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are obsessed with the schemes and passions which rule the mind of man. You gain proficiency in Wisdom (Insight).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "M7ONN7XQ5CD8VK24"
+}

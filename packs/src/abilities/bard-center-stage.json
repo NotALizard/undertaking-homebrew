@@ -1,0 +1,24 @@
+{
+  "name": "Center Stage",
+  "type": "ability",
+  "img": "icons/magic/light/beam-strike-village-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can spend 2 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points to conjure a 15ft radius, 60ft tall cylinder of bright light centered on a point you can see that lasts for 1 minute. While a creature is inside the light, it is @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} if it is an ally to you or @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} if it is hostile to you. Until the ability ends, you can use either your action or 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point and a minor action to move the cylinder of light to another point you can see within 60 ft of you.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "adept"
+    },
+    "requirements": "6th level overall and 3rd level Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "0U3IYHVQDRO4RJXM"
+}

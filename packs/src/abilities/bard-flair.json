@@ -1,0 +1,24 @@
+{
+  "name": "Flair",
+  "type": "ability",
+  "img": "icons/magic/light/hand-sparks-smoke-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a Bard, you can draw upon the attention and creative imagination of others to sculpt and add style to the progression of events, be they fictional or real. This potential is represented by your @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points, which you can use to fuel various Bard abilities. Generally, this will involve applying the @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} or @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} conditions to a creature.<br>&nbsp;&nbsp;&nbsp;&nbsp;Your maximum @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points is 2. The maximum increases for every odd-numbered Bard level gained, starting at Bard level 3.  For example, at Bard level 8, you can hold a maximum of 5 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points. If you would gain a @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point while already at your maximum you become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} for 10 minutes instead.<br>&nbsp;&nbsp;&nbsp;&nbsp;You regain all spent @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points when you finish a long rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "ZVH8L715PTWTQLSE"
+}

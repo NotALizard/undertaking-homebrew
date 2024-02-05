@@ -1,0 +1,24 @@
+{
+  "name": "Mantra: Sower of Seasons",
+  "type": "ability",
+  "img": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock:</em> When you have the ability Mantras you may take the ability below</p><p>When you learn this ability, the following Mantras are added to your list of available Mantras to learn, and you can swap up to two of the Mantras you currently know.</p><p>When you learn these Mantras, you may assign them to <strong>any</strong> of your Eikonic numbers. If you have multiple Eikonic Numbers, you can choose to learn each of these Mantras again in order to assign it to another Eikonic Number it is not already assigned to.</p><p>Additionally, wherever you finish a long rest, you can pick one Mantra from this list that is not already assigned to your <strong>Nature Number</strong> and assign it for free. This assignment lasts until your next long rest.</p><ul><li><strong>Spring&rsquo;s Sprawl:</strong> Thorny bushes with flowers or berries appear in a 10ft by 10ft square centered on a point you can see within 30ft of you. Any creature that enters a space with a thorn bush takes 1d4 piercing damage. Flowers produced by the bushes are fragrant, and the berries are sweet but not nutritious or filling. Thorns in a space are destroyed automatically when attacked or if the space is subjected to any fire damage.</li><li><strong>Summer&rsquo;s Glow:</strong> A swarm of fireflies appear in a space you can see (ignoring any obscuration provided by darkness) within 30ft of you and shed dim light in a 5ft radius. The fireflies scatter after 1 minute.</li><li><strong>Autumn&rsquo;s Canvas:</strong> A 5ft tall juvenile tree adorned with autumn leaves emerges in an unoccupied space you can see within 30ft of you. Creatures can move through the tree&rsquo;s space normally. The tree is too weak to support anything larger than a Tiny creature attempting to climb it, but it can provide Half Cover to Medium or smaller creatures obscured by it. At the end of your next turn, all of the leaves fall from the tree and it is no longer suitable for use as cover.</li><li><strong>Winter&rsquo;s Blanket: </strong>A 15ft by 15ft square within 30ft of you is blanketed with snow and becomes difficult terrain. The snow melts at the end of your next turn or when its space is subjected to any fire damage.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Natural Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "ES1J6R9RFQJ33HVU"
+}

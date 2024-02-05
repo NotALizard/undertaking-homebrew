@@ -1,0 +1,23 @@
+{
+  "name": "Hydrothermal Mandrid",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Hydrothermal Mandrids most closely resemble fire salamanders, though perhaps taken to a new extreme. These Mandrid are adapted to thrive amongst the volcanic vents in the ocean's depths and have an innate affinity for the extreme heat and chill found there. Their bodies have the color and smoothness of cooled lava, with bright spots of red, orange, or yellow that are warm to the touch and slowly shift in hue, shape, and position in a manner reminiscent of a lava lamp. When a Hydrothermal Mandrid channels magics that are fiery or chilling in nature, the intensity of color and motion for these vibrant spots will increase or decrease in response as the thermal repercussions of these elemental energies reverberate through its body.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Hydrothermal Mandrid Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Intelligence, Wisdom, or Presence score increases by 1.</li><li><b>Extremophile: </b>@Compendium[undertaking-homebrew.abilities.ZSFV2WOU1HUP17KZ]{Extremophile}</li><li><b>Deep Ocean Adaptation: </b>@Compendium[undertaking-homebrew.abilities.Z8LMDPJW67U417SF]{Deep Ocean Adaptation}</li><li><b>Heat Transfer: </b>@Compendium[undertaking-homebrew.abilities.LSXJQMNO1E738IQC]{Heat Transfer}</li><li><b>Elemental Equilibrium: </b>@Compendium[undertaking-homebrew.abilities.614UPFMARNM1ROVC]{Elemental Equilibrium}</li><li><b>Darkvision 30ft: </b>@Compendium[undertaking.abilities.K2R4176S4B99TO6R]{Darkvision 30ft}</li><li><b>Sunlight Sensitivity: </b>@Compendium[undertaking.abilities.0YK75ZQYDRVHEP50]{Sunlight Sensitivity}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "PP9LCJTN1A4RY8Q3"
+}

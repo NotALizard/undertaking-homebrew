@@ -1,0 +1,24 @@
+{
+  "name": "Role Reversal",
+  "type": "ability",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a minor action you can spend 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&amp;#x2728; Flair}&nbsp;point to target a creature within 30ft of you that you can see with one of the following effects:</p><p>&nbsp;</p><p><strong>Glorify: </strong>The target becomes @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&amp;#x1F981; Lionized}&nbsp;for 10 minutes.</p><p><br /><strong>Vilify:</strong> The target becomes @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&amp;#x1F9FF; Villainized}&nbsp;for 1 minute.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "018XFM2VDH6HIHL0"
+}

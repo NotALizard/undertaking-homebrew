@@ -1,0 +1,25 @@
+{
+  "name": "Chthonic Magic",
+  "type": "ability",
+  "img": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>You know the @Compendium[undertaking-homebrew.spells-cantrips.Q31B0A3FNPWP10MQ]{Prying Whispers} cantrip. When you reach 3rd level, you can cast the @Compendium[undertaking.spells-level-1.DR1S6TA7ZZHXVKVY]{Menacing Visage} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the @Compendium[undertaking.spells-level-2.A0XHQ6VS7PDGN9FJ]{Cloak} spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Presence is your spellcasting attribute for it (chosen when you select this race).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "T8FJEIROS5Z5B8TH"
+}

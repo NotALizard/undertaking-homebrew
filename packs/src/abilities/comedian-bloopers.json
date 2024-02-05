@@ -1,0 +1,24 @@
+{
+  "name": "Bloopers",
+  "type": "ability",
+  "img": "icons/magic/time/arrows-circling-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you witness a creature within 30 feet of you that is @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} fail an attack roll or check, you can use your reaction to make it roll again. On a success, it succeeds in its goal thanks to sheer luck, an improbable coincidence, or some other comically convoluted means.<br>&nbsp;&nbsp;&nbsp;&nbsp;Once you cause a creature to succeed using this feature, you can't use it again until you finish a rest or unless you spend a @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point as part of the reaction. The @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point is refunded if the creature fails the reroll.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "YNYRG1OSHNZ1HDC1"
+}

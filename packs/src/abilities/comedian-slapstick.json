@@ -1,0 +1,24 @@
+{
+  "name": "Slapstick",
+  "type": "ability",
+  "img": "icons/commodities/wood/furniture-stool-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>Any time you would make a melee weapon attack, you can replace it with an attempt to <strong>Shove</strong> or <strong>Trip</strong> a target, not just when taking the Attack action. While you have a free hand, you can use your minor action to <strong>Shove</strong> or <strong>Trip</strong> a creature. Creatures you successfully <strong>Trip</strong> take 1d6 bludgeoning damage when they hit the ground.<br>&nbsp;&nbsp;&nbsp;&nbsp;Finally, when you are initiating or resisting an attempt to <strong>Shove</strong> or <strong>Trip</strong>, you can make a Presence (Perform) check in place of the normal check.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "OS4PU32OTOKG859U"
+}

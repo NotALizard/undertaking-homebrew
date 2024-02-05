@@ -1,0 +1,62 @@
+{
+    "name": "Cojoin Familiar",
+    "type": "spell",
+    "img": "icons/creatures/mammals/cat-hunched-glowing-red.webp",
+    "system": {
+        "description": {
+            "value": "<p>You forge a bond with a lesser spirit from beyond the material plane, entwining its essence with your very soul. The familiar appears in an unoccupied space within 5 feet of you, taking the form of an animal that uses the statistics of an <em>Attack Dog, Cat, Crow, Eel, Frog, Homing Bird, Lizard, Pig, Serpent, </em>or <em>Tarantula,</em> except that its creature type is Celestial, Fey, or Fiend and it does not have its own hit points.&nbsp;</p><p>Whenever your familiar would take damage, you must instead subtract the total (after modifiers like any resistances the familiar has) from your own hit points. If both you and your familiar are caught in the same hostile area of effect, your familiar is immune to the effect but you suffer disadvantage on any save checks to resist the effect made during the current turn. If you are reduced to zero hit points, your familiar is instantly banished to a pocket dimension.</p><p>In combat, you control your familiar and it acts on your turn. Its action can only be used to take the <strong>Dash</strong>, <strong>Disengage</strong>, <strong>Hide</strong>, or <strong>Self-Defense</strong> actions, unless you use your minor action to command it to take a different action, for example, the <strong>Attack</strong> action. The familiar cannot take <strong>Desperate Actions</strong>. As a minor action, you can banish your familiar to a pocket dimension or summon your banished familiar to an unoccupied space within 5 feet of you. The familiar is @Compendium[undertaking.conditions.3CQC3JEY2C3Y721F]{Incapacitated} and does not need to breathe while it is inside the pocket dimension. Finally, whenever you cast a spell with a range of Touch, you can choose to target creatures as if you were in your familiar&rsquo;s space, but your familiar must be within 100 feet of you and doing so consumes its reaction.</p><p>While your familiar is within 100 feet of you, you can also use your minor action to peer through its eyes for the rest of the turn, becoming @Compendium[undertaking.conditions.ADW4EH0NKRDCRCA4]{Blinded} and @Compendium[undertaking.conditions.WK17M9FZR08DRUP1]{Deafened} to your own surroundings for the duration but gaining all senses your familiar has. If you die, your familiar is released from its bond.</p><p>You can only have one familiar at a time. If you cast this spell when you already have a familiar, you can choose to replace its form with one from the list above. If you decide to get rid of your familiar, you can permanently dismiss it as an action, ending the spell.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": false,
+        "school": "con",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": true,
+            "ritual": true,
+            "concentration": false
+        },
+        "materials": {
+            "value": "crystals, herbs, and oils worth 10gp, which the spell consumes",
+            "consumed": true,
+            "cost": "10",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "hour",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "",
+            "units": "indef"
+        },
+        "range": {
+            "value": "5",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "TT94JMKOUYP2WM96"
+}

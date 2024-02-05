@@ -1,0 +1,24 @@
+{
+  "name": "Self-Insert",
+  "type": "ability",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p>You're no stranger to physical forms of comedy, and know how best to play up a tumble to elicit concerned gasps and relieved laughs from your audience and even yourself, manifesting this internal comedic logic to shield you from the worst of it. Whenever you use a desperate action <b>Saving a Target</b> to comically get in the way of the attack, you have resistance to the attack's damage.<br>&nbsp;&nbsp;&nbsp;&nbsp;If the damage you suffer (after any reductions) equal or exceeds your character level, gain a @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "7RD3VKTZ5NAWVBRS"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Song of Adventure",
+    "type": "spell",
+    "img": "icons/magic/nature/instrument-recorder-leaves.webp",
+    "system": {
+        "description": {
+            "value": "<p>You produce a short melody, which continues on its own and builds to fill the space around you with energizing music. The music instills creatures of your choice that can hear you with a sense of expeditiousness, granting them an additional 15 feet of movement the first time they are within 30 feet of you each turn.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": false,
+        "school": "enc",
+        "components": {
+            "somatic": false,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "a musical instrument worth at least 1cp",
+            "consumed": false,
+            "cost": "1",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "10",
+            "units": "minute"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "self"
+        },
+        "target": {
+            "value": "30",
+            "width": null,
+            "units": "ft",
+            "type": "sphere"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "UP6CZCZNLFNH0ACB"
+}

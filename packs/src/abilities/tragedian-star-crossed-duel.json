@@ -1,0 +1,24 @@
+{
+  "name": "Star-Crossed Duel",
+  "type": "ability",
+  "img": "icons/skills/melee/weapons-crossed-swords-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can sense when it's time for a duel to take a fatal turn. Whenever a @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} creature you can see within 60ft of you is hit with a weapon attack by a @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} creature, you can use your reaction to spend 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point and cause the creature to suffer additional damage equal to your Presence modifier plus two rolls of the @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} bonus die.<br>&nbsp;&nbsp;&nbsp;&nbsp;If you activate this ability as a desperate action, it only requires the attacker to be @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} or the target to be @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized}, not both, and the bonus damage increases by an additional die.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "PDP9D8MMKDY2DZSL"
+}

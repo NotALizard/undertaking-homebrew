@@ -1,0 +1,180 @@
+{
+    "id": "undertaking-homebrew",
+    "name": "undertaking-homebrew",
+    "title": "Grant Undertaking Homebrew",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "minimumCoreVersion": "11.0.0",
+    "packFolders": [
+        {
+          "name": "Classes",
+          "sorting": "m",
+          "packs": [
+            "classes"
+          ],
+          "folders": [
+            {
+              "name": "Sub-classes",
+              "sorting": "m",
+              "packs": [
+                "archetypes-bard",
+                "archetypes-cleric"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Races",
+          "sorting": "m",
+          "packs": [
+            "races-core",
+            "races-branch"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Backgrounds",
+          "sorting": "m",
+          "packs": [
+            "backgrounds"
+          ],
+          "folders": [
+            {
+              "name": "Background Features",
+              "sorting": "m",
+              "packs": [
+                "backgrounds-early",
+                "backgrounds-later"
+              ]
+            }
+          ]
+        },
+        {
+            "name": "Spells",
+            "sorting": "m",
+            "packs": [
+              "spells-cantrips",
+              "spells-level-1"
+            ],
+            "folders": []
+          },
+        {
+          "name": "Abilities",
+          "sorting": "m",
+          "packs": [
+            "abilities"
+          ]
+        },
+        {
+          "name": "Rules",
+          "sorting": "m",
+          "packs": [],
+          "folders": [
+            {
+              "name": "References",
+              "sorting": "m",
+              "packs": [
+                "conditions"
+              ]
+            }
+          ]
+        }
+      ],
+    "packs": [
+        {
+          "name": "classes",
+          "label": "Classes (Grant Homebrew)",
+          "path": "./packs/classes.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
+          "name": "archetypes-bard",
+          "label": "Bard: Bardic Archetypes (Grant Homebrew)",
+          "path": "./packs/archetypes-bard.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
+          "name": "archetypes-cleric",
+          "label": "Cleric: Divine Dominions (Grant Homebrew)",
+          "path": "./packs/archetypes-cleric.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
+            "name": "races-core",
+            "label": "Core Races (Grant Homebrew)",
+            "path": "./packs/races-core.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+        },
+        {
+            "name": "races-branch",
+            "label": "Branch Races (Grant Homebrew)",
+            "path": "./packs/races-branch.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+        },
+        {
+          "name": "backgrounds",
+          "label": "Backgrounds (Grant Homebrew)",
+          "system": "undertaking",
+          "path": "./packs/backgrounds.db",
+          "entity": "Item",
+          "type": "Item"
+        },
+        {
+          "name": "backgrounds-early",
+          "label": "Early Backgrounds (Grant Homebrew)",
+          "system": "undertaking",
+          "path": "./packs/backgrounds-early.db",
+          "entity": "Item",
+          "type": "Item"
+        },
+        {
+          "name": "backgrounds-later",
+          "label": "Later Backgrounds (Grant Homebrew)",
+          "system": "undertaking",
+          "path": "./packs/backgrounds-later.db",
+          "entity": "Item",
+          "type": "Item"
+        },
+        {
+            "name": "abilities",
+            "label": "Abilities (Grant Homebrew)",
+            "path": "./packs/abilities.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+        },
+        {
+            "name": "spells-cantrips",
+            "label": "Cantrips (Grant Homebrew)",
+            "path": "packs/spells-cantrips.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+          },
+          {
+            "name": "spells-level-1",
+            "label": "1st Level Spells (Grant Homebrew)",
+            "path": "packs/spells-level-1.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+          },
+          {
+            "name": "conditions",
+            "label": "Conditions (Grant Homebrew)",
+            "path": "packs/conditions.db",
+            "type": "JournalEntry",
+            "system": "undertaking"
+          }
+    ]
+  }

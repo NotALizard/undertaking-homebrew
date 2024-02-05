@@ -1,0 +1,24 @@
+{
+  "name": "Theme: Levity",
+  "type": "ability",
+  "img": "icons/magic/control/mouth-smile-deception-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your art is fueled by the levity that comes with bewilderment, peculiarity, and irony. Whenever a creature that you can see within 60ft of you rolls a natural 1 on an attack roll or skill check, gain 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point.<br>&nbsp;&nbsp;&nbsp;&nbsp;You can only benefit from one Theme ability at a time. If you have multiple Theme abilities, you can change which one is active when you finish a rest and any time you spend a @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point on an ability.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "XS4831HQBSH7W2M4"
+}

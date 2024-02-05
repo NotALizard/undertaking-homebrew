@@ -1,0 +1,25 @@
+{
+  "name": "Cryptic Essence",
+  "type": "ability",
+  "img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have advantage on save checks against spells that can only target humanoids.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LH7JHOI6Q9N5ES88"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Elemental Equilibrium",
+  "type": "ability",
+  "img": "icons/skills/social/trading-justice-scale-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>After you cast a spell that deals cold or fire damage, you gain the condition <strong>Cold Attuned</strong> or <strong>Fire Attuned</strong> respectively, which are detailed below:</p><ul><li>Cold Attuned: When you cast a spell that deals cold damage, you and one target damaged by the spell before it ends suffer 1d4 cold damage. This condition ends after 1 minute or when you cast a spell that deals fire damage.</li><li><strong>Fire Attuned:</strong> When you cast a spell that deals fire damage, you and one target damaged by the spell before it ends suffer 1d4 fire damage. This condition ends after 1 minute or when you cast a spell that deals cold damage.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "614UPFMARNM1ROVC"
+}

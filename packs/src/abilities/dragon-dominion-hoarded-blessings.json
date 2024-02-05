@@ -1,0 +1,24 @@
+{
+  "name": "Hoarded Blessings",
+  "type": "ability",
+  "img": "icons/commodities/currency/coin-engraved-tail-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>To better emulate the might of dragons, you have made a practice of collecting portions of the power that flows through you, sequestering them within your very being until the time is right to make a demonstration.<br />&nbsp;&nbsp;&nbsp;&nbsp;You have a <strong>Spiritual Hoard</strong>, which resets to 0 whenever you finish a long rest. Before applying the effects of a roll to determine healing given to a creature or damage dealt to a genuine adversary, you can choose to hoard a single rolled die. Add that die&rsquo;s result to your Spiritual Hoard, and then set the die to a 1. The affected die does not count towards effects that trigger upon rolling one or more of a specific number, such as Eikonic Numbers or Miracles.<br />&nbsp;&nbsp;&nbsp;&nbsp;While the total of your Spiritual Hoard equals or exceeds 25, you can subtract 25 from it to trigger a Miracle as a non-action on your turn.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Dragon Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "JKVO726WWVKAVE2W"
+}

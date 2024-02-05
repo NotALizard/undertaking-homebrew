@@ -1,0 +1,25 @@
+{
+  "name": "Crushing Bite",
+  "type": "ability",
+  "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your powerful jaws function as a natural weapon that deals bludgeoning damage equal to 1d6 plus your Strength modifier on a hit. You are proficient with your jaws, but they do not grant any extra attacks, actions, or minor actions on their own.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "XTBTJVESG8QZXIDM"
+}

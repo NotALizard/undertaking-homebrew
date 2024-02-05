@@ -1,0 +1,24 @@
+{
+  "name": "Miracles of Draconic Transubstantiation",
+  "type": "ability",
+  "img": "icons/creatures/abilities/dragon-ice-breath-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall you may take the ability below</p><p>In the moments when your faith comes into complete clarity, you find the will to temporarily transcend the limits of your physical form, reshaping it to embody one or more traits associated with dragons of your affinity.</p><p>The <strong>Transformation Miracles</strong> below are added to your pool of Miracle options. Each of these miracles lasts until you finish a long rest, and the number of Transformation Miracles you can have active at once cannot exceed your Proficiency Bonus. Some of the miracles can be activated a second time in order to upgrade its effects. Transformation Miracles upgraded in this way count as two active Transformation Miracles. If you activate a Transformation Miracle while you are at the limit, you must choose another active one to downgrade or end.</p><ul><li><strong>Armatura Draconis: </strong>Your skin is covered with dragon scales. Your AC can&rsquo;t be less than 16, regardless of what armor you&rsquo;re wearing, and you gain resistance to the damage type of your Elemental Affinity.&nbsp;<ul><li>Activating this miracle again grants immunity to the damage type of your Elemental Affinity.</li></ul></li></ul><ul><li><strong>Irae Draconis:</strong> You sprout a set of claws on each of your hands and a formidable dragon tail. The claws are natural weapons with a damage die of 1d6 slashing damage and have the Finesse and Light properties. The tail is a natural weapon with a damage die of 2d6 bludgeoning damage and Reach property, and while you are Medium or larger it also gains the Heavy property.<ul><li>Activating this Miracle again gives you the following ability: As a Minor Action, you can make a tail attack.</li></ul></li></ul><ul><li><strong>Potentia Draconis:</strong> Ridges emerge from your back as your stature bulks and lengthens. Your size increases by one category, unless you are already Large or bigger, and you have advantage on Strength checks. Your equipment grows with you so long as it is on your person.&nbsp;<ul><li>Activating this Miracle again grants an additional 5 feet of reach to all of your melee attacks and spells with a range of Touch.</li></ul></li></ul><ul><li><strong>Spiritus Draconis:</strong> Your head morphs to resemble that of a dragon, granting you the following ability: As an Action, you can spend 1 @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die and exhale destructive power. Each creature in a 15 ft cone originating from you must succeed on a Dexterity (Save) check versus your Cleric Spell Save DC or take 3d6 damage in the damage type of your Elemental Affinity. On a successful save, a creature takes half damage.<ul><li>Activating this miracle again increases the ability&rsquo;s damage to 4d6 and the size of the cone to 20ft.</li></ul></li></ul><ul><li><strong>Volatus Draconis: </strong>You manifest a pair of dragon&rsquo;s wings, granting you a flying speed equal to your walking speed.&nbsp;<ul><li>Activating this Miracle again gives you the following ability: Until the miracle ends you can beat your wings as an Action and attempt to shove every creature that is within 5 feet of you. Creatures that fail are pushed an additional 5 feet and take 1d6 bludgeoning damage.</li></ul></li></ul><p>&nbsp;</p><p>&nbsp;</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Dragon Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "DF3V1QA5MH23X8LZ"
+}

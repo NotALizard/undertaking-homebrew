@@ -1,0 +1,25 @@
+{
+  "name": "Baleful Resistance",
+  "type": "ability",
+  "img": "icons/magic/death/undead-ghosts-trio-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have resistance to necrotic damage.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "U2LZOAWTN9HEYR6F"
+}

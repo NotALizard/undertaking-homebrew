@@ -1,0 +1,22 @@
+{
+  "name": "Later Militant",
+  "type": "background",
+  "img": "icons/environment/people/infantry-army.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have spent impactful portions of your life around regions marked by strife. Whether you were instructed in self-defense as a youth or trained as an adult to serve in an army or guardpost, you have acquired the skills to brave the test of combat.</p>\n<hr />\n<p><strong>Skill Proficiency:</strong> Pick one of the following: Athletics, Instinct, Intimidation, Medicine, Perception.</p>\n<p><strong>Weapon Proficiency:</strong> Pick two simple weapons or one martial weapon.</p>\n<p><strong>Equipment: </strong>Travel clothes, a simple weapon, a bedroll, a tent, a mess set and 5 days of rations.</p>\n<p><strong>Coinage:</strong> 2d6 gp</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "later"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "HRG5607DEJM3LMRV"
+}

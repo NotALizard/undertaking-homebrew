@@ -1,0 +1,24 @@
+{
+  "name": "Theme: Mortality",
+  "type": "ability",
+  "img": "icons/magic/death/gallows-hanged-humanoid.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your art is fueled by the pathos that comes with seeing even the mightiest champions brought low by doubt and ill fate. Whenever a creature you can see within 60ft of you is hit by a natural 20 on an attack roll, rolls a natural 1 on a save check, or when one of your allies fails a death throw, gain 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point.<br>&nbsp;&nbsp;&nbsp;&nbsp;You can only benefit from one Theme ability at a time. If you have multiple Theme abilities, you can change which one is active when you finish a short or long rest and any time you spend a @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} point on an ability.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "4A26NHYUBD8OXCX5"
+}

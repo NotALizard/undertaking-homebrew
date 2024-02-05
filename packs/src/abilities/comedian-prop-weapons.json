@@ -1,0 +1,24 @@
+{
+  "name": "Prop Weapons",
+  "type": "ability",
+  "img": "icons/tools/cooking/fork-steel-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your unexpected and exaggerated style of combat often catches opponents off guard. You are proficient with improvised weapons. Whenever you make an improvised weapon attack, you can use your Presence modifier in place of Strength or Dexterity for the attack and damage roll. When determining the damage of an improvised weapon, you can use 1d6 in place of its normal damage die, or 1d8 if you hold the object with two hands. If an improvised weapon you are wielding breaks as a result of hitting a creature, the attack deals an additional 1d4 damage.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "TJ4VKZYFH31W9X3V"
+}

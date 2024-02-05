@@ -1,0 +1,24 @@
+{
+  "name": "Rogues' Gallery",
+  "type": "ability",
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>Everyone loves a good villain, and you've got no shortage of them. When a @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} creature within 60ft of you is reduced to 0 hit points or killed, you can use your reaction to make another creature you can see within 60ft of you @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} for 1 minute. <br>&nbsp;&nbsp;&nbsp;&nbsp;If you don't take this reaction, then you do not need to have or spend any @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{&#x2728; Flair} points the first time you use the @Compendium[undertaking-homebrew.abilities.018XFM2VDH6HIHL0]{Vilify} minor action within the next minute.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "novice"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "O9XP2FKIHU39PPPC"
+}

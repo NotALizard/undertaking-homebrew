@@ -1,0 +1,24 @@
+{
+  "name": "Number of the Dragon",
+  "type": "ability",
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your Eikonic Number for the Dragon Dominion, known as your Number of the Dragon, is 16.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "T15IEHRWISA9JGIO"
+}

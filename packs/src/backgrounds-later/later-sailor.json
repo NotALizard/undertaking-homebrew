@@ -1,0 +1,22 @@
+{
+  "name": "Later Sailor",
+  "type": "background",
+  "img": "icons/environment/settlement/ship.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have dwelled near the salt and spray of the great blue sea. In this time, you learned your way around ropes and rigging, and likely got to try your hand at a tiller, sail, or perhaps even a ship's wheel. The tough work you've endured and seafaring knack you've acquired sets you apart from the uninitiated lubbers and gives you an instant rapport with other sailors.</p>\n<hr />\n<p><strong>Skill Proficiency:</strong> Pick one of the following: Acrobatics, Athletics, Instinct, Intimidation, or Perception.</p>\n<p><strong>Trade Proficiency:</strong> Pick one of the following: Cooking, Pathfinding, Vehicles (Sea), Artisan (Cartography), Artisan (Carpentry), or Fishing.</p>\n<p><strong>Equipment: </strong>Travel clothes, a hammock (50ft of hempen rope and a Blanket), and one of the following: a cooking kit, pathfinding kit, a carpentry kit, fishing kit, or a rowboat (a vehicle) with two oars (quarterstaves) that is dry docked at a coastal town you've visited.</p>\n<p><strong>Coinage:</strong> 2d4 gp</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "later"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "78RRM3K69OFNVN6H"
+}

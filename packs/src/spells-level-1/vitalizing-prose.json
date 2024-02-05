@@ -1,0 +1,67 @@
+{
+    "name": "Vitalizing Prose",
+    "type": "spell",
+    "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your words stir heroism in a creature and staunch its wounds. One creature within range that can hear you (though it need not understand you) regains hit points equal to 1d4 + your spellcasting modifier. This spell has no effect on a creature that is @Compendium[undertaking.conditions.9KB959MRZ0H4IT4C]{Unconscious} or @Compendium[undertaking.conditions.WK17M9FZR08DRUP1]{Deafened}.</p><p>Desperate: When you cast this spell as a desperate action, it gains the ability to affect creatures that were knocked @Compendium[undertaking.conditions.9KB959MRZ0H4IT4C]{Unconscious} if used during the turn they fell unconscious. This healing does not prevent the creature from falling @Compendium[undertaking.conditions.RK3DF56CKMQUV6DM]{Prone}. In addition, the target also gains 1d4 temporary hit points.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: The hit points restored increases to 2d4 + your spellcasting modifier.</li><li>2 Mana: Target an additional creature within range.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "evo",
+        "components": {
+            "somatic": false,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "heal",
+        "activation": {
+            "type": "minor",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "",
+            "units": "inst"
+        },
+        "range": {
+            "value": "60",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "1d4+@mod",
+                    "healing"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "SJOC3K184JG3G1IC"
+}

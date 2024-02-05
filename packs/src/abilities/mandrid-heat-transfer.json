@@ -1,0 +1,25 @@
+{
+  "name": "Heat Transfer",
+  "type": "ability",
+  "img": "icons/magic/earth/lava-explosion-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>You know the @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} and @Compendium[undertaking-homebrew.spells-cantrips.KH6D03TEJYZNA62N]{Deposition} cantrips. Your spellcasting ability for them is Intelligence, Wisdom, or Presence, chosen when you select this race. The material components for Adherent Ember are replaced with volcanic rocks (consumed by the spell) which the spell heats to near molten.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "LSXJQMNO1E738IQC"
+}

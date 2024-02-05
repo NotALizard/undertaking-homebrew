@@ -1,0 +1,24 @@
+{
+  "name": "Blood-Soaked Hands",
+  "type": "ability",
+  "img": "icons/skills/toxins/poison-bottle-open-blood-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your words and actions can stir the cruelest ambitions lurking in the hearts of your fellow incorrigibles. Whenever you <b>Commit to the Bit</b>, any creatures hit by the assisted creature's weapon attacks before the end of its next turn gains the @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding} condition.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "X7GBQG8CSADQYOZH"
+}

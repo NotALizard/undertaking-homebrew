@@ -1,0 +1,23 @@
+{
+  "name": "Resolute Mandrid",
+  "type": "race",
+  "img": "icons/creatures/fish/fish-shark-swimming.webp",
+  "system": {
+    "description": {
+      "value": "<p>Resolute Mandrids most closely resemble axolotls, with colorful, frilly external gills and a long tadpole-like fin framing their tail. Their skin comes in a variety of pastel colors, which combined with their other charming features make them generally viewed as the most approachable Mandrids. They get their namesake from their seemingly miraculous ability to shrug off any injury short of death, given enough time to rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Resolute Mandrid Traits</p><ul><li><b>Compatibility: </b>Aquatic</li><li><b>Attribute Increase: </b>Your Constitution or Presence score increases by 1.</li><li><b>Natural Regeneration: </b>@Compendium[undertaking-homebrew.abilities.NZF69C583MKEQ0PB]{Natural Regeneration}</li><li><b>Fearless: </b>@Compendium[undertaking-homebrew.abilities.NG4N84ST7ES1J9IE]{Fearless}</li><li><b>Fascinating Colors: </b>@Compendium[undertaking.abilities.ZNZV2MPB10KLX45B]{Fascinating Colors}</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "4CQR3D77S691MAUS"
+}

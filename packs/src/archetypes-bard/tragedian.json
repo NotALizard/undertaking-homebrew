@@ -1,0 +1,24 @@
+{
+  "name": "Bardic Archetype: Tragedian",
+  "type": "archetype",
+  "img": "icons/magic/control/fear-fright-white.webp",
+  "system": {
+    "description": {
+      "value": "Tragedians are Bards whose work guides others through the somber and heartbreaking aspects of life. Their aim is to provoke introspection on our personal flaws and warn of the perils of obsession and ambition. Tragically, some view their very presence as a sign of ill events to come, either to their friends or enemies. Should you get to know one, though, they can make for surprisingly deep conversation once you get past their morose exterior.",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "bard-tragedian",
+    "classIdentifier": "bard",
+    "classDetails": "<h3>Bardic Archetype: Tragedian</h3><p><i>Unlock:</i> Have the Bard Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.4A26NHYUBD8OXCX5]{Theme: Mortality}, @Compendium[undertaking-homebrew.abilities.M7ONN7XQ5CD8VK24]{Commiseration}</p><hr/><h3>Tragedian Abilities</h3><p>When taking a level in Tragedian, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.PDP9D8MMKDY2DZSL]{Star-Crossed Duel}, @Compendium[undertaking-homebrew.abilities.X7GBQG8CSADQYOZH]{Blood-Soaked Hands}, @Compendium[undertaking-homebrew.abilities.9KHMDNUC50478I0D]{Untimely Remorse}, @Compendium[undertaking-homebrew.abilities.AI1FILJPEB8JVZ6L]{The Bell Tolls}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "KWI7SOKT0YDM3U7C"
+}

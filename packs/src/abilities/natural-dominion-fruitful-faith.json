@@ -1,0 +1,24 @@
+{
+  "name": "Fruitful Faith",
+  "type": "ability",
+  "img": "icons/consumables/fruit/apple-red-tree-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>As an action, you can spend 1 @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die to conjure a blessed fruit. Any creature that is holding one of these fruits can use its minor action to eat the fruit, regaining hit points equal to 2d4 + your Wisdom modifier. If you can see a creature when it eats a fruit created by this ability, you can use your reaction to spend any number of @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Dice and add them to the number rolled. When you finish a long rest, any fruits you created that have not been eaten decay. They lose their magic and you regain a @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die for each.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Natural Dominion",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "P97169W6CB1L94C4"
+}

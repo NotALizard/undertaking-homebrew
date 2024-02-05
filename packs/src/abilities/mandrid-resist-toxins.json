@@ -1,0 +1,25 @@
+{
+  "name": "Resist Toxins",
+  "type": "ability",
+  "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have resistance to poison damage and advantage on saves made to avoid being @Compendium[undertaking.conditions.9X088PM7H5U2S1HQ]{Sickened} or @Compendium[undertaking.conditions.SRRBLPRSJWGUR551]{Poisoned}.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "2PRN9S8X7YFBJP10"
+}

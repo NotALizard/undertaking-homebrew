@@ -1,0 +1,24 @@
+{
+  "name": "Share the Spotlight",
+  "type": "ability",
+  "img": "icons/skills/targeting/target-glowing-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>Somebody's got to play the lead role - why shouldn't it be you? Whenever you cause a creature to become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized}, you can choose to become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&#x1F981; Lionized} yourself for the same duration.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "novice"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "XVWY4BL8VIERNETM"
+}

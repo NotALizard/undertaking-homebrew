@@ -1,0 +1,24 @@
+{
+  "name": "Commit to the Bit",
+  "type": "ability",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "system": {
+    "description": {
+      "value": "<p>You know your talents are best employed with the backing of a capable troupe, and can spot opportunities to make each member shine.</p><p>Any time you take the <strong>Assist</strong> action, you can also cause the creature to become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{&amp;#x1F981; Lionized}&nbsp;until the end of your next turn.</p><p>Additionally, as part of an <strong>Assist</strong> action, you can choose to support the creature throughout its next turn. If you commit in this way, you must move alongside the creature in such a way that you remain adjacent until the end of its next turn. You can accompany the creature regardless of your speed, so long as you could have otherwise traversed the path on your own.&nbsp;</p><p>While accompanying the creature, this creature has advantage on the first attack roll it makes before the end of its turn, and before the attack roll is made you can @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&amp;#x1F9FF; Villainize} the target of the attack until the end of your next turn.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "U9Y7QXOXOYNA04W7"
+}

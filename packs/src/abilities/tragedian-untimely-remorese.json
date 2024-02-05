@@ -1,0 +1,24 @@
+{
+  "name": "Untimely Remorse",
+  "type": "ability",
+  "img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a reaction to one of your allies being reduced to 0 hit points or killed, you can force the creature responsible to make a Wisdom (Save) Check versus your spell save DC. On a failure, the creature is overcome with grief, surprise, or some other unexpected emotion, and is @Compendium[undertaking.conditions.3CQC3JEY2C3Y721F]{Incapacitated} until the start of its next turn.<br>&nbsp;&nbsp;&nbsp;&nbsp;If your ally was killed instantly, the creature has disadvantage on the save.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "9KHMDNUC50478I0D"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dynamic Duo",
+  "type": "ability",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are at your most effective when you&rsquo;ve got someone to back up your act, and you can provide ample support in return. You can augment your <strong>Assist</strong> action in the following ways:</p><ul><li>When you take the <strong>Assist</strong> action, you can make a single weapon attack as a minor action. If you <strong>Commit to the Bit</strong>, you can choose to delay this attack until you are within range of a target on the assisted creature&rsquo;s turn.</li><li>When you take the <strong>Assist</strong> action, you can use your minor action to cast a cantrip with a normal casting time of one action. If you <strong>Commit to the Bit</strong>, you can instead use your minor action to cast a 1st level spell with a normal casting time of one action. A 1st level spell cast in this way can only affect you, the assisted creature, and objects carried by either of you.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "adept"
+    },
+    "requirements": "6th level overall and 3rd level Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "FHJRNZE4BO3NRACH"
+}

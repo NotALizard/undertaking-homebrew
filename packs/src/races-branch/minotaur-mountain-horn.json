@@ -1,0 +1,23 @@
+{
+  "name": "Mountain-Horn Minotaur",
+  "type": "race",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Mountain-Horn minotaurs thrive in some of the most rugged environments. Steep terrain has honed their strength, and their horns have become fortified through contests with the local predators, giving these minotaurs their iconic name.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Mountain-Horn Minotaur Traits</p><ul><li><strong>Compatibility: </strong>Bestial</li><li><strong>Attribute Increase: </strong>Your Strength score increases by 1.</li><li><strong>Heavy Hitter: </strong>@Compendium[undertaking-homebrew.abilities.666YST9UQN7QPICB]{Heavy Hitter}</li><li><strong>Weapon Proficiency: </strong>You gain proficiency with Greatclubs, Greataxes, and Warhammers.</li><li><strong><em>Alternate Heritage:</em></strong> Minotaur heritage can present in various ways. If your core race does not grant you Horns, you can choose to replace the &ldquo;Weapon Proficiency&rdquo; trait offered by this branch race with the following ability:<ul><li><strong>Lesser Horns:</strong> @Compendium[undertaking-homebrew.abilities.MPBFI0K1205Z8O2G]{Lesser Horns}</li></ul></li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "EGXEOQWFJLSJ1M3T"
+}

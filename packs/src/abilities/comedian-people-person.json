@@ -1,0 +1,24 @@
+{
+  "name": "People Person",
+  "type": "ability",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "system": {
+    "description": {
+      "value": "<p>When trying to get a laugh out of a crowd, you've found it helps to know a bit about their experiences and values. You gain proficiency in Intelligence (Culture).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "UT2MT6HXQ4PUJKCF"
+}

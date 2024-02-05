@@ -1,0 +1,24 @@
+{
+  "name": "Spellcasting (Bard)",
+  "type": "ability",
+  "img": "icons/magic/symbols/rune-sigil-black-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>As one who uses arcane means to bend this world to your will with magic, you have in your possession a spell book, or grimoire if you will.  And it is the guidebook to reconstructing your reality.</p><h4><strong>Cantrips</strong></h4><p>Upon gaining your 1st level of Bard, you know two Cantrips from the Bard&rsquo;s spell list.  You will learn additional Cantrips as you advance in the Bard class.  You gain an additional Cantrip when you hit Adept Bard, and then another at Expert Bard.</p><h4><strong>Spells at 1st Level</strong></h4><p>A Bard at 1st level knows four level 1 spells of their choice from the Bard&rsquo;s spell list.</p><h4><strong>Casting Spells</strong></h4><p>A Bard, like all spellcasters, expends Mana to cast spells (expanded upon in the Mana section of <strong>&ldquo;Chapter 9: Magic & Spellcasting&rdquo;</strong>).  As well, you regain your Mana fully on a long rest, and partially on a short rest.<br>&nbsp;&nbsp;&nbsp;&nbsp;You can cast any Bard spells you have learned.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;(Note: To figure out how many and what spells you know, reference the <b>Spells at 1st Level</b> above this section, and if needed, the <b>Learning Spells at Higher Levels</b> section in the @Compendium[undertaking-homebrew.classes.MGOXKZCFR46MSF08]{Bard} Class.)</p><h4><strong>Spellcasting Ability</strong></h4><p>Given that your magic is brought to life through rousing performances, Presence is the spellcasting ability for a Bard.  This means that your Presence modifier comes into play when setting the DC for your Bard spells and when making an attack with one.</p><ul><li><i>Spell Save DC:</i> 8 + your proficiency bonus + your Presence modifier</li><li><i>Spell Attack Modifier:</i> your proficiency bonus + your Presence modifier</li></ul><h4><strong>Ritual Casting</strong></h4><p>You can cast a Bard spell as a Ritual if that spell has the Ritual tag and you have learned the spell.</p><h4><strong>Spellcasting Focus</strong></h4><p>You may use an arcane focus, a specialized item used for casting, as a spellcasting focus for casting your Bard spells, or a musical instrument you are proficient with.  Spellcasting focuses allow spells to be cast without needing the material components, but does not replace material components that have a cost or are said to be used up by the spell.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "ZD6YNR1QX0H3BJPP"
+}

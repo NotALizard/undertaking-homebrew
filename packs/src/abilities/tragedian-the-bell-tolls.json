@@ -1,0 +1,24 @@
+{
+  "name": "The Bell Tolls",
+  "type": "ability",
+  "img": "icons/tools/instruments/bell-brass-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>The ghastly visage of death is but a grim reminder of the fallibility of our mortal flesh. As a reaction to the death of a creature you can see, you can single out another creature within 20ft of it to instill terror into. If the target can hear you, it must succeed on a Wisdom (Save) check versus your spell save DC or become @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened} by the sight of the corpse until the end of its next turn. Succeed or fail, the target can't be affected by this ability again until 24 hours have passed.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "AI1FILJPEB8JVZ6L"
+}

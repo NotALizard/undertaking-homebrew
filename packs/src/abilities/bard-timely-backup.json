@@ -1,0 +1,24 @@
+{
+  "name": "Timely Backup",
+  "type": "ability",
+  "img": "icons/magic/time/hourglass-tilted-glowing-gold.webp",
+  "system": {
+    "description": {
+      "value": "As a desperate action, you can move to any creature that is no more than half your movement speed away from you and use the <b>Assist</b> action on it. Unlike other desperate actions, you can use this ability to interrupt the desperate actions of willing creatures.<br>&nbsp;&nbsp;&nbsp;&nbsp;Unfortunately, onlookers may become annoyed if you keep inserting yourself into pivotal moments in this way. Each time you use this ability again before your next short rest, become @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{&#x1F9FF; Villainized} until the end of your next turn. You only suffer from the baseline effects of being villainized, not any other abilities you have that would apply to creatures you've villainized.",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Must have a Bard Adept Ability",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "0QAS4D8W7N209D20"
+}

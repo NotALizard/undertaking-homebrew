@@ -1,0 +1,24 @@
+{
+  "name": "Elemental Affinity",
+  "type": "ability",
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>As part of becoming a cleric of the Dragon Dominion, you must choose one damage type to become your Elemental Affinity. Your choice of affinity will determine the damage type and spell options of other Dragon Dominion abilities.</p><p>&nbsp;</p><p><em>Choose one of the following to be your Elemental Affinity: Acid, Cold, Fire, Lightning, or Poison.</em></p><p>&nbsp;</p><p>You draw conviction from seeing the elemental power of your affinity made manifest in the world. Whenever you roll at least one set of doubles for damage that matches the type of your Elemental Affinity on a die that isn&rsquo;t a d4, you can gain a @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die and activate the Mantras assigned to your <strong>Number of the Dragon</strong>. Triples or multiple sets of doubles do not grant any additional bonuses.</p><p>You can change your choice of affinity whenever you reach a growth level, replacing all abilities and spells granted by your old one. Once every 7 days, when you touch a living true dragon or permanent site of draconic worship, you can choose to change your affinity to the one most closely associated with the entity in question.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "UROYUWYQ5D1XOMRC"
+}

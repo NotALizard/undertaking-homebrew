@@ -1,0 +1,25 @@
+{
+  "name": "Omen of Fortune",
+  "type": "ability",
+  "img": "icons/magic/control/buff-luck-fortune-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>Whenever a creature you can see within 10 feet of you attempts a Presence skill check, you can use your reaction to add 1d4 to the roll. You can use this ability a number of times equal to your proficiency bonus, and regain all expended uses whenever you finish a long rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WSK3MYKHHGFSAXNM"
+}

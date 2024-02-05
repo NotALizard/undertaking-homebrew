@@ -1,0 +1,62 @@
+{
+    "name": "Dread Blade",
+    "type": "spell",
+    "img": "icons/magic/death/weapon-sword-skull-purple.webp",
+    "system": {
+        "description": {
+            "value": "<p>You draw forth shadowy energy and shape it into a murky, ephemeral blade. Whenever you cast this spell, a shadowy dagger, sickle, shortsword, or hatchet appears in your empty hand and lasts until the spell ends. The weapon&rsquo;s damage is converted to necrotic, and you can choose to use your spellcasting attribute modifier in place of Strength or Dexterity for attack and damage rolls you make with it. Any extra bonuses that would apply to your spell attacks for this cantrip also apply to the blade.</p><p>The weapon temporarily dissipates when held by a creature other than you. If you end your turn not holding the weapon, or if it has been temporarily dissipated, it reappears in your empty hand if you have one, otherwise the spell ends.</p><p>As part of the action you use to cast the spell, you can immediately make a single weapon attack with the weapon.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: You can create a second weapon from the list, but it must have the <strong>Light</strong> trait.</li><li>1 Mana: The weapon gains the trait <strong>Thrown (20/60)</strong>, or its ranges are doubled if it already had it. The weapon reappears in your hand after each thrown attack you make with it.</li><li>2 Mana: The weapon deals an additional die of damage on hit.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": true,
+        "school": "nec",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "small animal bones",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "minute"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "self"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "object"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "QVIXYJFEAOXHF2SW"
+}

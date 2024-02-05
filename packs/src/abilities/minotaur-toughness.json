@@ -1,0 +1,25 @@
+{
+  "name": "Toughness",
+  "type": "ability",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your hit point maximum increases by 1 per level.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "WNJ59P887AGGA1ZA"
+}

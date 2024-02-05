@@ -1,0 +1,25 @@
+{
+  "name": "Ominous Sight",
+  "type": "ability",
+  "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your darkvision is not impeded by magical darkness. When you are standing in dim light or darkness, your eyes faintly glow red if they are open and not hidden by illusion. While your eyes glow in this way, you have disadvantage on Dexterity (Stealth) checks and advantage on Presence (Intimidation) checks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "branch"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "G0FGCDYBZHCRKAO7"
+}

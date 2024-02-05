@@ -1,0 +1,23 @@
+{
+  "name": "Valley-Hoof Minotaur",
+  "type": "race",
+  "img": "icons/creatures/abilities/paw-print-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Valley-Hoof minotaurs are most often found amid rolling hills and fertile valleys. Their stout build makes tough work like mining, hauling, and smithing look easy, and the abundance these boons bring make for a hale constitution.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "portion": "core",
+    "classDetails": "<p>Valley-Hoof Minotaur Traits</p><ul><li><b>Compatibility: </b>Bestial</li><li><b>Attribute Increase: </b>Your Constitution score increases by 1.</li><li><b>Toughness: </b>@Compendium[undertaking-homebrew.abilities.WNJ59P887AGGA1ZA]{Toughness}</li><li><b>Mighty Physique: </b>@Compendium[undertaking-homebrew.abilities.WZKVGY28MAZHGYMK]{Mighty Physique}</li><li><strong><em>Alternate Heritage:</em></strong> Minotaur heritage can present in various ways. If your core race does not grant you Horns, you can choose to replace the @Compendium[undertaking-homebrew.abilities.WZKVGY28MAZHGYMK]{Mighty Physique} trait offered by this branch race with the following ability:<ul><li><strong>Lesser Horns:</strong> @Compendium[undertaking-homebrew.abilities.MPBFI0K1205Z8O2G]{Lesser Horns}</li></ul></li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "7R4JLL591XQVOKK8"
+}

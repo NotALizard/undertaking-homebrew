@@ -1,0 +1,25 @@
+{
+  "name": "Moist Skin",
+  "type": "ability",
+  "img": "icons/creatures/amphibians/frog-water-teal.webp",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you spend an hour in an environment of extreme heat (such as a desert during daytime or terrain with exposed lava), you gain a level of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion} if you don't already have any. In addition to the normal rules for resting, exhaustion imposed by this trait can be removed by fully submerging yourself in water.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "race",
+      "subtype": "core"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "OQYT9KI73HD5VRJI"
+}
