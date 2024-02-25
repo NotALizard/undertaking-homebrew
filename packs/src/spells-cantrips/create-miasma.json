@@ -1,0 +1,67 @@
+{
+    "name": "Create Miasma",
+    "type": "spell",
+    "img": "icons/magic/death/skull-poison-green.webp",
+    "system": {
+        "description": {
+            "value": "<p>A cloud of virulent vapors expands to fill a 5-foot cube within range and lingers there for the duration, permeating into the lungs and skin of any creature who dares enter it. When a creature starts its turn in the miasma or enters a miasma it has not already entered this turn, it must succeed on a Constitution (Save) Check or take 1d4 poison damage and then become infected with the Commoner\u2019s Cold disease (detailed below). An infected creature can repeat the save check at the end of each of its turns, ending the disease on a success.<br>&nbsp;&nbsp;&nbsp;&nbsp;If the creature fails its Constitution (Save) check 5 times, they stop making the save, and the disease remains indefinitely. Each time the infected creature completes a long rest, it can repeat the save, gaining a +1 bonus for each dawn since its infection.<br><br>Commoner's Cold: The creature's immune system is weakened. The first time each turn the infected creature takes poison damage, it suffers 1d4 additional poison damage.<br><br>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:<ul><li>1 Mana: The miasma's poison damage is increased to 2d4.</li><li>2 Mana: The size of the cloud increases to a 10-foot cube.</li></ul></p> ",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": true,
+        "school": "nec",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "save",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "minute"
+        },
+        "range": {
+            "value": "60",
+            "long": null,
+            "units": "feet"
+        },
+        "target": {
+            "value": "5",
+            "width": null,
+            "units": "ft",
+            "type": "cube"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "1d4",
+                    "poison"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "con",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": true
+    },
+    "_id": "3L7I8DH0G63AX9B1"
+}

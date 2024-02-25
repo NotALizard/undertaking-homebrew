@@ -1,0 +1,67 @@
+{
+    "name": "Brittle Beam",
+    "type": "spell",
+    "img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
+    "system": {
+        "description": {
+            "value": "<p>A corrosive beam of harsh light streaks from your finger toward a target, depositing a thin coating of acid wherever it touches. Make a ranged spell attack against either a creature or an object that is not being worn or carried.<br>&nbsp;&nbsp;&nbsp;&nbsp;If the spell attack hits a creature, it takes 3d8 acid damage and the acid mars its worn or wielded equipment or natural weapons. The first time the creature hits with a weapon attack with any of these weapons before the start of your next turn, it must subtract your spellcasting attribute modifier (minimum 1) from the damage it deals.<br>&nbsp;&nbsp;&nbsp;&nbsp;If the spell attack hits an object, it takes 3d8 acid damage and is vulnerable to the damage of the next weapon attack that hits it.<br><br>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow: <ul><li>1 Mana: The acid damage increases to 6d8 against objects. </li><li>3 Mana: The acid damage increases to 6d8. </li><li>1 Mana: On a hit, you can choose to concentrate on the spell for up to 1 minute, causing the acid to cling more harshly than before. While you maintain concentration, subtract your spellcasting attribute modifier (minimum 1) from the damage of all weapon attacks the creature makes. </li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "evo",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "rsak",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "round"
+        },
+        "range": {
+            "value": "90",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "3d8",
+                    "acid"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "93IZ61HQGJ91795Y"
+}

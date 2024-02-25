@@ -3,7 +3,7 @@
     "name": "undertaking-homebrew",
     "title": "Grant Undertaking Homebrew",
     "description": "A collection of my content.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
