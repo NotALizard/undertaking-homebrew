@@ -1,0 +1,24 @@
+{
+  "name": "Ashen Drift",
+  "type": "ability",
+  "img": "icons/magic/air/wind-stream-blue-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p>While your familiar is within 60 feet of you, you can spend 2 mana to teleport to an unoccupied space within 5 feet of it as a minor action.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "6Q8NPXGTPOTSP2KO"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hungering Shadows",
+  "type": "ability",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall you may take the ability below.</p><p>Your @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip ignores resistance to necrotic damage, and creatures that are immune to necrotic damage take half damage from it on a hit.</p><p>Additionally, over the course of a rest you can perform a ritual to merge a magical melee weapon with your shadow. At the end of the rest the weapon disappears and you attune to it, even if the item doesn&rsquo;t require attunement. While you have a weapon merged with your shadow, weapons created by your @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip inherit all of the merged weapon&rsquo;s magical properties. If the weapon has charges or limited use abilities, track their expenditure as a single pool&mdash;summoning your @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} multiple times does not grant extra uses of them. Creatures that closely inspect your shadow will notice that it appears to be holding the weapon while your @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} isn&rsquo;t summoned or is banished.</p><p>A weapon merged with your shadow reappears a foot away from you when you die, your attunement to it ends, or you choose to merge a different weapon with your shadow. You can choose to end your attunement with a merged weapon over a rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "5Y5UKK5OB00AYMHG"
+}

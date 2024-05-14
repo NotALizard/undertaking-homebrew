@@ -1,0 +1,24 @@
+{
+  "name": "Rigged Fight",
+  "type": "ability",
+  "img": "icons/tools/nautical/rope-line-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>Whenever you land within 5 feet of a creature after swinging at least 10 feet on a dangling rope or chain, you gain advantage on your first attack roll against the creature this turn.</p><p>You also learn the following Gambits:&nbsp;@Compendium[undertaking-homebrew.abilities.OB8YW767NKUR0TXY]{Gambit: Weigh Anchor}, @Compendium[undertaking-homebrew.abilities.0LCC8YZ2VZB77YR9]{Gambit: Getting Yer Sea Legs}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "OVP7QML1V8RHMWEZ"
+}

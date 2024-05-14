@@ -1,0 +1,24 @@
+{
+  "name": "Vigilant",
+  "type": "ability",
+  "img": "icons/environment/settlement/watchtower-moonlit-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You are always on alert, waiting for the other shoe to drop. You gain proficiency in Wisdom (Perception).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "IJ4DSNSC69UF86HZ"
+}

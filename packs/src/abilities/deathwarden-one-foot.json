@@ -1,0 +1,24 @@
+{
+  "name": "One Foot in the Grave",
+  "type": "ability",
+  "img": "icons/environment/settlement/graveyard-tombstone-night.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have resistance to necrotic damage. You also have advantage on Save Checks made to resist any effect that would reduce your maximum hit points.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "GJSBBBEWC3QHE19Y"
+}

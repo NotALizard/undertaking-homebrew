@@ -1,0 +1,24 @@
+{
+  "name": "Gambit: Weigh Anchor",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Gambit: Weigh Anchor</strong></p><p><em>Cost: 1 Panache</em></p><p>To use this gambit, you must be holding a rope with an attached grappling hook. As a minor action, or as part of the Dash action, you can expend one Panache Dice to secure the rope to any protrusion above you (such as a tree branch, rock outcropping, pole, or chandelier) that is within the rope&rsquo;s length from you. You can alternatively attempt to secure it to a flying creature, however the creature can make a Dexterity (Save) Check versus your Sneak Attack DC to avoid it. You can use your action while touching a rope you secured with this ability to retrieve it and the attached grappling hook.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "OB8YW767NKUR0TXY"
+}

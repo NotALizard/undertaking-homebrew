@@ -4,7 +4,7 @@
   "img": "icons/magic/control/fear-fright-white.webp",
   "system": {
     "description": {
-      "value": "Tragedians are Bards whose work guides others through the somber and heartbreaking aspects of life. Their aim is to provoke introspection on our personal flaws and warn of the perils of obsession and ambition. Tragically, some view their very presence as a sign of ill events to come, either to their friends or enemies. Should you get to know one, though, they can make for surprisingly deep conversation once you get past their morose exterior.",
+      "value": "<p>Subclass for the @Compendium[undertaking-homebrew.classes.MGOXKZCFR46MSF08]{Bard} class.</p><p>Tragedians are Bards whose work guides others through the somber and heartbreaking aspects of life. Their aim is to provoke introspection on our personal flaws and warn of the perils of obsession and ambition. Tragically, some view their very presence as a sign of ill events to come, either to their friends or enemies. Should you get to know one, though, they can make for surprisingly deep conversation once you get past their morose exterior.</p>",
       "chat": "",
       "unidentified": ""
     },

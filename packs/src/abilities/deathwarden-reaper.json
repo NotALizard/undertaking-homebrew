@@ -1,0 +1,24 @@
+{
+  "name": "Reaper",
+  "type": "ability",
+  "img": "icons/weapons/sickles/scythe-curved-steel.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with scythes. Whenever you cast the @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip you can create a scythe with a damage die of 1d8 necrotic and the added trait <strong>Reach</strong>.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "VP1MJ4K008E0P5QE"
+}

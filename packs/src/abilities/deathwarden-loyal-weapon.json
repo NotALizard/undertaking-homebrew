@@ -1,0 +1,24 @@
+{
+  "name": "Loyal Weapon",
+  "type": "ability",
+  "img": "icons/magic/death/weapon-sword-skull-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>The @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip no longer requires concentration, and its duration is increased 8 to hours. The spell ends early if you cast it again. For the duration of the spell, you can banish and resummon the blade in place of sheathing or drawing a weapon.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "WXAA4GO3QQKD1H7M"
+}

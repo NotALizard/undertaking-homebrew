@@ -1,0 +1,24 @@
+{
+  "name": "Smoldering Quiver",
+  "type": "ability",
+  "img": "icons/magic/fire/projectile-arrow-fire-orange-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain proficiency with one of the following: shortbow, longbow, light crossbow, heavy crossbow, repeating crossbow.</p><p>Whenever you cast the @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} cantrip, it creates 1d4 additional embers and you can choose to shape the embers into ammunition appropriate for any ranged weapon you are proficient with.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "0XE5EBEOURNKXDWE"
+}

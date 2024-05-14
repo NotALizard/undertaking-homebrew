@@ -1,0 +1,24 @@
+{
+  "name": "Rakish Charm",
+  "type": "ability",
+  "img": "icons/commodities/materials/feather-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your daring and bombastic ploys have a penchant to amaze onlookers.</p><p>Once per turn, when you perform a Gambit you can force one creature that saw it to make a Wisdom (Save) Check versus your Sneak Attack DC. Creatures with an Intelligence score of less than 3 automatically succeed.</p><p>On a failed save, the creature is @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by you until the end of its next turn. While a creature is @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} in this way, its action can only be used to take the Disengage, Self-Defense, or Hide action. Once you charm a creature with this ability, that creature can&rsquo;t be @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by it again until you finish a long rest.</p><p>Whenever a creature fails its save against this ability, regardless of whether it can be @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} or not, you gain advantage on the first Presence check directed at it within the next minute.</p><p>You also learn the following Gambit: @Compendium[undertaking-homebrew.abilities.MQ87LWRH52O6XSGZ]{Gambit: Avast, Me Hearties!}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "LYCMR7TCA8JCT44F"
+}

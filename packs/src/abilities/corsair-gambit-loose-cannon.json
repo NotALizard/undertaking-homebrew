@@ -1,0 +1,24 @@
+{
+  "name": "Gambit: Loose Cannon",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Gambit: Loose Cannon</strong></p><p><em>Cost: X Panache</em></p><p>Whenever you hit with an attack but are unable to use your Sneak Attack, you can choose to expend any number of Panache Dice to roll and add them to the attack&rsquo;s damage.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "150EJLYVPMDY2VLI"
+}

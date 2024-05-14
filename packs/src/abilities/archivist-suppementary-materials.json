@@ -1,0 +1,24 @@
+{
+  "name": "Supplementary Materials",
+  "type": "ability",
+  "img": "icons/sundries/books/book-stack.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have created a system of backups and organization, called Supplemental Spellbooks, that helps reduce the mental load of studying spells.&nbsp;</p><p>Each time you prepare your list of spells for the day, you can select one of your Supplemental Spellbooks to memorize. The spells in the chosen Supplemental Spellbook are prepared for that day and do not count against the total number of spells you can prepare.</p><p>A Supplemental Spellbook can be any book that you copy spells into as long as the number of spells contained within is no greater than your proficiency bonus and at least one of the following holds true:</p><ul><li>Every spell in the book belongs to the same school of magic.</li><li>Every spell in the book is of the same level.</li><li>The name of every spell in the book begins with the same letter.</li></ul><p>Whenever you select this ability, as a result of your experimentation and rough drafts you start with one ready to use Supplemental Spellbook which contains a copy of any two spells already in your spellbook (your chosen combination of spells must satisfy the requirements to be Supplemental Spellbook).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "EWZ01SQKAEZX64W7"
+}

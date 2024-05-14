@@ -1,0 +1,24 @@
+{
+  "name": "Sprinter",
+  "type": "ability",
+  "img": "icons/skills/movement/figure-running-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your base walking speed increases by 10 feet, and attacks of opportunity against you have disadvantage.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "2nd level overall and have at least one level in a Martial class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "GOP7M90B2MXBCL8K"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Heads Up",
+  "type": "ability",
+  "img": "icons/tools/instruments/megaphone.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you roll initiative and are not <b>Surprised</b>, you can quickly coordinate with one of your allies to prepare for the coming danger. After initiative has been rolled but before the first turn of combat, you can choose to immediately move adjacent to an allied creature that is reachable with half of your movement speed. If the chosen creature is ahead of you in the initiative order, move yourself to the spot immediately after it in the initiative order. Otherwise, move the creature to the spot immediately before you in the initiative order.</p><p>Subtract any movement used by this ability from the movement available to you on your first turn of combat. You can't use this ability on a creature that has already used or been the target of another copy of this ability in this combat.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "HS30FINEX9HB4RZE"
+}

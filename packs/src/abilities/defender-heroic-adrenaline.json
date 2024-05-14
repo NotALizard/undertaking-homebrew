@@ -1,0 +1,24 @@
+{
+  "name": "Heroic Adrenaline",
+  "type": "ability",
+  "img": "icons/magic/holy/barrier-shield-winged-cross.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall and have the ability <i>Adrenaline</i> you may take the ability below.</p><p>Seeing others in peril stirs you to action and pushes you beyond your limits. Whenever you Size-Up an ally and learn that they are closest to ¼ Hit Points remaining or less, you can choose to regain an expended use of your <i>Adrenaline</i> ability. If you do, you can't use this ability on that same ally again until you finish a long rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "N5DFPGT4NAZQ3RM9"
+}

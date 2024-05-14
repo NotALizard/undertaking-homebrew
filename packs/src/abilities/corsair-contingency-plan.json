@@ -1,0 +1,24 @@
+{
+  "name": "Contingency Plan",
+  "type": "ability",
+  "img": "icons/tools/navigation/map-marked-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Good luck only ever lasts so long. As a corsair, you&rsquo;re no stranger to cutthroats and thieves, and you&rsquo;re always waiting for the other boot to drop.&nbsp;</p><p>Whenever you are <strong>Surprised</strong>, you can still choose to do one of the following on your first turn of combat:</p><ul><li>Take an Action.</li><li>Move and take a Minor Action.</li><li>Gain temporary hit points equal to your level as a Non-Action.</li></ul><p>You also learn the following Gambits:&nbsp;@Compendium[undertaking-homebrew.abilities.YUAJX59ZHM417PCB]{Gambit: Shake a Leg}, @Compendium[undertaking-homebrew.abilities.150EJLYVPMDY2VLI]{Gambit: Loose Cannon}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "EW5EDFT4VENBU9QJ"
+}

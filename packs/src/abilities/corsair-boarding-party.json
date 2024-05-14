@@ -1,0 +1,24 @@
+{
+  "name": "Boarding Party",
+  "type": "ability",
+  "img": "icons/environment/settlement/ship.webp",
+  "system": {
+    "description": {
+      "value": "<p>You&rsquo;re experienced at using ranged weaponry both at a distance and in the thick of a fray. Your ranged attacks no longer suffer disadvantage as a result of targeting a creature that is within 5 feet of you or prone.</p><p>Additionally, you can use your minor action to reload a weapon with the Loading property between attacks.</p><p>You learn the following Gambit: @Compendium[undertaking-homebrew.abilities.L65XCJ63D6V6QUVJ]{Gambit: Shot Across the Bow}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "W6WA5QK7MVTV83IS"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Trove of Knowledge",
+  "type": "ability",
+  "img": "icons/containers/chest/chest-simple-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>As an archivist you value knowledge itself more highly than others, and there are few things you wouldn't part with to obtain it. To this end, you know how to perform a ritual over a short rest that allows you to transmute up to 300 gp worth of valuable stones or metals, accompanied by bottles of fresh water, into spell ink and scribing materials with an equivalent value.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "SN7OJX8K8CW54ZOO"
+}

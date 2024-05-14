@@ -4,7 +4,7 @@
   "img": "icons/magic/control/mouth-smile-deception-purple.webp",
   "system": {
     "description": {
-      "value": "Comedians are bards Bards that thrive on lighthearted and uplifting performance. Their aim is to treat their audiences to a laugh and help them put their cares aside for a while. Ironically, you might not want to fall completely for their jolly demeanor - let your guard fall too far and you might just end up the unwitting volunteer for their next prank!",
+      "value": "<p>Subclass for the @Compendium[undertaking-homebrew.classes.MGOXKZCFR46MSF08]{Bard} class.</p><p>Comedians are bards Bards that thrive on lighthearted and uplifting performance. Their aim is to treat their audiences to a laugh and help them put their cares aside for a while. Ironically, you might not want to fall completely for their jolly demeanor - let your guard fall too far and you might just end up the unwitting volunteer for their next prank!</p>",
       "chat": "",
       "unidentified": ""
     },

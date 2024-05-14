@@ -1,0 +1,24 @@
+{
+  "name": "Tireless",
+  "type": "ability",
+  "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall you may take the ability below.</p><p>When you have @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion}, you suffer its effects as if you had half as many levels of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion} (rounded down). Whenever you remove @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion} as part of a long rest, you can remove an additional level of @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhaustion}.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "2nd level overall and have at least one level in a Martial class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "MCOVKJ7UZMJQGXIQ"
+}

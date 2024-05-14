@@ -1,0 +1,24 @@
+{
+  "name": "Seeker's Knack",
+  "type": "ability",
+  "img": "icons/magic/fire/flame-burning-campfire-smoke.webp",
+  "system": {
+    "description": {
+      "value": "<p>You learn the @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} cantrip, and Intelligence, Wisdom, or Presence is your spellcasting attribute for it.</p><p>If you already knew the @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} cantrip before selecting this Archetype or later learn it from another source, you instead gain proficiency with one of the following: sling, slingshot, or the Pathfinding Trade.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "1P73PV63XRZZ06AX"
+}

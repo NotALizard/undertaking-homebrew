@@ -1,0 +1,24 @@
+{
+  "name": "Fighting Stance: Gladiator",
+  "type": "ability",
+  "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+  "system": {
+    "description": {
+      "value": "<p>You learn 1 fighting stance from the following list.<br>&nbsp;&nbsp;&nbsp;&nbsp;When you can choose a new Fighting Stance as part of leveling up, you can choose from one of these Fighting Stances as well.<br><br><u><i>Fighting Stance List: Defender</i></u><br>@Compendium[undertaking-homebrew.abilities.L7C1Z21RZCX2NKTL]{Bodyguard Stance}, @Compendium[undertaking-homebrew.abilities.S8BIHKJPHEGR910P]{Fortress Stance}, @Compendium[undertaking-homebrew.abilities.0FNB61M34QI8Q8AT]{Rebound Stance}, @Compendium[undertaking-homebrew.abilities.TGJ46BXWJNNZTG8R]{Decoy Stance}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Must have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "5A7HOEBVANPTZD28"
+}

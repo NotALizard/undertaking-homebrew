@@ -1,0 +1,24 @@
+{
+  "name": "The Best Defense",
+  "type": "ability",
+  "img": "icons/skills/melee/shield-block-bash-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>They say the best defense is a good offense. Well, who's to say your shield can't provide both.</p><p>You treat shields you wield as martial melee weapons with a damage die of 1d6 bludgeoning damage. Shields that lack the <b>Heavy</b> trait gain the trait <b>Thrown (20/60)</b>. Shields with the <b>Heavy</b> or <b>Two-Handed</b> trait gain an additional trait <b>Versatile (1d8)</b>.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "UN7U2EJY5GRE4EB6"
+}

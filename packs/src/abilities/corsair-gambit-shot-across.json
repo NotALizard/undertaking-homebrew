@@ -1,0 +1,24 @@
+{
+  "name": "Gambit: Shot Across the Bow",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Gambit: Shot Across the Bow</strong></p><p><em>Cost: 1 Panache</em></p><p>When you miss a creature with a ranged attack that would have been eligible for Sneak Attack, you can expend your use of Sneak Attack this turn and one Panache Die to turn the attack into a warning shot. The creature must succeed on a Wisdom (Save) Check against your Sneak Attack DC or take psychic damage equal to a roll of the Panache Die and become @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened} of you until the end of its next turn. A creature that would be reduced to 0 hit points by this damage faints instead, dropping to 1 hit point and falling @Compendium[undertaking.conditions.9KB959MRZ0H4IT4C]{Unconscious} for 1 minute.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "L65XCJ63D6V6QUVJ"
+}

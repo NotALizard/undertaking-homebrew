@@ -1,0 +1,24 @@
+{
+  "name": "Thanatophobia",
+  "type": "ability",
+  "img": "icons/magic/death/skull-energy-light-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>Each time you hit a creature with an attack using your @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade}, you can spend 1 mana to attempt to instill fear in it. The creature must succeed on a Wisdom (Save) Check versus your spell save DC or become @Compendium[undertaking.conditions.UK95BQ45TGSD5Q3V]{Frightened} of you until the end of its next turn. A creature that succeeds on its save is immune to this ability until the start of your next turn.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "H5SWPCUEGNVFEPPT"
+}

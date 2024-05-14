@@ -1,0 +1,24 @@
+{
+  "name": "Gambit: Scallywag",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Gambit: Scallywag</strong></p><p><em>Cost: 1 Panache</em></p><p>When you make a Presence (Intimidation) or Presence (Deception) check but before learning whether you succeed or fail, you can expend a single Panache Die to roll it and add it to the result.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "Y26KXC52QC1Z8Z4L"
+}

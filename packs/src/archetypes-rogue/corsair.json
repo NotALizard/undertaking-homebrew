@@ -1,0 +1,24 @@
+{
+  "name": "Roguish Archetype: Corsair",
+  "type": "archetype",
+  "img": "icons/sundries/flags/banner-flag-pirate-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>Subclass for the @Compendium[undertaking.classes.I9VDL0C1Q1G7YHVO]{Rogue} class.</p><p>When it comes to thieves, few professions can boast the fame and notoriety that surrounds the Corsairs of the high seas. The tales of their voyages are filled to the brim with daring acts of piracy and enviable riches, along with a hearty serving of betrayal. Even with such dangers, the life of the Corsair calls to any Rogue with a spark of wanderlust and adventure in their soul. To truly succeed as a Corsair, one needs not just a capable crew but also the charm and daring to lead them, else the ever-present whispers of avarice may begin to stir mutiny in their hearts of those you rely on most.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "rogue-corsair",
+    "classIdentifier": "rogue",
+    "classDetails": "<h3>Roguish Archetype: Corsair</h3><p><i>Unlock:</i> Have the Rogue Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.HLOE5LYM9Y1M9U58]{Dead Men Tell No Tales}, @Compendium[undertaking-homebrew.abilities.EDSSCUMXYUHNCQ9F]{Panache}</p><hr/><h3>Corsair Abilities</h3><p>When taking a level in Corsair, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.W6WA5QK7MVTV83IS]{Boarding Party}, @Compendium[undertaking-homebrew.abilities.OVP7QML1V8RHMWEZ]{Rigged Fight}, @Compendium[undertaking-homebrew.abilities.LYCMR7TCA8JCT44F]{Rakish Charm}, @Compendium[undertaking-homebrew.abilities.EW5EDFT4VENBU9QJ]{Contingency Plan}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "F4I7KZA6NOAD3J2I"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Martial Archetype: Defender",
+  "type": "archetype",
+  "img": "icons/equipment/shield/heater-steel-sword-yellow-black.webp",
+  "system": {
+    "description": {
+      "value": "<p>Subclass for the @Compendium[undertaking.classes.V29B5QR22SYWVP8K]{Fighter} class.</p><p>A knight in shining armor plants his tower shield and sturdies his stance as the beast lunges towards the party gathered behind him. A minotaur, buckler in hand, places herself in front of her bard companion as the atmosphere in the tavern turns violent. While every Fighter's goal is to be the one still standing when the battle is over, Fighters who follow the path of the Defender take a more hands-on approach to making sure their allies can be counted among the standing as well. To this end, their training goes beyond just mastering their weapon techniques to include many specialized defensive techniques.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "fighter-defender",
+    "classIdentifier": "fighter",
+    "classDetails": "<h3>Martial Archetype: Defender</h3><p><i>Unlock:</i> Have the Fighter Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.5A7HOEBVANPTZD28]{Fighting Stance: Defender}, @Compendium[undertaking-homebrew.abilities.IJ4DSNSC69UF86HZ]{Vigilant}</p><hr/><h3>Defender Abilities</h3><p>When taking a level in Defender, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.UN7U2EJY5GRE4EB6]{The Best Defense}, @Compendium[undertaking-homebrew.abilities.G5GV21SNLQ4Q8K8C]{Retribution}, @Compendium[undertaking-homebrew.abilities.HS30FINEX9HB4RZE]{Heads Up}, @Compendium[undertaking-homebrew.abilities.N5DFPGT4NAZQ3RM9]{Heroic Adrenaline}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "4J3UKB8YI7P8IJEZ"
+}

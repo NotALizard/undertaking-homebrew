@@ -3,7 +3,7 @@
     "name": "undertaking-homebrew",
     "title": "Grant Undertaking Homebrew",
     "description": "A collection of my content.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
@@ -15,7 +15,8 @@
           "name": "Classes",
           "sorting": "m",
           "packs": [
-            "classes"
+            "classes",
+            "standalone-archetypes"
           ],
           "folders": [
             {
@@ -23,7 +24,10 @@
               "sorting": "m",
               "packs": [
                 "archetypes-bard",
-                "archetypes-cleric"
+                "archetypes-cleric",
+                "archetypes-fighter",
+                "archetypes-rogue",
+                "archetypes-wizard"
               ]
             }
           ]
@@ -88,15 +92,23 @@
     "packs": [
         {
           "name": "classes",
-          "label": "Classes (Grant Homebrew)",
+          "label": "(Grant) Classes",
           "path": "./packs/classes.db",
           "entity": "Item",
           "type": "Item",
           "system": "undertaking"
         },
         {
+          "name": "standalone-archetypes",
+          "label": "(Grant) Standalone Archetypes",
+          "path": "./packs/standalone-archetypes.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
           "name": "archetypes-bard",
-          "label": "Bard: Bardic Archetypes (Grant Homebrew)",
+          "label": "(Grant) Bard: Bardic Archetypes",
           "path": "./packs/archetypes-bard.db",
           "entity": "Item",
           "type": "Item",
@@ -104,15 +116,39 @@
         },
         {
           "name": "archetypes-cleric",
-          "label": "Cleric: Divine Dominions (Grant Homebrew)",
+          "label": "(Grant) Cleric: Divine Dominions",
           "path": "./packs/archetypes-cleric.db",
           "entity": "Item",
           "type": "Item",
           "system": "undertaking"
         },
         {
+          "name": "archetypes-fighter",
+          "label": "(Grant) Fighter: Martial Archetypes",
+          "path": "./packs/archetypes-fighter.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
+          "name": "archetypes-rogue",
+          "label": "(Grant) Rogue: Roguish Archetypes",
+          "path": "./packs/archetypes-rogue.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
+          "name": "archetypes-wizard",
+          "label": "(Grant) Wizard: Arcane Archetypes",
+          "path": "./packs/archetypes-wizard.db",
+          "entity": "Item",
+          "type": "Item",
+          "system": "undertaking"
+        },
+        {
             "name": "races-core",
-            "label": "Core Races (Grant Homebrew)",
+            "label": "(Grant) Core Races",
             "path": "./packs/races-core.db",
             "entity": "Item",
             "type": "Item",
@@ -120,7 +156,7 @@
         },
         {
             "name": "races-branch",
-            "label": "Branch Races (Grant Homebrew)",
+            "label": "(Grant) Branch Races",
             "path": "./packs/races-branch.db",
             "entity": "Item",
             "type": "Item",
@@ -128,7 +164,7 @@
         },
         {
           "name": "backgrounds",
-          "label": "Backgrounds (Grant Homebrew)",
+          "label": "(Grant) Backgrounds",
           "system": "undertaking",
           "path": "./packs/backgrounds.db",
           "entity": "Item",
@@ -136,7 +172,7 @@
         },
         {
           "name": "backgrounds-early",
-          "label": "Early Backgrounds (Grant Homebrew)",
+          "label": "(Grant) Early Backgrounds",
           "system": "undertaking",
           "path": "./packs/backgrounds-early.db",
           "entity": "Item",
@@ -144,7 +180,7 @@
         },
         {
           "name": "backgrounds-later",
-          "label": "Later Backgrounds (Grant Homebrew)",
+          "label": "(Grant) Later Backgrounds",
           "system": "undertaking",
           "path": "./packs/backgrounds-later.db",
           "entity": "Item",
@@ -152,7 +188,7 @@
         },
         {
             "name": "abilities",
-            "label": "Abilities (Grant Homebrew)",
+            "label": "(Grant) Abilities",
             "path": "./packs/abilities.db",
             "entity": "Item",
             "type": "Item",
@@ -160,7 +196,7 @@
         },
         {
             "name": "spells-cantrips",
-            "label": "Cantrips (Grant Homebrew)",
+            "label": "(Grant) Cantrips",
             "path": "packs/spells-cantrips.db",
             "entity": "Item",
             "type": "Item",
@@ -168,7 +204,7 @@
           },
           {
             "name": "spells-level-1",
-            "label": "1st Level Spells (Grant Homebrew)",
+            "label": "(Grant) 1st Level Spells",
             "path": "packs/spells-level-1.db",
             "entity": "Item",
             "type": "Item",
@@ -176,7 +212,7 @@
           },
           {
             "name": "conditions",
-            "label": "Conditions (Grant Homebrew)",
+            "label": "(Grant) Conditions",
             "path": "packs/conditions.db",
             "type": "JournalEntry",
             "system": "undertaking"

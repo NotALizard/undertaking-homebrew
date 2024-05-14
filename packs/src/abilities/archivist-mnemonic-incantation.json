@@ -1,0 +1,24 @@
+{
+  "name": "Mnemonic Incantation",
+  "type": "ability",
+  "img": "icons/skills/social/diplomacy-offering-ritual.webp",
+  "system": {
+    "description": {
+      "value": "<p>Ritual casting a spell now only takes 1 additional minute instead of 10 additional minutes.</p><p>In addition, once per long rest, you can spend mana to cast an unprepared spell from your spellbook with the Ritual tag as if it was prepared.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "1MU42OBYA856G0UH"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Panache",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>As a corsair, your effectiveness hinges upon taking bold risks to gain the upper hand. These feats of daring-do are represented by your Panache Dice, which are d6. You start with one Panache Die, and can hold up to a maximum of 1 + your Proficiency Bonus Panache Dice at a time. When you finish a long rest, you lose any unused Panache Dice and then gain one.</p><p>Gaining more Panache Dice to use requires taking risks. You can gain them in the following ways:</p><ul><li>Whenever you activate your Sneak Attack ability, you can choose to forgo up to half of your sneak attack dice in order to gain a Panache Die for each Sneak Attack die you sacrifice.</li><li>Before rolling a skill check you are proficient in for a non-trivial task, you can choose to take a penalty equal to your proficiency bonus in order to gain a Panache Die. This penalty is static and not increased by multipliers to your proficiency bonus, such as the Multi-Talented ability.</li></ul><p>You can use your Panache dice to fuel special abilities, called Corsair Gambits. You know one Gambit called <em>Scallywag</em>, detailed below, and can add new ones to your roster by taking the Corsair ability associated with each of them.</p><p><strong>Growth:</strong> Your Panache Die increases in size at each growth level, becoming a d8 at 5th level, d10 at 11th level, and d12 at 17th level.</p><p>You learn the following Gambit: @Compendium[undertaking-homebrew.abilities.Y26KXC52QC1Z8Z4L]{Gambit: Scallywag}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "EDSSCUMXYUHNCQ9F"
+}

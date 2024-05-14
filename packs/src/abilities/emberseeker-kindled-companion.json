@@ -1,0 +1,24 @@
+{
+  "name": "Kindled Companion",
+  "type": "ability",
+  "img": "icons/magic/fire/projectile-smoke-swirl-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>Your familiar gains a bonus equal to your proficiency bonus to its AC, saving throws, attack rolls, and damage rolls of its attacks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "RZWY2QVJ74LA8RZ6"
+}

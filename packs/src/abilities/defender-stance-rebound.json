@@ -1,0 +1,25 @@
+{
+  "name": "Fighting Stance: Rebound",
+  "type": "ability",
+  "img": "icons/magic/light/beam-impact-deflect-teal.webp",
+  "system": {
+    "description": {
+      "value": "<p><i>Requirement:</i> A Buckler or a bludgeoning weapon with the Thrown trait and no other weapons.</p><hr><p>You grip your throwing implement and wind back your arm, ready to hurl the mass towards an approaching foe. While blunt throwing weapons might not have the best aerodynamics, at this distance they pack enough punch to send attackers reeling back the way they came.</p><hr><u>Pros</u><p><b>Jumbo Discus</b><ul><li>Bucklers you wield gain the <b>Thrown (20/60)</b> trait.</li></ul><b>Go for Gold</b><ul><li>As an action, you can make a single thrown weapon attack that has advantage within its normal range and suffers no disadvantage from going beyond its normal range. Attacks that exceed the maximum range still miss.</li></ul><b>Rebound</b><ul><li>After making an attack with a thrown weapon, it bounces back towards you.</li><ul><li>If the attack hits, the weapon rebounds directly to you and you catch it.</li><li>If the attack misses, it bounces harmlessly and lands in a random space within 5 ft of you.</li></ul></ul><b>Confounding Blows</b><ul><li>When you hit a creature with your weapon, they have disadvantage on the first weapon attack they make before the end of their next turn.</li></ul><b>Bank Shot</b><ul><li>When you score a critical hit with a thrown weapon, you can choose to have it bounce towards another target instead of immediately returning. Make an attack with advantage against a different creature within the weapon's range from the current target. The weapon still returns after the attack chain ends, as long as there was no <b>Catastrophic Miss</b>.</li></ul></p><hr><u>Cons</u><p><b>Catastrophic Miss</b><ul><li>Upon critically failing a thrown weapon attack, the weapon does not return to you and instead flies 20ft past the target before hitting the ground.</li><li>Attacks beyond a weapon's maximum range also suffer a <b>Catastrophic Miss</b>.</li></ul><b>Conservation of Momentum</b><ul><li>The normal and maximum ranges of thrown weapons are halved.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "stance"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "0FNB61M34QI8Q8AT"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Deathwarden",
+  "type": "class",
+  "img": "icons/magic/death/weapon-scythe-rune-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>The Deathwardens are a mysterious order of acolytes who guard the separation of life and death. Their qualms are not with necromantic magic in general&mdash;as they incorporate the mastery of such energies into their techniques&mdash;but rather those who would violate the sanctity of graveyards or seek immortality through undeath.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "deathwarden",
+    "restDice": "d10",
+    "manaAtFirstLevel": 1,
+    "manaPerLevel": 1,
+    "categorization":{
+      "martial":{
+        "progression": "full"
+      },
+      "spellcaster": {
+        "progression": "full"
+      }
+    },
+    "classDetails": "<h3>Standalone Archetype: Deathwarden</h3><p><em>Unlock:</em> When you reach 3rd level overall and have at least one level each in a Martial and Spellcaster class.</p><hr /><h3>Class Features at Higher Levels</h3><p><strong>Class Categorization:</strong>&nbsp;Martial<br /><strong>Rest Dice Gain After 1st Level:</strong> 1d10 per&nbsp;Deathwarden level<br /><strong>Hit Point Gain After 1st Level:</strong><br /> - 1d10 + your Constitution modifier<br /> - Or&nbsp;6 + your Constitution modifier<br /><strong>Mana:</strong>&nbsp;+1</p><p><strong>Spellcasting Attribute:</strong> Abilities in this class use the same spellcasting attribute as your <em>Dread Blade</em> cantrip.</p><p>&#x27A2; Spell Save DC: 8 + your proficiency bonus + your spellcasting attribute modifier.</p><hr /><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.5GKWWIQFXU0YBEWB]{Tools of the Harvest}, @Compendium[undertaking-homebrew.abilities.WXAA4GO3QQKD1H7M]{Loyal Weapon}</p><hr /><h3>Deathwarden Abilities</h3><p>When taking a level in Deathwarden, you may choose from the following abilities:</p><hr /><p>Options: @Compendium[undertaking-homebrew.abilities.VP1MJ4K008E0P5QE]{Reaper}, @Compendium[undertaking-homebrew.abilities.H5SWPCUEGNVFEPPT]{Thanatophobia}, @Compendium[undertaking-homebrew.abilities.GJSBBBEWC3QHE19Y]{One Foot in the Grave}, @Compendium[undertaking-homebrew.abilities.5Y5UKK5OB00AYMHG]{Hungering Shadows}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "5TLH6H5CXB9YMEK5"
+}

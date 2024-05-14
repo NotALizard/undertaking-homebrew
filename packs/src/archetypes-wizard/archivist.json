@@ -1,0 +1,24 @@
+{
+  "name": "Arcane Archetype: Archivist",
+  "type": "archetype",
+  "img": "icons/sundries/books/book-clasp-spiral-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>Subclass for the @Compendium[undertaking.classes.KWLWHMDBZ3NK1FAV]{Wizard} class.</p><p>When it comes to thieves, few professions can boast the fame and notoriety that surrounds the Archivists of the high seas. The tales of their voyages are filled to the brim with daring acts of piracy and enviable riches, along with a hearty serving of betrayal. Even with such dangers, the life of the Archivist calls to any Rogue with a spark of wanderlust and adventure in their soul. To truly succeed as a Archivist, one needs not just a capable crew but also the charm and daring to lead them, else the ever-present whispers of avarice may begin to stir mutiny in their hearts of those you rely on most.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "wizard-archivist",
+    "classIdentifier": "wizard",
+    "classDetails": "<h3>Arcane Archetype: Archivist</h3><p><i>Unlock:</i> Have the Wizard Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.RO9FKOQD6XCS0KNA]{Efficient Shorthand}, @Compendium[undertaking-homebrew.abilities.SN7OJX8K8CW54ZOO]{Trove of Knowledge}</p><hr/><h3>Archivist Abilities</h3><p>When taking a level in Archivist, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.9NG1O17IMMJWQ96D]{Information Overload}, @Compendium[undertaking-homebrew.abilities.1MU42OBYA856G0UH]{Mnemonic Incantation}, @Compendium[undertaking-homebrew.abilities.EWZ01SQKAEZX64W7]{Supplementary Materials}, @Compendium[undertaking-homebrew.abilities.8T2WMB6IJSJBDOAY]{Redundant Records}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "6TRO53NQBH9FE4PJ"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Redundant Records",
+  "type": "ability",
+  "img": "icons/magic/fire/flame-burning-campfire-rocks.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall you may take the ability below.</p><p>As a minor action, you can tear the pages containing a single non-Legendary spell from one of your spellbooks and spend half of the spell's mana cost (rounded down) to imbue them with the power of a spell scroll for the corresponding spell. The chosen spell is removed from your spellbook. The pages crumble to ash after the spell is cast.</p><p>Once you use this ability you can't use it again until you finish a long rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "8T2WMB6IJSJBDOAY"
+}

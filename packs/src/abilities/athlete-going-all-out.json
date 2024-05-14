@@ -1,0 +1,24 @@
+{
+  "name": "Going All-Out",
+  "type": "ability",
+  "img": "icons/magic/unholy/strike-body-life-soul-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>After taking a desperate action, you can choose to act normally on your next turn, but cannot take desperate actions until then. Once you use this ability, you can't use it again until you finish a short rest.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "2nd level overall and have at least one level in a Martial class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "KHXTYYWW0CRFP2RN"
+}

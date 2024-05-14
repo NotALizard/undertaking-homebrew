@@ -1,0 +1,34 @@
+{
+  "name": "Athlete",
+  "type": "class",
+  "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have embarked on a dedicated journey to hone not just your skills to perfection, but your body as well. By cultivating your own physical prowess, you know that you can count on your body to perform when the situation tests your physical limits.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "identifier": "athlete",
+    "restDice": "d12",
+    "manaAtFirstLevel": 0,
+    "manaPerLevel": 0,
+    "categorization":{
+      "martial":{
+        "progression": "full"
+      },
+      "spellcaster": {
+        "progression": "none"
+      }
+    },
+    "classDetails": "<h3>Standalone Archetype: Athlete</h3><p><em>Unlock:</em> When you reach 2nd level overall and have at least one level in a Martial class.</p><hr /><h3>Class Features at Higher Levels</h3><p><strong>Class Categorization:</strong>&nbsp;Martial<br /><strong>Rest Dice Gain After 1st Level:</strong> 1d12 per&nbsp;Athlete level<br /><strong>Hit Point Gain After 1st Level:</strong><br /> - 1d12 + your Constitution modifier<br /> - Or&nbsp;7 + your Constitution modifier<br /><strong>Mana:</strong>&nbsp;None</p><hr /><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.VXLO74M9FQ5TRHU8]{Athletic}</p><hr /><h3>Athlete Abilities</h3><p>When taking a level in Athlete, you may choose from the following abilities:</p><hr /><p>Options: @Compendium[undertaking-homebrew.abilities.GOP7M90B2MXBCL8K]{Sprinter}, @Compendium[undertaking-homebrew.abilities.17YBBWEXS5QW6W94]{Stalwart Physique}, @Compendium[undertaking-homebrew.abilities.KHXTYYWW0CRFP2RN]{Going All-Out}, @Compendium[undertaking-homebrew.abilities.MCOVKJ7UZMJQGXIQ]{Tireless}</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "SGBQSDSKVB1PB8HK"
+}

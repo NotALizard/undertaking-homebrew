@@ -1,0 +1,25 @@
+{
+  "name": "Fighting Stance: Decoy",
+  "type": "ability",
+  "img": "icons/environment/settlement/target-dummy.webp",
+  "system": {
+    "description": {
+      "value": "<p><i>Requirement:</i> Not wielding a shield and not @Compendium[undertaking.conditions.YE63H7VLOHW7NFHO]{Invisible}. You can wield other weapons while in this stance as long as the requirements remain met.</p><hr><p>Squaring up your shoulders and standing boldly in clear view, you feign an opening in your defenses while confidently eyeing your foes, as if daring them to make the first strike. Getting through your enemy's armor will be trivial once your attitude has gotten under their skin.</p><hr><u>Pros</u><p><b>Insult to Injury</b><ul><li>Your weapon and unarmed attacks deal an additional 1d4 psychic damage. The size of this damage die cannot be increased or decreased.</li></ul><b>Undaunted</b><ul><li>Creatures with the @Compendium[undertaking.conditions.Y822OUCDEPAG0HS8]{Frenzied} condition do not add their Wisdom (Instinct) modifier to attack and damage rolls targeting you.</li></ul><b>Taunt</b><ul><li>As a minor action, you can attempt to goad a creature within 20 feet into a duel with you. They must make a Wisdom (Save) check of DC 8 + Your Presence Modifier + Your Proficiency Bonus. On a failure, they become @Compendium[undertaking.conditions.Y822OUCDEPAG0HS8]{Frenzied} until the end of their next turn. The condition ends early if the creature can no longer see you or you move far enough away that the creature could not reach you without using the Dash action.</li><ul><li>If you activate this ability on a target after hitting them with at least one weapon attack in the same turn, the target suffers a -2 penalty to their Save check.</li></ul><li>Creatures @Compendium[undertaking.conditions.Y822OUCDEPAG0HS8]{Frenzied} by this ability:</li><ul><li>Always consider you the nearest target, even if other creatures are closer.</li><li>Can continue to concentrate on spells, but have disadvantage on checks to maintain concentration.</li><li>May still cast spells, but only if the spell involves making one or more attacks against you and no other creatures. Alternatively, the creature may target themself or an object with a spell if it would allow them to make an attack against you during the same turn it was cast.</li></ul></ul><b>That All You've Got?</b><ul><li>After you suffer bludgeoning, piercing, or slashing damage, you can use your reaction to gain resistance to one of the listed damage types you just suffered for all subsequent attacks and effects, lasting until the start of your next turn.</li></ul></p><hr><u>Cons</u><p><b>Chip on Your Shoulder</b><ul><li>Your AC is reduced by 2.  If you are wearing Heavy armor, your AC is reduced by 3 instead.</li><li>Attacks of Opportunity have advantage against you.</li></ul><b>Inflated Ego</b><ul><li>Taking a Desperate Action causes you to immediately leave this stance before resolving the action.</li></ul><b>Obvious Target</b><ul><li>You automatically lose Dexterity (Stealth) contests against other creatures' Wisdom (Perception) or Awareness.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "stance"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "TGJ46BXWJNNZTG8R"
+}

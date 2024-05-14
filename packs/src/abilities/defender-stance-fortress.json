@@ -1,0 +1,25 @@
+{
+  "name": "Fighting Stance: Fortress",
+  "type": "ability",
+  "img": "icons/sundries/gaming/chess-rook-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p><i>Requirement:</i> Heavy armor or a shield with the Heavy trait. You can wield other weapons while in this stance as long as the requirements remain met.</p><hr><p>You lean into the weight and heft of your armor or shield, carefully placing your feet and shoring up your balance to make any attempt to undermine you an uphill battle. You are a living wall of steel.</p><hr><u>Pros</u><p><b>Impervious</b><ul><li>You can reduce Bludgeoning, Slashing, and Piercing damage you take by an amount equal to your proficiency bonus.</li></ul><b>Immovable Object</b><ul><li>You have advantage on checks made to avoid being moved or knocked prone.</li><li>Whenever you win a contested skill check to avoid being shoved, tripped, or grappled, you can immediately push your opponent 5 ft in any direction if they are no more than one size larger than you</li></ul></p><hr><u>Cons</u><p><b>Weighed Down</b><ul><li>Your movement speed is halved.</li><li>You have disadvantage on Dexterity (save) checks.</li></ul><b>Obstructed Vision</b><ul><li>You have disadvantage on Wisdom (Perception) checks relying on sight.</li></ul><b>Limited Defense</b><ul><li>If you leave this stance, you cannot re-enter this stance this turn.</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "stance"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "S8BIHKJPHEGR910P"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Dead Men Tell No Tales",
+  "type": "ability",
+  "img": "icons/sundries/documents/document-symbol-skull-tan.webp",
+  "system": {
+    "description": {
+      "value": "<p>You&rsquo;re well-traveled and accustomed to conversing with parties on less than the most cooperative of terms. In that time you&rsquo;ve picked up a knack for &ldquo;putting things into perspective&rdquo;. You gain proficiency in Presence (Intimidation) or the Vehicle Trade.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "HLOE5LYM9Y1M9U58"
+}

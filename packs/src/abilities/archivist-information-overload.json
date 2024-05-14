@@ -1,0 +1,24 @@
+{
+  "name": "Information Overload",
+  "type": "ability",
+  "img": "icons/skills/wounds/anatomy-organ-brain-pink-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>When you cast a spell that has one of the following damage types in the description: acid, cold, fire, force, lightning, radiant, poison, or necrotic, you can replace the damage type with psychic and the spell&rsquo;s appearance changes to accommodate.</p><p>Whenever you modify a spell in this way, any Dexterity and Constitution (Save) Checks are replaced with Intelligence (Save) Checks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "9NG1O17IMMJWQ96D"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fighting Stance: Bodyguard",
+  "type": "ability",
+  "img": "icons/equipment/shield/heater-crystal-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p><i>Requirement:</i> A shield, with or without a weapon in your other hand.</p><hr><p>You step closer to your ward, holding your shield out so that it protects both of you. Surveying the field for threats they might not even see, you prepare yourself to do anything to keep the heat off of them.</p><hr><u>Pros</u><p><b>Selfless Defense</b><ul><li>In addition to the normal methods, you can enter this stance at the end of a Self-Defense action or as a reaction to a creature ending its turn within 5 feet of you.</li></ul><b>Guardian</b><ul><li>One creature of your choice also gains the AC bonus of a single shield you are wielding while they are within 5 feet of you. A creature that is wielding a shield of its own does not gain this bonus.</li></ul><b>Got Your Back</b><ul><li>When an ally within 5 feet moves, you can use your Reaction to move with them up to your maximum movement speed.</li></ul></p><hr><u>Cons</u><p><b>On Defense</b><ul><li>Creatures do not provoke Attacks of Opportunity from you when leaving your weapon range.</li></ul><b>Divided Protection</b><ul><li>You suffer a -1 penalty to your AC</li></ul></p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "stance"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "L7C1Z21RZCX2NKTL"
+}

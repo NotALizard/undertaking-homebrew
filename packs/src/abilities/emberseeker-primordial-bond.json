@@ -1,0 +1,24 @@
+{
+  "name": "Primordial Bond",
+  "type": "ability",
+  "img": "icons/magic/fire/flame-burning-eye.webp",
+  "system": {
+    "description": {
+      "value": "<p>You learn the @Compendium[undertaking-homebrew.spells-level-1.TT94JMKOUYP2WM96]{Cojoin Familiar} spell. Familiars you create with this spell gain the following benefits:</p><ul><li>The familiar&rsquo;s attacks deal fire damage instead of the listed damage types.</li><li>The familiar is immune to fire damage.</li><li>The familiar&rsquo;s creature type is Elemental.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "06UDKKP6BQGSGKF8"
+}

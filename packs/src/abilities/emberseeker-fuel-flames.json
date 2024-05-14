@@ -1,0 +1,24 @@
+{
+  "name": "Fuel the Flames",
+  "type": "ability",
+  "img": "icons/magic/fire/flame-burning-campfire-red.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Unlock: </em>When you reach 6th level overall you may take the ability below.</p><p>Whenever an ember created by your @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} cantrip detonates, gain temporary hit points equal to the number rolled on the detonation damage die, not including any modifiers or bonuses.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "17T1JOINDUGBWTGS"
+}

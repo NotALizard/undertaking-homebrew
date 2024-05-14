@@ -1,0 +1,24 @@
+{
+  "name": "Efficient Shorthand",
+  "type": "ability",
+  "img": "icons/sundries/scrolls/scroll-writing-brown-grey.webp",
+  "system": {
+    "description": {
+      "value": "<p>You have developed a simple yet efficient system for categorizing, sorting, and copying knowledge. The cost of copying spells into a spellbook is halved for you.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Wizard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "RO9FKOQD6XCS0KNA"
+}

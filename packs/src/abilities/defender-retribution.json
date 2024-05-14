@@ -1,0 +1,24 @@
+{
+  "name": "Retribution",
+  "type": "ability",
+  "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>Creatures within your weapon's reach provoke an attack of opportunity from you when they attack a creature other than you, unless the creature they are attacking also has this ability. If you hit with this attack of opportunity, your target's victim also gains 1d4 temporary hit points.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "Must have the Fighter Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "G5GV21SNLQ4Q8K8C"
+}

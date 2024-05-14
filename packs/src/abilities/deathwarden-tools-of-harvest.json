@@ -1,0 +1,24 @@
+{
+  "name": "Tools of the Harvest",
+  "type": "ability",
+  "img": "icons/skills/trades/farming-sickle-harvest-wheat.webp",
+  "system": {
+    "description": {
+      "value": "<p>You learn the @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip, and Intelligence, Wisdom, or Presence is your spellcasting attribute for it.</p><p>If you already knew the @Compendium[undertaking-homebrew.spells-cantrips.QVIXYJFEAOXHF2SW]{Dread Blade} cantrip before selecting this Archetype or later learn it from another source, you instead gain proficiency with one of the following: daggers, sickles, shortswords, hatchets.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "3rd level overall and have at least one level each in a Martial and Spellcaster class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "5GKWWIQFXU0YBEWB"
+}

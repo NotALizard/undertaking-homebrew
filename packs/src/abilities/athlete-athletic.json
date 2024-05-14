@@ -1,0 +1,24 @@
+{
+  "name": "Athletic",
+  "type": "ability",
+  "img": "icons/magic/control/buff-strength-muscle-damage.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can accomplish impressive feats of physical endurance. You gain proficiency in Strength (Athletics).</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "2nd level overall and have at least one level in a Martial class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "VXLO74M9FQ5TRHU8"
+}

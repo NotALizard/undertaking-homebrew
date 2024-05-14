@@ -1,0 +1,24 @@
+{
+  "name": "Stalwart Physique",
+  "type": "ability",
+  "img": "icons/skills/wounds/injury-body-pain-gray.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can use Constitution in place of Dexterity when determining your AC. While you aren't wearing any armor, your AC is 12 + Your Dexterity or Constitution Modifier.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "subclass"
+    },
+    "requirements": "2nd level overall and have at least one level in a Martial class",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "17YBBWEXS5QW6W94"
+}

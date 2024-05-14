@@ -1,0 +1,24 @@
+{
+  "name": "Gambit: Shake a Leg",
+  "type": "ability",
+  "img": "icons/sundries/gaming/dice-pair-white-green.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Gambit: Shake a Leg</strong></p><p><em>Cost: 1 Panache</em></p><p>Whenever you roll initiative and are not <strong>Surprised</strong>, you can expend a single Panache Die to roll it and add it to the result.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Rogue Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "YUAJX59ZHM417PCB"
+}
