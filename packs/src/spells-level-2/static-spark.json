@@ -1,0 +1,71 @@
+{
+    "name": "Static Spark",
+    "type": "spell",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>You hurl a ball of electricity at a creature within range, making a ranged spell attack. On a hit, the target takes 2d10 lightning damage and becomes charged with static electricity. On a miss, the spell ends. For the duration, you can use your action to make a ranged spell attack against any other creature within 15 feet of the charged creature, dealing 2d6 lightning damage on a hit.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: If you miss the initial spell attack, the spell does not end and the target creature&rsquo;s space becomes charged with electricity instead. The rest of the spell functions as normal but with the words &ldquo;charged creature&rdquo; replaced with &ldquo;charged space&rdquo;.</li><li>1 Mana: Instead of making a spell attack, you can touch a willing creature to harmlessly charge them with electricity instead. The spell functions as normal, skipping the initial attack damage.</li><li>4 Mana: The subsequent spell attacks can be triggered as a minor action.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": true,
+        "school": "evo",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "A piece of fur and a glass sphere",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "rsak",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "minute"
+        },
+        "range": {
+            "value": "60",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "2d10",
+                    "lightning"
+                ],
+                [
+                    "2d6",
+                    "lightning"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "BNG42U9X3RWWFWXA"
+}

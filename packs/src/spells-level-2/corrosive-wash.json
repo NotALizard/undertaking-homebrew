@@ -1,0 +1,67 @@
+{
+    "name": "Corrosive Wash",
+    "type": "spell",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>You conjure a shower of corrosive acid upon a target within range. The target must make a Dexterity (Save) check. On a failed save, it takes 2d10 acid damage and becomes coated in bubbling acid, temporarily weakening its defenses. If the creature is benefiting from natural armor, medium armor, heavy armor, or a shield then it suffers a -2 penalty to AC until the end of your next turn. This reduction to AC cannot be combined with other effects that reduce AC, such as multiple castings of this spell.</p><p>On a successful save, the creature takes half of the damage and suffers no other effects.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: The AC reduction applies to any target that fails their save, regardless of what armor or shields they have.</li><li>2 Mana: The AC penalty increases to -3.</li><li>2 Mana: In addition to targeting a creature, you can cause the acid to permanently eat holes in one Large or smaller object not being worn or carried or one 5-foot section of wall that is within 5 feet of the target. As well as weakening the structural integrity of the object or surface, any creature that attempts to use it as cover gains one tier lower of obstruction from the object than it normally would. For example, a creature fully obscured by it would only gain the benefits of three-quarters cover. Weapons affected by this deal a damage die size smaller.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": true,
+        "school": "con",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "vinegar, a piece of limestone",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "save",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "round"
+        },
+        "range": {
+            "value": "30",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "2d10",
+                    "acid"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "dex",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "DV87F1MQUC5C59VW"
+}
