@@ -1,7 +1,7 @@
 {
     "name": "Cauterize",
     "type": "spell",
-    "img": "",
+    "img": "icons/magic/fire/flame-burning-hand-orange.webp",
     "system": {
         "description": {
             "value": "<p>You reach out and sear a creature&rsquo;s open wounds. The creature takes 2d6 fire damage and must make a Dexterity (Save) Check to try and pull away, which it can choose to fail. On a failed save, you choose one of the following to happen:</p><ul><li>All of the creature&rsquo;s stacks of @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding}&nbsp;are removed, and it suffers an additional 1d6 fire damage for each stack removed.</li><li>The creature resists the spell&rsquo;s fire damage and gains temporary hit points equal to the fire damage taken. This damage cannot reduce a creature below 1 hit point. Additionally, all of the creature&rsquo;s stacks of @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding}&nbsp;are removed, gaining an additional 1d6 temporary hit points per removed stack.</li></ul><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>2 Mana: After resolving the spell&rsquo;s effects, re-apply half of the stacks of @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding}&nbsp;the spell removed.</li><li>X Mana: For each extra Mana you spend, up to your charge limit, you can also remove one stack of @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding}&nbsp;from yourself. If the target fails its save, you can include these in the total stacks of @Compendium[undertaking.conditions.R54LQEKSDXNQ3N75]{Bleeding}&nbsp;removed when determining the spell&rsquo;s effects on the target.</li></ul>",

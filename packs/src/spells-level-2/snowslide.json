@@ -1,7 +1,7 @@
 {
     "name": "Snowslide",
     "type": "spell",
-    "img": "",
+    "img": "icons/magic/water/ice-snowman.webp",
     "system": {
         "description": {
             "value": "<p>A cascade of snow and ice sweeps through a 20-foot cube centered on a point you choose within range. When you cast this spell, choose one side of the cube (excluding the top and bottom) to be the side of egress. Each creature within the cube must make a Constitution (Save) Check. On a failed save, a creature takes 3d8 cold damage and is moved directly towards the chosen egress side until it is ejected from the cube or is stopped by an obstacle. On a successful save, a creature takes half damage and is not moved. Afterwards, the snow rapidly melts and dissipates, leaving behind only small clumps and puddles.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: Snow coats the ground in the cube for the next minute. While snow-covered, the area is considered difficult terrain. The snow within each 5-foot space melts early when it or a creature in it is subjected to any fire damage.</li><li>2 Mana: The size increases to a 30-foot cube.</li></ul>",
