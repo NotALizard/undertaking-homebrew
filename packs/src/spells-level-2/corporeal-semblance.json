@@ -1,0 +1,62 @@
+{
+    "name": "Corporeal Semblance",
+    "type": "spell",
+    "img": "icons/magic/control/energy-stream-link-white.webp",
+    "system": {
+        "description": {
+            "value": "<p>You temporarily change the race of one willing creature you touch, giving them the form, appearance, and racial abilities of a creature from a different lineage. For the duration, the target replaces all of their racial abilities with those of the creature that the spell&rsquo;s material components were taken from, ignoring any changes to attributes, maximum hit points, lifespan, proficiencies, languages, or equipment.&nbsp;</p><p>The target&rsquo;s new form loosely resembles that of the copied creature such that they could be mistaken for a relative, but not to the extent that anyone would confuse the two. Within these constraints, the target can fine-tune aspects of their new appearance, such as hairstyle, body markings, age, and body shape, as long as they are possible for the new race and relatively similar to the copied creature.</p><p>The magic of the spell provides the target with a basic understanding of their new form&rsquo;s capabilities and helps acclimate them to any unusual externalities such as new senses, different forms of locomotion, or an alien set of vocal cords.</p><p>This spell struggles to perfectly recreate any magical aspects the target&rsquo;s new form may have. Abilities that would restore a creature&rsquo;s mana can only restore up to 1 mana total across the transformation&rsquo;s duration. Additionally, the target must use its own mana to cast any spells of 2nd level or higher granted by their new race, even if they would normally be able to cast them without mana.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>0 Mana: The spell no longer requires Concentration but only lasts 1 hour.</li><li>1 Mana: The target&rsquo;s clothing and armor alter and resize to accommodate their new form, but the material and style remains the same. They remain in this altered state for the spell&rsquo;s duration, even when doffed.</li><li>2 Mana: The spell consumes an additional valid material component, taken from a different creature. The target gains the core race abilities from one and the branch race abilities from the other, and their new form resembles a hybrid of the two.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": true,
+        "school": "tra",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": true,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "A lock of hair, vial of blood, or other fragment taken from a societal creature in its natural form, which the spell consumes",
+            "consumed": true,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "minute",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "8",
+            "units": "hour"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "9J6AS3OK4M7GS3NW"
+}

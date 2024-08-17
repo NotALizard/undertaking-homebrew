@@ -1,0 +1,62 @@
+{
+    "name": "Escape",
+    "type": "spell",
+    "img": "icons/creatures/birds/birds-flock-fly-yellow.webp",
+    "system": {
+        "description": {
+            "value": "<p>With a startling shout, you momentarily transform into a harmless flying cloud of vapor, beasts, or spirits. While transformed in this way, your size becomes Tiny, you have the ability to fly, and you gain an additional 30 ft of movement this turn.&nbsp;</p><p>You revert to your normal form once you have moved 30 ft, you attempt to take any other actions, or you end your turn. If you revert in a space too small to contain you, you take 5 force damage and are forced back along the path you took until there is enough space to accommodate you.</p><p>When you transform, all equipment you are wearing or carrying transforms with you, and you automatically escape any @Compendium[undertaking.conditions.FGVFFYGPAFQGZ5RP]{Grappled}&nbsp;or @Compendium[undertaking.conditions.1EK5V6KTYAWC6S69]{Restrained}&nbsp;conditions caused by non-magical sources. Magical effects causing you to be @Compendium[undertaking.conditions.FGVFFYGPAFQGZ5RP]{Grappled}&nbsp;or @Compendium[undertaking.conditions.1EK5V6KTYAWC6S69]{Restrained}&nbsp;are only suppressed while you are transformed.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: If used as a Desperate Action, you gain advantage on Dexterity (Save) Checks and an additional +2 AC until the end of the interrupted creature&rsquo;s turn.</li><li>2 Mana: One willing creature within 5ft of you is also transformed and carried with you. When your transformation ends they are deposited in the nearest empty space.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": true,
+        "school": "tra",
+        "components": {
+            "somatic": false,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "minor",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "round"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "self"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "2PJ8ZPXCT48NTRUF"
+}

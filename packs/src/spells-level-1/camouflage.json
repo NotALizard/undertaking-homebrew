@@ -1,0 +1,62 @@
+{
+    "name": "Camouflage",
+    "type": "spell",
+    "img": "icons/magic/perception/eye-slit-orange.webp",
+    "system": {
+        "description": {
+            "value": "<p>You blanket a creature with illusory magic that subtly muddles visual details to resemble their hiding spot, reducing the effort required to escape the notice of others. If the target&rsquo;s surroundings allow it, they can attempt to Hide immediately as a non-action when this spell is cast. For the spell&rsquo;s duration, the target can attempt to Hide again as a minor action.</p><p>In addition, creatures not actively searching for the target have a -3 to their Awareness to spot them so long as they remain still.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: In addition, any sounds the target makes unintentionally are muffled. The target ignores the penalties to Dexterity (Stealth) checks imposed by wearing armor with the Noisy trait, and they no longer need to remain still to benefit from the -3 to others&rsquo; Awareness.</li><li>1 Mana: The spell&rsquo;s range becomes Self. All creatures hiding and remaining still within 10ft of you are harder to spot. Creatures have a -3 to their Awareness to spot the affected creatures.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "ill",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": true,
+            "ritual": true,
+            "concentration": true
+        },
+        "materials": {
+            "value": "paints or colorful mud",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "minor",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "10",
+            "units": "minute"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "1BWH53RXWUBCUZI6"
+}

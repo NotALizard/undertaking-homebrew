@@ -1,0 +1,62 @@
+{
+    "name": "Heighten Senses",
+    "type": "spell",
+    "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
+    "system": {
+        "description": {
+            "value": "<p>You sharpen a creature&rsquo;s sense of sight, hearing, touch, taste, or smell. For the duration the target has advantage on Wisdom (Perception) and Wisdom (Instinct) checks where the chosen sense is applicable. This also has the effect of granting them a +5 bonus to Awareness in situations where the enhanced sense would apply.</p><p>Charge:&nbsp;This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: You enhance all five senses instead of just one, but the spell requires all five material components if you don&rsquo;t have a focus.</li><li>1 Mana: You additionally gain a sixth sense, allowing the target to sense the presence of @Compendium[undertaking.conditions.YE63H7VLOHW7NFHO]{Invisible}&nbsp;creatures within 30ft of them, whether corporeal or metaphysical. While the target cannot actually see the creature, the Invisible condition does not grant any benefits against the target.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "tra",
+        "components": {
+            "somatic": false,
+            "verbal": true,
+            "material": true,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "a carrot for sight, the ear of a beast for hearing, a downy feather for touch, a thin cracker for taste, or a spicy pepper for smell",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "hour"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "QCCRMIWOSKAGJIAX"
+}
