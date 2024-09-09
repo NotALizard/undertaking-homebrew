@@ -4,7 +4,7 @@
   "img": "icons/environment/people/infantry-army.webp",
   "system": {
     "description": {
-      "value": "<p>You have spent impactful portions of your life around regions marked by strife. Whether you were instructed in self-defense as a youth or trained as an adult to serve in an army or guardpost, you have acquired the skills to brave the test of combat.</p>\n<hr />\n<p><strong>Skill Proficiency:</strong> Pick one of the following: Athletics, Instinct, Intimidation, Medicine, Perception.</p>\n<p><strong>Weapon Proficiency:</strong> Pick two simple weapons or one martial weapon.</p>\n<p><strong>Equipment: </strong>Travel clothes, a simple weapon, a bedroll, a tent, a mess set and 5 days of rations.</p>\n<p><strong>Coinage:</strong> 2d6 gp</p>",
+      "value": "<p>You have spent impactful portions of your life around regions marked by strife. Whether you were instructed in self-defense as a youth or trained as an adult to serve in an army or guardpost, you have acquired the skills to brave the test of combat.</p>\n<hr />\n<p><strong>Skill Proficiency:</strong> Pick one of the following: Athletics, Instinct, Intimidation, Medicine, Perception.</p>\n<p><strong>Weapon Proficiency:</strong> Pick two simple weapons or one martial weapon.</p>\n<p><strong>Equipment: </strong>@Compendium[undertaking.adventuring-gear.UT2OGD8BHM2NQWSL]{Travel clothes}, a simple weapon, a @Compendium[undertaking.adventuring-gear.VL8VMA950A7U4B64]{bedroll}, a @Compendium[undertaking.adventuring-gear.5XS944QJM0KOFRJZ]{tent}, a @Compendium[undertaking.adventuring-gear.S4FPLGGKC25XDSH9]{mess set} and 5 days of @Compendium[undertaking.adventuring-gear.0K9ZLO6XAN2ZM34O]{rations}.</p>\n<p><strong>Coinage:</strong> 2d6 gp</p>",
       "chat": "",
       "unidentified": ""
     },
