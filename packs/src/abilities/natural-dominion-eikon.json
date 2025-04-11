@@ -1,0 +1,24 @@
+{
+  "name": "Number of Nature",
+  "type": "ability",
+  "img": "icons/environment/wilderness/tree-spruce-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain a new Eikonic Number which serves as your <strong>Eikonic Number of Nature</strong> (see the &ldquo;Eikonic Numbers&rdquo; Cleric Starter Ability for details).</p><p>You also gain access to the following <strong>Mantras</strong>, which can only be assigned to your <strong>Eikonic Number of Nature</strong>:</p><ul><li><strong>Paths Less Traveled:</strong> Before the end of your next turn, you can move 10 feet once as a non-action on your turn. This does not subtract from your movement for the turn.</li><li><strong>The Land Heals in Time:</strong> You regain 2 hit points.</li><li><strong>Trust Your Instincts:</strong> Your Wisdom (Instinct) checks are increased by +5 for the next minute. You also immediately know which direction is North, and which direction is up.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "TNH2VR3UUITQYIWG"
+}

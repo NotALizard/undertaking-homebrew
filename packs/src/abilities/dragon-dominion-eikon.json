@@ -1,0 +1,24 @@
+{
+  "name": "Eikon:Dragon",
+  "type": "ability",
+  "img": "icons/creatures/reptiles/dragon-horned-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain an Eikonic Number as detailed in the <strong>Eikonic Numbers</strong> Cleric Starter Ability. However, instead of choosing an Eikonic number from one of the Potencies described in the table, you must pick a number from 13 through 17. This will be your <strong>Eikonic Number of the Dragon</strong>. This Eikonic Number otherwise functions the same as a Greater Potency number when you are assigning and activating Mantras (see the &ldquo;Eikonic Numbers&rdquo; Cleric Starter Ability for details).<br />&nbsp;&nbsp;&nbsp;&nbsp;Seeing the elemental power of your affinity made manifest in the world serves as an additional source of conviction for your faith. Once per turn, when you roll at least one set of doubles on damage dice that match the type of your <strong>Elemental Affinity</strong>, you can activate your <strong>Eikonic Number of the Dragon</strong> as if you had rolled it.<br />&nbsp;&nbsp;&nbsp;&nbsp;Finally, assign two of the following Mantras to this new <strong>Eikonic Number of the Dragon</strong>:</p><ul><li><strong>Suffer No Insult:</strong> Until the end of your next turn, attackers that hit you with melee attacks suffer 1d4 damage of your Elemental Affinity&rsquo;s type.</li><li><strong>Mine, All Mine:</strong> Coins with a total gp value equal to your proficiency bonus appear in a container you&rsquo;re carrying.</li><li><strong>Inhale, Exhale:</strong> The next time you roll damage for an attack or spell before the end of your next turn, you can add your Wisdom modifier as extra damage of your Elemental Affinity&rsquo;s type.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "B1NJPCKFFLL7PFVJ"
+}
