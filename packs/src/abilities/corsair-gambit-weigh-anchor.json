@@ -4,7 +4,7 @@
   "img": "icons/sundries/gaming/dice-pair-white-green.webp",
   "system": {
     "description": {
-      "value": "<p><strong>Gambit: Weigh Anchor</strong></p><p><em>Cost: 1 Panache</em></p><p>To use this gambit, you must be holding a rope with an attached grappling hook. As a minor action, or as part of the Dash action, you can expend one Panache Dice to secure the rope to any protrusion above you (such as a tree branch, rock outcropping, pole, or chandelier) that is within the rope&rsquo;s length from you. You can alternatively attempt to secure it to a flying creature, however the creature can make a Dexterity (Save) Check versus your Sneak Attack DC to avoid it. You can use your action while touching a rope you secured with this ability to retrieve it and the attached grappling hook.</p>",
+      "value": "<p><strong>Gambit: Weigh Anchor</strong></p><p><em>Cost: 1 Panache</em></p><p>To use this gambit, you must be holding a rope with an attached grappling hook. As a minor action, or as part of the Dash action, you can expend one Panache Dice to secure the rope to any protrusion (such as a tree branch, rock outcropping, pole, or chandelier) at a distance of up to 30 feet from you and not exceeding the rope's length. You can alternatively attempt to secure it to a creature, however the creature can make a Dexterity (Save) Check versus your Sneak Attack DC to avoid it. A creature that can reach the hook can use their action to detach the grappling hook from the hooked target. You can use your action while touching a rope you secured with this ability to retrieve it and the attached grappling hook.</p>",
       "chat": "",
       "unidentified": ""
     },

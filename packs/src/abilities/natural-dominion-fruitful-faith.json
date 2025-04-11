@@ -4,7 +4,7 @@
   "img": "icons/consumables/fruit/apple-red-tree-green.webp",
   "system": {
     "description": {
-      "value": "<p>As an action, you can spend 1 @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die to conjure a blessed fruit. Any creature that is holding one of these fruits can use its minor action to eat the fruit, regaining hit points equal to 2d4 + your Wisdom modifier. If you can see a creature when it eats a fruit created by this ability, you can use your reaction to spend any number of @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Dice and add them to the number rolled. When you finish a long rest, any fruits you created that have not been eaten decay. They lose their magic and you regain a @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die for each.</p>",
+      "value": "<p>As an action, you can spend 1 @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die to conjure a blessed fruit. This fruit is a tiny object that persists until it is eaten or otherwise destroyed. Any creature that is holding one of these blessed fruits can use their minor action to eat the fruit and regain 2d6 hit points. Once per day, this ability can trigger a @Compendium[undertaking.abilities.BREZS34CQ6PFBCNF]{Miracle} if you roll doubles on the dice. You can use this ability a number of times equal to your proficiency bonus, and regain all uses when you finish a long rest.<br>&nbsp;&nbsp; When you finish a long rest, any blessed fruits you conjured that have not been eaten rapidly decay into compost. They are destroyed and you regain a @Compendium[undertaking.abilities.65D4NMYRBMKHW59K]{&#x1F56F; Faith} Die for each.</p>",
       "chat": "",
       "unidentified": ""
     },
