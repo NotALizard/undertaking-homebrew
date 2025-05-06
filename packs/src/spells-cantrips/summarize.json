@@ -1,0 +1,62 @@
+{
+    "name": "Summarize",
+    "type": "spell",
+    "img": "icons/skills/trades/academics-book-study-runes.webp",
+    "system": {
+        "description": {
+            "value": "<p>Touching an object that bears writing, you speak aloud a question. If the text contains information that directly pertains to your question in a language you understand, you receive an answer in your mind in the form of a short summary of what the text has to say on the matter. Any text on the object that is relevant to your question glows faintly for 1 minute or until this spell is cast on it again. Additionally, the object opens, unrolls, turns, or flips, to the first part that contains information relevant to your question, as long as it is something you could manipulate with little effort. The spell fails if the answer to your question is only indirectly present in the text, such as in the form of coded messages or by implication or subtext.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: For the next 10 minutes, when you cast this spell it gains the ability to provide a translated summary if the answer to your question is present in a language you don&rsquo;t understand.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": true,
+        "school": "div",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "",
+            "units": "inst"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "object"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "JN5WJJMMSLY9SP3D"
+}

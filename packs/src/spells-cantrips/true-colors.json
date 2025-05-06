@@ -1,0 +1,62 @@
+{
+    "name": "True Colors",
+    "type": "spell",
+    "img": "icons/creatures/reptiles/chameleon-camouflage-green-brown.webp",
+    "system": {
+        "description": {
+            "value": "<p>You touch a creature and enchant it with a glamour that, for the duration, causes its body and clothing to change colors subconsciously. Their colors passively shift to better blend in with their environment, but flare up to vibrant colors when experiencing strong emotions.</p><p>As a result, the target gains a +2 bonus to Dexterity (Stealth) checks, and a -3 penalty to Presence (Deception) checks. If you cast this spell on an unwilling creature, it can make a Presence (Save) check to avoid being affected.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: You can concentrate on the spell to extend its duration to 1 hour.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": true,
+        "school": "ill",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": true,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "a patch of shed reptile skin",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "save",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "minute"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "pre",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "0XH9CVT02ZJ11QRD"
+}

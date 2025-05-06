@@ -1,0 +1,62 @@
+{
+    "name": "Siren\u2019s Lure",
+    "type": "spell",
+    "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+    "system": {
+        "description": {
+            "value": "<p>You attempt to dazzle a creature, drawing it into a lull and instilling it with an irresistible compulsion to come closer. It must make a Wisdom (Save) check, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by you until the spell ends or until you or your companions do anything harmful to it.</p><p>While the creature is @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by this spell, it cannot willingly move further away from you. On each of your turns, you can use a minor action to compel a creature under the spell&rsquo;s effect to immediately move up to half its speed closer to you. The creature avoids hazardous terrain to the best of its ability and stops moving if it reaches a point where there is no safe terrain to proceed along.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: You can target an additional creature.</li><li>2 Mana: While the target is @Compendium[undertaking.conditions.KJXJ0T5RPNC51N4V]{Charmed} by this spell, it must make a Wisdom (Save) check at the start of each of its turns. On a failure, the target is @Compendium[undertaking.conditions.3CQC3JEY2C3Y721F]{Incapacitated} until the start of its next turn.</li><li>3 Mana: You can target two additional creatures.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "mes",
+        "components": {
+            "somatic": true,
+            "verbal": true,
+            "material": false,
+            "ritual": false,
+            "concentration": true
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "save",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "10",
+            "units": "minute"
+        },
+        "range": {
+            "value": "30",
+            "long": null,
+            "units": "ft"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "wis",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "S653DDG72GPXIKG6"
+}

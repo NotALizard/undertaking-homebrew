@@ -4,7 +4,7 @@
     "img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
     "system": {
         "description": {
-            "value": "<p>You reach out and create a concussive burst erupting against a creature or object that is not being worn or held within range. A creature targeted by this spell must succeed on a Constitution (Save) Check against your spell save DC or take 1d8 force damage and be pushed 5 feet away from you. An object targeted by this spell takes the damage automatically and is pushed if it is Medium or smaller and nothing is affixing it in place.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: The target is pushed an additional 10 feet.</li><li>1 Mana: The sonic damage is increased to 2d8.</li><li>2 Mana: The sonic damage is increased to 3d8.</li></ul>",
+            "value": "<p>You reach out and create a concussive burst erupting against a creature or object that is not being worn or held within range. A creature targeted by this spell must succeed on a Constitution (Save) Check against your spell save DC or take 1d8 force damage and be pushed 5 feet away from you. An object targeted by this spell takes the damage automatically and is pushed if it is Medium or smaller and nothing is affixing it in place.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: The target is pushed an additional 10 feet.</li><li>1 Mana: The force damage is increased to 2d8.</li><li>2 Mana: The force damage is increased to 3d8.</li></ul>",
             "chat": "",
             "unidentified": ""
         },

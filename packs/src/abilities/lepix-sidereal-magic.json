@@ -4,7 +4,7 @@
   "img": "icons/skills/trades/academics-astronomy-navigation-blue.webp",
   "system": {
     "description": {
-      "value": "<p>You know the @Compendium[undertaking.spells-cantrips.0UML5AJIEZESNC56]{Stability} cantrip. When you reach 3rd level, you can cast the @Compendium[undertaking.spells-level-1.7N5KBCOM40ZX65EO]{Arcane Arrows} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the @Compendium[undertaking.spells-level-2.XPI8O47UKUK45ZRP]{Weight of the World} spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Presence is your spellcasting attribute for it (chosen when you select this race).</p>",
+      "value": "<p>You know the @Compendium[undertaking.spells-cantrips.PEHC9EYWN6B099P9]{Astral Mote} cantrip. When you reach 3rd level, you can cast the @Compendium[undertaking.spells-level-1.MD8DUOG1SKTK0VAC]{Stone Shot} spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the @Compendium[undertaking.spells-level-2.XPI8O47UKUK45ZRP]{Weight of the World} spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Presence is your spellcasting attribute for it (chosen when you select this race).</p>",
       "chat": "",
       "unidentified": ""
     },

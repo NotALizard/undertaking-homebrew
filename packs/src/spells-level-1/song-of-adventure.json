@@ -20,9 +20,9 @@
             "concentration": true
         },
         "materials": {
-            "value": "a musical instrument worth at least 1cp",
+            "value": "a musical instrument worth at least 1sp",
             "consumed": false,
-            "cost": "1",
+            "cost": "0.1",
             "supply": 0
         },
         "attribute": "spell",

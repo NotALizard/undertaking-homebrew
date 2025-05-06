@@ -3,7 +3,7 @@
     "name": "undertaking-homebrew",
     "title": "Grant Undertaking Homebrew",
     "description": "A collection of my content.",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "compatibility": {
       "minimum": "11",
       "verified": "11"
@@ -64,7 +64,8 @@
             "packs": [
               "spells-cantrips",
               "spells-level-1",
-              "spells-level-2"
+              "spells-level-2",
+              "spells-level-4"
             ],
             "folders": []
           },
@@ -215,6 +216,14 @@
             "name": "spells-level-2",
             "label": "(Grant) 2nd Level Spells",
             "path": "packs/spells-level-2.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "undertaking"
+          },
+          {
+            "name": "spells-level-4",
+            "label": "(Grant) 4th Level Spells",
+            "path": "packs/spells-level-4.db",
             "entity": "Item",
             "type": "Item",
             "system": "undertaking"

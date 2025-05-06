@@ -1,0 +1,67 @@
+{
+    "name": "Elemental Arrestiture",
+    "type": "spell",
+    "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+    "system": {
+        "description": {
+            "value": "<p>When taking acid, cold, fire, force, or lightning damage, pick one of these damage types. As a reaction, you quickly shield your body with currents attuned to ward against and trap that element, gaining resistance to this element until the end of your next turn. <br />In addition, until the spell ends, creatures that hit you with a melee attack suffer 1d6 damage of the resisted damage type as the elements trapped in the ward flare up in response.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": false,
+        "school": "abj",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "reaction",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "round"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "self"
+        },
+        "target": {
+            "value": "0",
+            "width": null,
+            "units": "",
+            "type": "self"
+        },
+        "damage": {
+            "parts": [
+                [
+                    "1d6",
+                    "varies"
+                ]
+            ],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "L8EH1IKESXSA5G3H"
+}

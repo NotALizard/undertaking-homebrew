@@ -1,0 +1,62 @@
+{
+    "name": "Ablation Ward",
+    "type": "spell",
+    "img": "icons/magic/defensive/barrier-shield-dome-deflect-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>Reaching out, you quickly trace a pattern of warding sigils on a creature and enshroud them in several layers of protective barriers. The creature gains a +4 bonus to AC for the duration of the spell. Each time an attack directed at the creature fails to hit, this AC bonus is decreased by 1 as the result of one of the protective wards activating to deflect the attack and then losing its magic. The spell ends early if the AC bonus it provides is reduced to 0. If this spell is cast on a creature that is already benefiting from it, the copy with the lower remaining AC bonus ends.</p><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: Each time a melee attacker destroys one of the protective wards, it is pushed 10ft away from the target.</li><li>2 Mana: The bonus to AC increases by 2.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "2",
+        "charge": true,
+        "school": "abj",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": false,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "1",
+            "units": "minute"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "3GQO7W6OO5XT0GWP"
+}

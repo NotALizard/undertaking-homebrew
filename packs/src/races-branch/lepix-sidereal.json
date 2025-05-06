@@ -4,13 +4,13 @@
   "img": "icons/environment/creatures/bug-tick-red.webp",
   "system": {
     "description": {
-      "value": "<p>Sidereal Lep'ix have an affinity for the realms of the stars and celestial bodies, as well as the currents of raw magical energy that flow through the world. Their mystical gifts are reminiscent of the twinkle of a starlit night, and the pull of moons as they dance above us. Wing patterns may include features such as constellations, colorful nebulas, or arcane diagrams, to name a few.</p>",
+      "value": "<p>Sidereal Lep'ix have an affinity for the realms of the stars and the celestial bodies. Their mystical gifts are reminiscent of the grandeur of a starlit night and the pull of planets and moons as they dance above us. Wing patterns may include features such as glittering constellations, colorful nebulas, or concentric and intersecting ellipses, to name a few.</p>",
       "chat": "",
       "unidentified": ""
     },
     "source": "Core Rules",
     "portion": "core",
-    "classDetails": "<p>Sidereal Lep'ix Traits</p><ul><li><b>Compatibility: </b>Insectoid</li><li><b>Attribute Increase: </b>Your Intelligence and Wisdom both increase by 1.</li><li><b>Sidereal Magic: </b>@Compendium[undertaking-homebrew.abilities.SZB7LUSQ2DP1Z38K]{Sidereal Magic}</li><li><b>Twilight Messenger: </b>@Compendium[undertaking-homebrew.abilities.5VBCE0TI5ROEEH8N]{Twilight Messenger}</li><li><b>Sublime Descent: </b>@Compendium[undertaking-homebrew.abilities.ATC9IW4AOMA74635]{Sublime Descent}</li><li><b>Languages: </b>You can speak, read, and write Farspeak and one language of your choice.</li></ul>"
+    "classDetails": "<p>Sidereal Lep'ix Traits</p><ul><li><b>Compatibility: </b>Insectoid</li><li><b>Attribute Increase: </b>Your Intelligence and Wisdom both increase by 1.</li><li><b>Sidereal Magic: </b>@Compendium[undertaking-homebrew.abilities.SZB7LUSQ2DP1Z38K]{Sidereal Magic}</li><li><b>Twilight Messenger: </b>@Compendium[undertaking-homebrew.abilities.5VBCE0TI5ROEEH8N]{Twilight Messenger}</li><li><b>Gravitational Interference: </b>@Compendium[undertaking-homebrew.abilities.ATC9IW4AOMA74635]{Gravitational Interference}</li><li><b>Languages: </b>You can speak, read, and write Farspeak.</li></ul>"
   },
   "effects": [],
   "folder": null,

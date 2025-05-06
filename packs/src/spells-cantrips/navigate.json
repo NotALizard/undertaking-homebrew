@@ -1,0 +1,62 @@
+{
+    "name": "Navigate",
+    "type": "spell",
+    "img": "icons/tools/navigation/compass-plain-blue.webp",
+    "system": {
+        "description": {
+            "value": "<p>You learn one of the following details:&nbsp;</p><ul><li>You know precisely what direction North, South, East, West, up, and down are in.</li><li>You know what time of day or night it is, to the closest hour.</li><li>You know the distance between yourself and a creature, object, or terrain landmark that you can see.</li><li>You know of any upcoming natural changes in the weather within the next 8 hours.</li><li>You know the depth of a body of water or other fluid, measured from a point in it that you are touching.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "0",
+        "charge": false,
+        "school": "div",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": true,
+            "ritual": false,
+            "concentration": false
+        },
+        "materials": {
+            "value": "a compass, sextant, spyglass, or watch",
+            "consumed": false,
+            "cost": "",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "action",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "",
+            "units": "inst"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "self"
+        },
+        "target": {
+            "value": "0",
+            "width": null,
+            "units": "",
+            "type": "self"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "1C5YEYA7CB7YVXSJ"
+}

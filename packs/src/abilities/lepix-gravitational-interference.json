@@ -1,10 +1,10 @@
 {
-  "name": "Sublime Descent",
+  "name": "Gravitational Interference",
   "type": "ability",
   "img": "icons/magic/light/projectiles-star-purple.webp",
   "system": {
     "description": {
-      "value": "<p>Creatures of your choice within 10 feet of you have resistance to damage caused by falling.</p>",
+      "value": "<p>You subconsciously exude a field of gravity-altering magic, causing any nearby creatures to feel slightly lighter or heavier based on your attitude towards them. When creatures within 15ft of you take falling damage, you can choose to either halve it or increase the total by 5.</p>",
       "chat": "",
       "unidentified": ""
     },

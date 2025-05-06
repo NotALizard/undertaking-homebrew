@@ -1,0 +1,62 @@
+{
+    "name": "Discern Fortune",
+    "type": "spell",
+    "img": "icons/sundries/gaming/playing-cards-grey.webp",
+    "system": {
+        "description": {
+            "value": "<p>Shuffling your deck of cards, you focus upon the uncertain future of one willing creature within range. Through the magic of your ritual, these murky possibilities are distilled into portents of guidance for what may come, offered in the form of cards drawn from the deck.&nbsp;</p><p>Generate a spread of cards by either rolling a d12 or drawing from a standard deck of playing cards until you have 3 unique numbers or ranks. Consulting the table below, the target of the spell must immediately choose one of the three offered boons to take. They carry the chosen boon until they spend it or the spell ends. Unless otherwise specified, spending a boon is a non-action. This spell has no effect on a target if they currently hold a boon given by this spell or were bestowed one since their last long rest.</p><p><em>Fortunes Table</em></p><table><tbody><tr><td><p><strong>Roll</strong></p></td><td><p><strong>Card and Boon Effect</strong></p></td></tr><tr><td><p>1 / Ace</p></td><td><p><strong>The Bard:</strong> You can spend this boon as if it were a point of Luck.</p></td></tr><tr><td><p>2</p></td><td><p><strong>The Hunter:</strong> You can spend this boon to add +5 to a missed attack roll, potentially causing it to hit instead.</p></td></tr><tr><td><p>3</p></td><td><p><strong>The Priest:</strong> You can spend this boon as an action to cast one of the following spells without mana or material components: <em>Proclaim, Reassurance*, or Treat Wounds</em>.&nbsp;</p><p>Your spellcasting attribute for this spell is Intelligence, Wisdom, or Presence.</p></td></tr><tr><td><p>4</p></td><td><p><strong>The Winds:</strong> You can spend this boon to ignore difficult terrain for 1 round, or to escape a single grapple.</p></td></tr><tr><td><p>5</p></td><td><p><strong>The Dragon:</strong> When taking acid, cold, fire, lightning, or poison damage, you can spend this boon to gain resistance to that damage type for 1 round.</p></td></tr><tr><td><p>6</p></td><td><p><strong>The Demon:</strong> You can spend this boon to maximize the number rolled on the base damage dice of a single weapon attack. You can choose to use it after rolling the damage dice.</p></td></tr><tr><td><p>7</p></td><td><p><strong>The Sorceress:</strong> You can spend this boon as an action to cast one of the following spells without mana or material components: <em>Arcane Arrows, Conjure Fundamental, or Lash Out.</em></p><p>Your spellcasting attribute for this spell is Intelligence, Wisdom, or Presence.</p></td></tr><tr><td><p>8</p></td><td><p><strong>The Sunset:</strong> You can spend this boon before making a Death Throw in order to succeed without rolling.</p></td></tr><tr><td><p>9</p></td><td><p><strong>The Constellation:</strong> You can spend this boon when making a skill check you are not proficient with to gain proficiency in that skill until your next long rest.</p></td></tr><tr><td><p>10</p></td><td><p><strong>The Keep:</strong> You can spend this boon to halve the damage of a single critical hit against you.</p></td></tr><tr><td><p>11 / Jack</p></td><td><p><strong>The Shadow:</strong> When attempting to hide, you can spend this boon to copy the Dexterity (Stealth) check of a hidden creature you have seen within the past minute instead of rolling your own check.</p></td></tr><tr><td><p>12 / Queen</p></td><td><p><strong>The Envoy:</strong> When hearing a language you don&rsquo;t understand, you can spend this boon to gain the ability to understand and speak that language until your next long rest.</p></td></tr><tr><td><p>King</p></td><td><p><strong>The King:</strong> This card does nothing. Draw again.</p></td></tr></tbody></table><p>Charge: This is a spell that can be Charged, modifying its effects. Costs and effects are as follow:</p><ul><li>1 Mana: The target can keep 1 additional boon from the choices offered to them.</li><li>1 Mana: The number of boon options to choose from is increased by 2.</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "level": "1",
+        "charge": true,
+        "school": "div",
+        "components": {
+            "somatic": true,
+            "verbal": false,
+            "material": true,
+            "ritual": true,
+            "concentration": false
+        },
+        "materials": {
+            "value": "An illustrated deck worth at least 5sp",
+            "consumed": false,
+            "cost": "0.5",
+            "supply": 0
+        },
+        "attribute": "spell",
+        "actionType": "util",
+        "activation": {
+            "type": "minute",
+            "cost": "1",
+            "condition": ""
+        },
+        "duration": {
+            "value": "24",
+            "units": "hour"
+        },
+        "range": {
+            "value": "0",
+            "long": null,
+            "units": "touch"
+        },
+        "target": {
+            "value": "1",
+            "width": null,
+            "units": "",
+            "type": "creature"
+        },
+        "damage": {
+            "parts": [],
+            "versatile": ""
+        },
+        "save": {
+            "attribute": "",
+            "dc": null,
+            "scaling": "spell"
+        },
+        "showInAttacks": false
+    },
+    "_id": "DKE251FDI0B9Z47L"
+}
