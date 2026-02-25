@@ -1,0 +1,25 @@
+{
+    "name": "Mana Prism",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You gain a +1 magical bonus to weapon attack and damage rolls made with your antlers. Spells cast using your antlers as a somatic or material component gain a +1 bonus to spell attack rolls. You also gain the ability to attune and unattune to your own antlers as though they are a magic item. While you are attuned to your antlers, you gain a +1 bonus to the Save DC of spells you cast.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DVZYCXJ0A0X6A0NH"
+}

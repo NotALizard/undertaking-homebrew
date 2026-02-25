@@ -1,0 +1,25 @@
+{
+    "name": "Rooted Aspects",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You do not lose the <strong>Branching Aspects</strong> ability of your branch race. However, changing which attribute the ability affects now takes a <em>Long Rest Action</em>.</p><p>@Compendium[undertaking-homebrew.rest-actions.DDSB3DNVPUQO2F8R]{Alter Rooted Aspect}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JLFL3Z4SQZCF0KJ4"
+}

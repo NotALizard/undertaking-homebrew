@@ -1,0 +1,25 @@
+{
+    "name": "Knight Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your body transforms, becoming more stocky and muscular and increasing your body weight by one third. Your hide becomes sturdy and rough like bark, while still somehow retaining its ability to flex. Your crystal antlers broaden, thicken, and sprout a forest of lethally sharp points.</p><ul><li><strong>Attribute Increase:</strong> Your Strength and Constitution both increase by 1.</li><li><strong>Botanical Creature:</strong> @Compendium[undertaking-homebrew.abilities.GAIKNBY6N36Y6RO6]{Botanical Creature}</li><li><strong>Ossified Aptitude:</strong> @Compendium[undertaking-homebrew.abilities.FZ7JF27LF3N0UQ3T]{Ossified Aptitude}</li><li><strong>War Antlers:</strong> @Compendium[undertaking-homebrew.abilities.EO5MKICE044MS7PV]{War Antlers}</li><li><strong>Oaken Will:</strong> @Compendium[undertaking-homebrew.abilities.X7DK47I4S607ZZCR]{Oaken Will}</li><li><strong>Toughness:</strong> @Compendium[undertaking-homebrew.abilities.V14VJKEZYL6XOJLC]{Toughness}</li><li><strong>Barkhide:</strong> @Compendium[undertaking-homebrew.abilities.V669TDIW4PJ80BHM]{Barkhide}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "XQIU5OOB7L0LLU45"
+}

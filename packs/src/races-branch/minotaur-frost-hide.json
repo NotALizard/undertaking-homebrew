@@ -1,0 +1,23 @@
+{
+    "name": "Frost-Hide Minotaur",
+    "type": "race",
+    "img": "icons/creatures/abilities/paw-print-tan.webp",
+    "system": {
+        "description": {
+            "value": "<p>Cultural Branch</p><p><strong>Compatibility: </strong>Bestial</p><p>The Frost-Hide minotaurs are well adapted to life in the harsh, snowy wastes. Their fur hide is thicker and comes in shades of whites and grays.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Frost-Hide Minotaur Traits</p><ul><li><strong>Attribute Increase:</strong> Your Constitution score increases by 1.</li><li><strong>Cold Resistance:</strong> You have resistance to cold damage.</li><li><strong>Frost Walker:</strong> @Compendium[undertaking-homebrew.abilities.7AJZXIVS9CA03LF9]{Frost Walker}</li><li><strong>Tundra Heart: </strong>@Compendium[undertaking-homebrew.abilities.EYQFU3YGB3FQ3GXE]{Tundra Heart}</li><li><strong><em>Alternate Heritage:</em></strong> Minotaur heritage can present in various ways. If your core race does not grant you Horns, you can choose to replace either the &ldquo;Cold Resistance&rdquo; or &ldquo;Tundra Heart&rdquo; trait offered by this branch race with the following ability:<ul><li><strong>Lesser Horns:</strong> You have horns, which function as a natural weapon that deals piercing damage equal to 1d4 plus your Strength modifier on a hit. You are proficient with your horns, but they do not grant any extra attacks, actions, or minor actions on their own.</li></ul></li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "AYBMCPON8HWMAUYQ"
+}

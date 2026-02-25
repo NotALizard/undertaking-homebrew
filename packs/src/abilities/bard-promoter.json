@@ -1,0 +1,24 @@
+{
+  "name": "Promoter",
+  "type": "ability",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can spend a minor action to <strong>Assist</strong> a creature. Additionally, you can choose to @Compendium[undertaking-homebrew.abilities.018XFM2VDH6HIHL0]{Glorify} or @Compendium[undertaking-homebrew.abilities.018XFM2VDH6HIHL0]{Vilify} a creature as part of the same minor action, paying the usual cost.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "adept"
+    },
+    "requirements": "6th level overall and 3rd level Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "FHJRNZE4BO3NRACH"
+}

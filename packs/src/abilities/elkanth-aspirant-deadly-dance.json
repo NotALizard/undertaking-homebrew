@@ -1,0 +1,25 @@
+{
+    "name": "Deadly Dance",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your antlers gain the Finesse and Light traits. Any time your antlers deal damage with an attack that does not add your attribute modifier to the damage, you can choose to add half of your modifier to the damage.&nbsp;</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "W9RCBFZGJJ8246TI"
+}

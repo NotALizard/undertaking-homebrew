@@ -1,0 +1,25 @@
+{
+    "name": "Mystic Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your body transforms, becoming more elegant and distinguished. Tufts of fur grow longer and take on the texture of hanging moss. The points of your antlers elongate upwards, forming a crown of varying-height points above your head like a crystal chandelier.</p><ul><li><strong>Attribute Increase:</strong> Your Intelligence and Presence both increase by 1.</li><li><strong>Botanical Creature:</strong> @Compendium[undertaking-homebrew.abilities.GAIKNBY6N36Y6RO6]{Botanical Creature}</li><li><strong>Ossified Aptitude:</strong> @Compendium[undertaking-homebrew.abilities.FZ7JF27LF3N0UQ3T]{Ossified Aptitude}</li><li><strong>Mind Over Matter:</strong> @Compendium[undertaking-homebrew.abilities.Z96Q7Q8UM9BIS15N]{Mind Over Matter}</li><li><strong>Magical Epiphany:</strong> You learn one cantrip and one spell of 3rd level or lower, regardless of class. Your spellcasting attribute for these spells is Intelligence, Wisdom, or Presence.</li><li><strong>Font of Mana:</strong> @Compendium[undertaking-homebrew.abilities.9695KHD24N6APCJQ]{Font of Mana}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "R66ZDNJYPDYIN1NS"
+}

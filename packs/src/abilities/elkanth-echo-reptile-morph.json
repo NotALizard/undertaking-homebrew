@@ -1,0 +1,25 @@
+{
+    "name": "Reptile Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>One attribute of your choice increases by 1. While you are in your <strong>Hybrid Form</strong>, the AC granted by your Tough Hide trait increases to 13 + your Dexterity modifier.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2J2D85IU0LK75VTV"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Aquatic Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can breathe both air and water. While you are in your <strong>Hybrid Form</strong> you have a base swim speed equal to your walking speed.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LYYAWTVAUZ74GNO6"
+}

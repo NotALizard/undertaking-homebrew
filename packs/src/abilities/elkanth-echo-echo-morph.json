@@ -1,0 +1,25 @@
+{
+    "name": "Echo Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your body transforms to take on minor aspects of your past life, for example, tufts of feathers for an avian race or webbed features for an aquatic race. The branch race you chose to represent a past life of yours in the <strong>Echoes of a Past Life</strong> trait begins to emerge as a unique morph.</p><ul><li><strong>Synthesis.</strong> At 5th level, you gain any Attribute Score adjustments, proficiencies, languages, and spells granted by your past life&rsquo;s branch race.&nbsp;</li><li><strong>Ossified Echoes.</strong> At 5th level, you lose one trade proficiency of your choice. Additionally, choose two skills you are proficient with. Your proficiency bonus is halved for those two skills.</li><li><strong>Hybrid Form.</strong> @Compendium[undertaking-homebrew.abilities.3F9RMIYWVEAYALGX]{Hybrid Form}</li><li><strong>Additional Traits.</strong> You gain an additional trait depending on the compatibility type of your past life&rsquo;s branch race.<ul><li><strong>Aquatic Morph:</strong> @Compendium[undertaking-homebrew.abilities.LYYAWTVAUZ74GNO6]{Aquatic Morph}</li><li><strong>Avian Morph:</strong> @Compendium[undertaking-homebrew.abilities.1UYXRB8EC8529C4N]{Avian Morp}</li><li><strong>Bestial Morph:</strong> Your Constitution and one other attribute of your choice both increase by 1.</li><li><strong>Hominid Morph:</strong> One attribute of your choice increases by 1.</li><li><strong>Insectoid Morph:</strong> You receive one fewer +1 attribute increase during your level 5 growth level.</li><li><strong>Reptile Morph:</strong> @Compendium[undertaking-homebrew.abilities.2J2D85IU0LK75VTV]{Reptile Morph}</li></ul></li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YRLU5DY2C4QOIY0B"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Font of Mana",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Once per turn, when you are casting a spell you can choose to gain one level of the @Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhausted} condition in order to discount its mana cost by 4. On repeated uses, the mana discount is reduced by 1 for each time this ability has already been used since your last long rest. The&nbsp;@Compendium[undertaking.conditions.ERBR3AG01H4N1L91]{Exhausted} condition takes effect after the spell has been cast.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "9695KHD24N6APCJQ"
+}

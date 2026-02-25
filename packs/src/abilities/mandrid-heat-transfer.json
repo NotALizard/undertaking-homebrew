@@ -4,7 +4,7 @@
   "img": "icons/magic/earth/lava-explosion-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You know the @Compendium[undertaking-homebrew.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Ember} and @Compendium[undertaking-homebrew.spells-cantrips.KH6D03TEJYZNA62N]{Deposition} cantrips. Your spellcasting ability for them is Intelligence, Wisdom, or Presence, chosen when you select this race. The material components for Adherent Ember are replaced with volcanic rocks (consumed by the spell) which the spell heats to near molten.</p>",
+      "value": "<p>You know the @Compendium[undertaking.spells-cantrips.58I1UTE8ZV4CJ5W6]{Adherent Embers} and @Compendium[undertaking.spells-cantrips.KH6D03TEJYZNA62N]{Cold Snap} cantrips. Your spellcasting ability for them is Intelligence, Wisdom, or Presence, chosen when you select this race. The material component for Adherent Embers is replaced with volcanic rocks (consumed by the spell) which the spell heats to near molten.</p>",
       "chat": "",
       "unidentified": ""
     },

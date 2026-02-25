@@ -1,0 +1,20 @@
+{
+    "name": "Alter Branching Aspect",
+    "type": "restAction",
+    "system": {
+        "origin": {
+            "type": "Race",
+            "name": "Elkanth Aspirant"
+        },
+        "restType": "short",
+        "requirements": "None",
+        "summary": "Reassign the attribute bonus granted by your Branching Aspect.",
+        "description": {
+            "value": "<p>As a <em>Rest Action</em>, you can focus the magic in your body to slightly alter your form, allowing you to remove the attribute bonus granted by&nbsp;@Compendium[undertaking-homebrew.abilities.Q78C6Z5AKLUHOP26]{Branching Aspects} and reassign it to a different attribute.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": ""
+    },
+    "_id": "YCYYZ4X8PA6KSF26"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Herald Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Your body transforms, becoming more sleek and lithe. Your body weight is reduced by a half, rendering you unnaturally light and quick on your hooves. Your hide becomes smooth with a texture like carved wood. Your crystal antlers grow thinner and the points flatten like thin blades.</p><ul><li><strong>Attribute Increase:</strong> Your Dexterity and Wisdom both increase by 1.</li><li><strong>Botanical Creature:</strong> @Compendium[undertaking-homebrew.abilities.GAIKNBY6N36Y6RO6]{Botanical Creature}</li><li><strong>Ossified Aptitude:</strong> @Compendium[undertaking-homebrew.abilities.FZ7JF27LF3N0UQ3T]{Ossified Aptitude}</li><li><strong>Globetrotter:</strong> @Compendium[undertaking-homebrew.abilities.AL7QGW1MM9CRUCCS]{Globetrotter}</li><li><strong>Deadly Dance:</strong> @Compendium[undertaking-homebrew.abilities.W9RCBFZGJJ8246TI]{Deadly Dance}</li><li><strong>Weathered Hide (replaces Tough Hide): </strong>@Compendium[undertaking-homebrew.abilities.8AKVHASX3I9XZMA8]{Weathered Hide}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JUXEYSN2P7EZD3C6"
+}

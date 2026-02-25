@@ -1,0 +1,23 @@
+{
+    "name": "Core Elkanth",
+    "type": "race",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p><strong>Compatibility: </strong>Elkanth</p><p>Elkanths are magical beings whose origins are shrouded in mystery. They are quadrupedal and their body largely resembles that of an elk with its neck held in a more upright posture. Atop their head is a set of crystalline antlers, and nestled among their fur at places are smooth plates resembling wood, often positioned where they protect the chest and limbs but the size and position varies between individuals.</p><p>What most sets them apart from many of the other beings that inhabit this world, however, is their peculiar lifecycle. Individual elkanths have no means to reproduce like other creatures, instead they are all spawned from a rare magical tree which they call a mother-tree. They begin their lives as a crystal acorn dropped from this tree. Once planted, they begin to grow underground before hatching from the earth a year later as a newborn elkanth. For this reason, most elkanths view mother-trees as sacred things, and a mother-tree which does not have some form of elkanth community living beside it is a sight unseen. Little is known for certain about these strange magical trees, but it is rumored that they contain within them a great many memories and souls. It is said that those who commune with one such tree and willingly bond themselves with it will find their way back to it after they have died, and that the tree&rsquo;s many children are simply those souls given new life as an elkanth.</p><p>As magical creatures, elkanths are blessed with long lives. While many are content to spend these years under the sacred boughs of their mother-tree, it&rsquo;s just as common for them to grow restless and wish to explore the wider world for a time. The most prolific of these explorers are molded by these journeys, in this case literally, as elkanths who immerse themself in enough worldly experiences tend to undergo a metamorphosis that accentuates their form according to what talents and abilities they have nurtured in themself. While this process could be confused as a form of maturity, it&rsquo;s important to understand that it does not come about from age alone. In order to achieve metamorphosis, an elkanth must truly test and discover themself, and there are many who go their whole lives without accomplishing or even pursuing such a transformation.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "core",
+        "classDetails": "<p>Core Elkanth Traits</p><ul><li><strong>Attribute Increase:</strong> Your Wisdom increases by 1.</li><li><strong>Lifespan:</strong> Elkanths live tremendously long lives, with the longest lived reaching just upwards of 800 years. Elkanths that live beneath the nurturing boughs of a mother-tree grow quicker than those abroad, and they generally stop growing 20 to 50 years after they hatch from the soil.</li><li><strong>Size: </strong>Medium or Large; Depending on their age and the conditions they grew up in, mature elkanths can be anywhere from 5 to 9 feet long, and they stand 3 to 5 feet tall at the shoulder while on all fours. They can weigh anywhere from 350 to 700 lbs.</li><li><strong>Speed:</strong> You have a walking speed of 35ft if you are Medium, or 30ft if you are Large.</li><li><strong>Languages:</strong> You can speak, read, and write Common and Sylvan.</li><li><strong>Magical Creature:</strong> @Compendium[undertaking-homebrew.abilities.1SSP874MS3JNF0FV]{Magical Creature}</li><li><strong>Quadruped: </strong>@Compendium[undertaking-homebrew.abilities.YF5J81BX9N85CTSL]{Quadruped}</li><li><strong>Light Mount: </strong>@Compendium[undertaking-homebrew.abilities.AVW92OOI16CTT0GO]{Light Mount}</li><li><strong>Tough Hide:</strong> @Compendium[undertaking-homebrew.abilities.S03TGQ7I743UOZQQ]{Tough Hide}</li><li><strong>Crystal Antlers:</strong> @Compendium[undertaking-homebrew.abilities.U6I2WOGZ7SJ06YAG]{Crystal Antlers}</li><li><strong>Innate Telekinesis: </strong>@Compendium[undertaking-homebrew.abilities.X90070WNOK4CT8IN]{Innate Telekinesis}</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "24VNMDLN9PRYRUUB"
+}

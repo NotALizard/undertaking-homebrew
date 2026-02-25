@@ -1,0 +1,25 @@
+{
+    "name": "Branching Aspects",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Increase one attribute of your choice by 2. As a <em>Rest Action</em>, you can focus the magic in your body to slightly alter your form, allowing you to remove this bonus and reassign it to a different attribute.</p><p>@Compendium[undertaking-homebrew.rest-actions.YCYYZ4X8PA6KSF26]{Alter Branching Aspect}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "Q78C6Z5AKLUHOP26"
+}

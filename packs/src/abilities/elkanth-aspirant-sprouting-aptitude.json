@@ -1,0 +1,25 @@
+{
+    "name": "Sprouting Aptitude",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>When you roll an attack or check but before learning whether you succeed or fail, you can choose to increase the total by an amount equal to your proficiency bonus. You can use this ability three times, regaining all expended uses on a short or long rest. You can&rsquo;t use this ability more than once on a single roll.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IZYXPF83UQ61P6EH"
+}

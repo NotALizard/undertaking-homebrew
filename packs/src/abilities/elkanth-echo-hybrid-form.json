@@ -1,0 +1,25 @@
+{
+    "name": "Hybrid Form",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Starting at 5th level, you can use your action to transform into a shape that is a hybrid of your current and past life in order to gain all of the remaining traits and abilities of your past life&rsquo;s branch race (i.e. those not already gained through <strong>Synthesis</strong>) including any forms of movement and special senses. If the branch race is normally of a size different from yours, you choose which of the two sizes to be for the duration. This transformation lasts until you fall <strong>unconscious</strong> or you choose to transform back as an action.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3F9RMIYWVEAYALGX"
+}

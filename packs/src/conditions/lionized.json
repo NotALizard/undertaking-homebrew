@@ -10,7 +10,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>&#x1F981; Lionized &#x1F981;</p><ul><li>Whenever you cause a creature to become lionized, choose one of its six attributes to accentuate. Once per turn the lionized creature can add a bonus 1d4 to the result of an attack roll or check that uses the chosen attribute.&nbsp;</li><li>While a lionized creature is performing a desperate action, it can choose to take advantage on one roll at the cost of the lionized effect ending at the end of the desperate action.</li><li>The die increases in size at the second growth level, becoming a d6 at 11th level.</li></ul><p>Lionized does not stack. If a creature gains the lionized effect while already lionized, the effect with the longer duration remains. When this happens, it can also change which attribute is affected.</p>",
+        "content": "<p>Lionized</p><ul><li>Whenever you cause a creature to become lionized, choose one of its attributes (Strength, Dexterity, Constitution, Intelligence, Wisdom, Presence) to extol. The lionized creature can add a bonus 1d4 to the result of attack rolls and checks that use the chosen attribute.&nbsp;</li><li>Lionized does not stack. If a creature gains the lionized condition while already lionized, the effect with the longer duration remains. When this happens, it can also change which attribute is affected.</li></ul>",
         "markdown": ""
       },
       "_id": "KYOEYE0M3E9XAQ1G",

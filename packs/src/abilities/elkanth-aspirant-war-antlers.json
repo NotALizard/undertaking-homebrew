@@ -1,0 +1,25 @@
+{
+    "name": "War Antlers",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>The damage of your antlers increases to 1d12 and they gain the traits Heavy and Versatile (2d6). When you attack with your antlers, you can choose to treat the attack as either one-handed or two-handed for the purposes of traits and abilities.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "EO5MKICE044MS7PV"
+}

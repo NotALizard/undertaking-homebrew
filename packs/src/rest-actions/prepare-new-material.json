@@ -1,0 +1,20 @@
+{
+    "name": "Prepare New Material",
+    "type": "restAction",
+    "system": {
+        "origin": {
+            "type": "Class",
+            "name": "Bard"
+        },
+        "restType": "long",
+        "requirements": "None",
+        "summary": "Replace a Bard cantrip or two Bard spells.",
+        "description": {
+            "value": "<p>As a <em>Long Rest Action</em>, you can choose to either replace one Bard cantrip you know with a different cantrip from the Bard spell list, or replace two Bard spells you know with two other spells from the Bard spell list that are of a level you can cast.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": ""
+    },
+    "_id": "AZTVZVCUEPFQB5RN"
+}

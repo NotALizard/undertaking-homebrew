@@ -1,0 +1,25 @@
+{
+    "name": "Spectra Morph",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>To some elkanths, this morph is viewed as a rejection of one&rsquo;s metamorphosis - the sign of an elkanth who cannot accept who they truly are. Others, however, believe the very nature of an elkanth is to contain multitudes of possibility within oneself. In their minds, to sacrifice this limitless ability to adapt for a single metamorphosis stands as the real betrayal of one&rsquo;s true self.</p><p>Unlike other morphs, there are no physical changes that accompany this choice. Instead, you have a sensation of being filled with untapped magical energy, and your crystal antlers shift in hue to become a kaleidoscope of prismatic colors.</p><ul><li><strong>Rooted Aspects.</strong> @Compendium[undertaking-homebrew.abilities.JLFL3Z4SQZCF0KJ4]{Rooted Aspects}</li><li><strong>Mana Prism.</strong> @Compendium[undertaking-homebrew.abilities.DVZYCXJ0A0X6A0NH]{Mana Prism}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RW3NZGJT6FY8E162"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Avian Morp",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>While you are in your <strong>Hybrid Form</strong>, you have wings with a base flying speed of 15ft. Any branch race traits that would alter your base flying speed instead modify this speed. To use this speed, you cannot be wearing medium or heavy armor.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1UYXRB8EC8529C4N"
+}

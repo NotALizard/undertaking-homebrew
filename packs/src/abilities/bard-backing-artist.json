@@ -1,0 +1,24 @@
+{
+  "name": "Backing Artist",
+  "type": "ability",
+  "img": "icons/commodities/treasure/bust-carved-stone.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>Harmonize with me.</em></p><p>Each time you take the <strong>Assist</strong> action, you can choose two of the following additional effects:</p><ul><li>The creature you assist becomes @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} until the end of your next turn.</li><li>Choose a target within 60ft that can hear you to become @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} until the end of your next turn. Instead of gaining advantage on their next check, the assisted creature has advantage on their next attack against this target.</li><li>The creature you assist can immediately take a minor action.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "novice"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "XVWY4BL8VIERNETM"
+}

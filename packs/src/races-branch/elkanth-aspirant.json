@@ -1,0 +1,23 @@
+{
+    "name": "Elkanth Aspirant",
+    "type": "race",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Personal Branch</p><p><strong>Compatibility: </strong>Elkanth</p><p>This branch represents the vast majority of elkanths. There are no additional physical descriptors associated with it beyond what is described in the core race, but what it does represent is the latent potential for metamorphosis.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Elkanth Aspirant Traits</p><ul><li><strong>Branching Aspects:</strong> @Compendium[undertaking-homebrew.abilities.Q78C6Z5AKLUHOP26]{Branching Aspects}</li><li><strong>Sprouting Aptitude:</strong> @Compendium[undertaking-homebrew.abilities.IZYXPF83UQ61P6EH]{Sprouting Aptitude}</li><li><strong>Metamorphosis:</strong> At 5th level, your body is permanently transformed as you take on a morph, one of the distinct forms present among your kind. Choose either the @Compendium[undertaking-homebrew.abilities.R66ZDNJYPDYIN1NS]{Mystic Morph}, @Compendium[undertaking-homebrew.abilities.JUXEYSN2P7EZD3C6]{Herald Morph}, @Compendium[undertaking-homebrew.abilities.XQIU5OOB7L0LLU45]{Knight Morph}, or @Compendium[undertaking-homebrew.abilities.RW3NZGJT6FY8E162]{Spectra Morph} and gain all of its abilities. Additionally, you lose the <strong>Branching Aspects</strong> ability and any attribute increases gained from it.</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GO559C2BD1L6JBTD"
+}

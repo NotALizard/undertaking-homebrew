@@ -1,0 +1,25 @@
+{
+    "name": "Innate Telekinesis",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have limited telekinetic abilities out to a range of 10 feet from you, which allows you to manipulate a single object you can see at a time. While manipulating an object in this way, you are considered to be holding it and it moves with you if it is free to do so. If you move more than 10ft away from an object that is unable to move with you, your hold on it ends. Switching from one object to another follows the normal rules for dropping, picking up, and interacting with objects. When you use your telekinesis, your antlers visibly glow and you can feel the lifted object&rsquo;s weight pushing down on you. Because of this, the maximum weight you can lift and drag with your telekinesis follows the normal rules based on your Strength, and anything you hold with it should be included when determining the total weight you are carrying.</p><p>As a minor action, you can begin to concentrate on your telekinesis as if it were a spell, allowing you to manipulate a single object as if using two hands until your concentration ends or you are no longer holding the object. If you roll a natural 1 on a Save Check to maintain concentration on an object, you involuntarily drop the object.</p><p>You can wield weapons using your telekinesis, but you are unable to effectively wield weapons with the Two-handed or Ammunition property unless you are concentrating on them. Attacks and checks made with the help of your telekinesis still use your Dexterity and Strength like a hand would, extending rather than replacing your own coordination and brawn. Targets that are at least partially inside the range of your telekinesis are within reach of your melee weapon attacks, and weapon traits that confer additional reach or range effectively extend this range by the same amount.</p><p>It is difficult for you to affect other creatures with your telekinesis. When targeting an unwilling creature or an item being worn or held by one, your telekinesis lets you attempt to Shove, Trip, Grapple, or pickpocket them with the normal action costs for these actions. You can use your telekinesis to drag, lift, or carry any creature that is either willing, @Compendium[undertaking.conditions.9KB959MRZ0H4IT4C]{Unconscious}, or @Compendium[undertaking.conditions.FGVFFYGPAFQGZ5RP]{Grappled} by you, as long as their weight does not exceed your normal capabilities.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "X90070WNOK4CT8IN"
+}

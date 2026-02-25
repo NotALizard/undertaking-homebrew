@@ -1,0 +1,24 @@
+{
+  "name": "Limelight",
+  "type": "ability",
+  "img": "icons/magic/light/beam-strike-village-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>All the world is your stage, and your fellows and foes its stars. They may not know yet what parts they&rsquo;ll play, but come time for the curtains to fall you will have shown them.</em></p><p>While you are within 60 feet of a creature that can hear you, you can target it with the following abilities:</p><p><br /><strong>Glorify</strong></p><p><em>Talking up their achievements or potential, you give your ally a much needed confidence boost.</em></p><p>Spend 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{Immersion} as a minor action, the target becomes @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} for 10 minutes.</p><p><br /><strong>Vilify</strong></p><p><em>Singling out a foe, you confront them on their foul deeds or harp on the flaw that will become their downfall.</em></p><p>Spend 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{Immersion} as a minor action, the target becomes @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} for 1 minute.</p><p><br /><strong>Catharsis</strong></p><p><em>The audience delights in seeing a villain getting what they deserve. Let them savor the moment a little longer.</em></p><p>As a reaction to a creature taking damage from the @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} condition, immediately restore its ability to take damage from the condition.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "starter"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "018XFM2VDH6HIHL0"
+}

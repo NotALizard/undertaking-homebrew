@@ -10,7 +10,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<p>&#x1F9FF; Villainized &#x1F9FF;</p><ul><li>Whenever a villainized creature takes damage, you can cause it to suffer 1d4 psychic damage.&nbsp;</li><li>Each time you activate this bonus damage, you can&rsquo;t trigger it again until the villainized creature has made an attack or targeted an unwilling creature with a spell or ability since the last time it took the damage.</li><li>The die increases in size at each growth level, becoming a d6 at 5th level, d8 at 11th level, and d10 at 17th level.</li></ul><p>Villainized does not stack. If a creature gains the villainized effect while already villainized, only the effect with the longer remaining duration remains.</p>",
+        "content": "<p>Villainized</p><ul><li>Whenever a villainized creature takes damage, it suffers 1d6 additional psychic damage. It cannot take this damage again until it performs a hostile action.</li><li>Villainized creatures have disadvantage on Presence (Persuasion) checks.</li><li>Villainized does not stack. If a creature gains the villainized condition while already villainized, only the effect with the longer remaining duration remains.</li></ul>",
         "markdown": ""
       },
       "_id": "ADTSW8R6K1YAMW44",

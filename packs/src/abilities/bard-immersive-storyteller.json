@@ -1,0 +1,24 @@
+{
+  "name": "Immersive Storyteller",
+  "type": "ability",
+  "img": "icons/sundries/books/book-open-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>You gain the following benefits:</p><ul><li>When you cause a creature to become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized}, the bonus die increases to 1d6 until they are no longer @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized}.</li><li>When you cause a creature to become @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized}, the damage die increases to 1d10 until they are no longer @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized}.</li><li>You gain 1 @Compendium[undertaking-homebrew.abilities.ZVH8L715PTWTQLSE]{Immersion} when you roll Initiative.</li></ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "adept"
+    },
+    "requirements": "6th level overall and 3rd level Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "0U3IYHVQDRO4RJXM"
+}

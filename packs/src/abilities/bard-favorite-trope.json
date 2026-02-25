@@ -1,0 +1,24 @@
+{
+  "name": "Favorite Trope",
+  "type": "ability",
+  "img": "icons/tools/scribal/ink-quill-red.webp",
+  "system": {
+    "description": {
+      "value": "<p><em>A reliable component you can count on to grab an audience&rsquo;s interest.</em></p><p>The following is a list of familiar tropes that might emerge in your art. When you take this ability, choose one of the following tropes, as well as the trait with it.</p><p>Switching your favorite trope from one to another requires extensive rewrites, and can only be undertaken as part of the @Compendium[undertaking-homebrew.rest-actions.AZTVZVCUEPFQB5RN]{Prepare New Material} long rest action (See Bard&rsquo;s Spellcasting ability). If you choose to, you lose access to the trait of your previous Favorite Trope and may choose a different one.&nbsp;</p><p><strong>Rivalry</strong></p><p><em>Nothing pushes people to perform at their best like a little friendly competition.</em></p><p><em>Trait:</em> Whenever you cause a creature to become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized}, you become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} yourself for the same duration and choose a second Attribute. Both of you can apply the @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} bonus to both of the attributes that were chosen.</p><p><strong>Villain of the Week</strong></p><p><em>Villains are a silver piece a dozen. Strike one down, and another will step into their boots before the body&rsquo;s even gone cold.&nbsp;</em></p><p><em>Trait:</em> When a @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} creature within 60ft of you is reduced to 0 hit points or killed, your first use of the @Compendium[undertaking-homebrew.abilities.018XFM2VDH6HIHL0]{Vilify} minor action within the next minute costs 0 Immersion. When this occurs, you can immediately take the @Compendium[undertaking-homebrew.abilities.018XFM2VDH6HIHL0]{Vilify} minor action as a reaction.</p><p><strong>Plot Armor</strong></p><p><em>It&rsquo;s not enough to single out a hero, they need to be made larger than life so that all who would stand against them are plagued by doubt that they could ever prevail.</em></p><p><em>Trait:</em> When a @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} creature within 30ft of you is hit with an attack, you can use your reaction to increase their AC by one roll of the lionized die for that attack, potentially causing it to miss.</p><p>Additionally, when a @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} creature within 30ft of you hits a creature with an attack, you can use your reaction to reduce the attack&rsquo;s damage by a roll of the villainized die.</p><p>You can activate both of these effects as a single reaction if the attacker is @Compendium[undertaking-homebrew.conditions.WHN3T2G6R8HUKOQX]{Villainized} and the target of the attack is @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized}.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "novice"
+    },
+    "requirements": "Bard",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "folder": null,
+  "_id": "O9XP2FKIHU39PPPC"
+}

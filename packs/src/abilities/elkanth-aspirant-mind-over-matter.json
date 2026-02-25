@@ -1,0 +1,25 @@
+{
+    "name": "Mind Over Matter",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You can use your Intelligence, Wisdom, or Presence in place of Strength for attacks and checks made using your telekinesis, as well as for calculating how much weight you can lift and carry with your telekinesis.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "branch"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "Z96Q7Q8UM9BIS15N"
+}

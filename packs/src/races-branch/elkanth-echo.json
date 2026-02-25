@@ -1,0 +1,23 @@
+{
+    "name": "Elkanth Echo",
+    "type": "race",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>Personal Branch</p><p><strong>Compatibility: </strong>Elkanth</p><p>Not every elkanth that emerges from the ground is a blank slate, it would seem. In some unusual cases, an elkanth may be hatched with fragments of memory that are not their own. It is said that these memories originate from a past life, the last vestiges still clutched by a soul that even in rebirth could not let go. Many of the elkanth who find themselves possessed of such mementos are drawn to travel the wider world, searching for answers to the burning questions these misplaced memories raise. Those who are able to fully connect with these lost echoes can even begin to display physical aspects reminiscent of who they once were, lending them their own unique kind of metamorphosis.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "portion": "branch",
+        "classDetails": "<p>Elkanth Echo Traits</p><ul><li><strong>Familiar Aspects.</strong> Three different attributes of your choice increase by 1. This bonus will be replaced at 5th level, so make a note of which attributes you chose.</li><li><strong>Echoes of a Past Life.</strong> Choose one branch from a different race to represent yourself in a past life. This choice affects the other abilities granted by this branch race.</li><li><strong>Echoed Words.</strong> You learn one language of your choice, remembered from your past life.</li><li><strong>Echoed Deeds.</strong> You gain proficiency with one skill and one trade of your choice, reflecting something you excelled at in your past life.</li><li><strong>Echo Metamorphosis.</strong> At 5th level, your body is permanently transformed as you take on a morph, one of the distinct forms present among your kind. You gain all of the abilities of the @Compendium[undertaking-homebrew.abilities.YRLU5DY2C4QOIY0B]{Echo Morph}. Additionally, you lose the <strong>Familiar Aspects</strong> ability and any attribute increases gained from it.</li></ul>"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "UGLE1CR752DCKC4F"
+}

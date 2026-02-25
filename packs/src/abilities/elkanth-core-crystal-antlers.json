@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Antlers",
+    "type": "ability",
+    "img": "icons/commodities/treasure/figurine-elk.webp",
+    "system": {
+        "description": {
+            "value": "<p>You have crystal antlers which function as natural weapons that deal piercing damage equal to 1d8 plus your Strength modifier on a hit. You are proficient with your antlers, but they do not grant any extra attacks, actions, or minor actions on their own. Your antlers count as a magical weapon, as well as an arcane and druidic spellcasting focus. As long as your neck and head are not restrained, you can perform somatic components for spells by moving and turning your head.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race",
+            "subtype": "core"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "U6I2WOGZ7SJ06YAG"
+}

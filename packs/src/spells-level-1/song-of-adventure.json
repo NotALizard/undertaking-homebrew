@@ -4,13 +4,13 @@
     "img": "icons/magic/nature/instrument-recorder-leaves.webp",
     "system": {
         "description": {
-            "value": "<p>You produce a short melody, which continues on its own and builds to fill the space around you with energizing music. The music instills creatures of your choice that can hear you with a sense of expeditiousness, granting them an additional 15 feet of movement the first time they are within 30 feet of you each turn.</p>",
+            "value": "<p>You sing or play the first verse song, which continues on its own and builds to fill the space around you with energizing music. The music instills creatures of your choice that can hear you with a sense of expeditiousness, granting them an additional 15 feet of movement the first time they are within 30 feet of you each turn.</p><p>Charge: This spell can be Charged, modifying its effects for a cost:&nbsp;</p><ul><li>1 Mana: The duration increases to 2 hours. Long-distance travel over land takes your group half the usual time for the duration.</li></ul>",
             "chat": "",
             "unidentified": ""
         },
         "source": "Core Rules",
         "level": "1",
-        "charge": false,
+        "charge": true,
         "school": "mes",
         "components": {
             "somatic": false,
@@ -20,9 +20,9 @@
             "concentration": true
         },
         "materials": {
-            "value": "a musical instrument worth at least 1sp",
+            "value": "a musical instrument",
             "consumed": false,
-            "cost": "0.1",
+            "cost": "",
             "supply": 0
         },
         "attribute": "spell",
@@ -33,7 +33,7 @@
             "condition": ""
         },
         "duration": {
-            "value": "10",
+            "value": "1",
             "units": "minute"
         },
         "range": {
