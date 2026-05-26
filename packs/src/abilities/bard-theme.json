@@ -1,0 +1,41 @@
+{
+  "name": "Bardic Themes",
+  "type": "ability",
+  "img": "icons/magic/control/mouth-smile-deception-purple.webp",
+  "system": {
+    "description": {
+      "value": "<p>You can only benefit from one Theme ability at a time.  If you have multiple Theme abilities, you can change which one is active when you finish a rest and any time you spend Immersion on an ability.</p><p>Add this to your sheet and any theme abilities you gain will be listed under this ability's dropdown.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Core Rules",
+    "type": {
+      "value": "class",
+      "subtype": "given"
+    },
+    "requirements": "Have the Bard Starter Abilities",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "resource": {
+      "showOnSheet": true,
+      "value": "",
+      "style": "choice",
+      "name": "Theme",
+      "valueFrom": "manual",
+      "maxFormula": "",
+      "maxFlat": 0,
+      "rechargeOn": "short",
+      "rechargeStyle": "reminder",
+      "rechargeFormula": "",
+      "rechargeMessage": "Can be changed any time you finish a rest or spend Immersion.",
+      "overfilledMessage": "",
+      "dropdownIdentifier": "bard-theme",
+      "addOptionsTo": "",
+      "dropdownOptions": []
+    }
+  },
+  "folder": null,
+  "_id": "YJ5UDBL2E6ACRIUU"
+}

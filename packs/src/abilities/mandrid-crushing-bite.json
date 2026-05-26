@@ -12,7 +12,21 @@
     "type": {
       "value": "race",
       "subtype": "branch"
-    }
+    },
+    "attribute": "str",
+    "actionType": "mwak",
+    "chatFlavor": "",
+    "damage": {
+        "parts": [
+            [
+                "1d6 + @mod",
+                "bludgeoning"
+            ]
+        ],
+        "versatile": ""
+    },
+    "proficient": true,
+    "showInAttacks": true
   },
   "effects": [],
   "folder": null,

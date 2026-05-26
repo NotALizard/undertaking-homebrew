@@ -4,7 +4,7 @@
   "img": "icons/magic/light/hand-sparks-smoke-green.webp",
   "system": {
     "description": {
-      "value": "<p><em>Their eyes and ears may find the fictions, but the truth shall find their hearts.</em></p><p>Immersion is the subtle interpersonal power that a Bard taps into, a collective unspoken desire for drama and wonder that blurs the lines between the believable and the unbelievable. You as a Bard have the power to shepherd truths across this gap between expectation and reality, but only so long as you use it sparingly. After all, the last thing you want is to stretch believability so far that you break your audience&rsquo;s immersion.</p><p>This potential is represented by your Immersion, which you can spend to fuel various Bard abilities. Your maximum Immersion is 2 at 1st level. The maximum increases for every odd-numbered Bard level gained, starting at Bard level 3. For example, at Bard level 8, you can hold a maximum of 5 Immersion. If you would gain Immersion while already at your maximum you become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} for 10 minutes instead.</p><p>You regain all expended Immersion when you finish a long rest.</p>",
+      "value": "<p><em>Their eyes and ears may find the fictions, but the truth shall find their hearts.</em></p><p>Immersion is the subtle interpersonal power that a Bard taps into, a collective unspoken desire for drama and wonder that blurs the lines between the believable and the unbelievable. You as a Bard have the power to shepherd truths across this gap between expectation and reality, but only so long as you use it sparingly. After all, the last thing you want is to stretch believability so thin that you break your audience&rsquo;s immersion.</p><p>This potential is represented by your Immersion, which you can spend to fuel various Bard abilities. Your maximum Immersion is 2 at 1st level. The maximum increases for every odd-numbered Bard level gained, starting at Bard level 3. For example, at Bard level 8, you can hold a maximum of 5 Immersion. If you would gain Immersion while already at your maximum you become @Compendium[undertaking-homebrew.conditions.ZOBZ8V2YME5YOYZR]{Lionized} for 10 minutes instead.</p><p>You regain all expended Immersion when you finish a long rest.</p>",
       "chat": "",
       "unidentified": ""
     },
@@ -17,6 +17,23 @@
     "recharge": {
       "value": null,
       "charged": false
+    },
+    "resource": {
+      "showOnSheet": true,
+      "value": 0,
+      "style": "counter",
+      "name": "Immersion",
+      "valueFrom": "formula",
+      "maxFormula": "ceil(@bard/2)+1",
+      "maxFlat": 0,
+      "rechargeOn": "long",
+      "rechargeStyle": "fill",
+      "rechargeFormula": "",
+      "rechargeMessage": "",
+      "overfilledMessage": "Become lionized for 10 minutes.",
+      "dropdownIdentifier": "",
+      "addOptionsTo": "",
+      "dropdownOptions": []
     }
   },
   "folder": null,

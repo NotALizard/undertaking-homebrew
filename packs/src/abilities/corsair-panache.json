@@ -17,6 +17,23 @@
     "recharge": {
       "value": null,
       "charged": false
+    },
+    "resource": {
+      "showOnSheet": true,
+      "value": 0,
+      "style": "counter",
+      "name": "Panache",
+      "valueFrom": "formula",
+      "maxFormula": "1 + @prof",
+      "maxFlat": 0,
+      "rechargeOn": "long",
+      "rechargeStyle": "set",
+      "rechargeFormula": "1",
+      "rechargeMessage": "",
+      "overfilledMessage": "",
+      "dropdownIdentifier": "",
+      "addOptionsTo": "",
+      "dropdownOptions": []
     }
   },
   "folder": null,

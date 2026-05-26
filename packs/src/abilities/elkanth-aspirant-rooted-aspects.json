@@ -12,6 +12,23 @@
         "type": {
             "value": "race",
             "subtype": "branch"
+        },
+        "resource": {
+            "showOnSheet": true,
+            "value": "",
+            "style": "choice",
+            "name": "Rooted Aspect",
+            "valueFrom": "manual",
+            "maxFormula": "",
+            "maxFlat": 0,
+            "rechargeOn": "long",
+            "rechargeStyle": "reminder",
+            "rechargeFormula": "",
+            "rechargeMessage": "Can be changed as a Long Rest action.",
+            "overfilledMessage": "",
+            "dropdownIdentifier": "elkanth-branching-aspect",
+            "addOptionsTo": "",
+            "dropdownOptions": ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Presence"]
         }
     },
     "effects": [],

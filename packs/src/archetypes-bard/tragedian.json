@@ -11,7 +11,7 @@
     "source": "Core Rules",
     "identifier": "bard-tragedian",
     "classIdentifier": "bard",
-    "classDetails": "<h3>Bardic Archetype: Tragedian</h3><p><i>Unlock:</i> Have the Bard Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.4A26NHYUBD8OXCX5]{Theme: Mortality}, @Compendium[undertaking-homebrew.abilities.M7ONN7XQ5CD8VK24]{Commiseration}</p><hr/><h3>Tragedian Abilities</h3><p>When taking a level in Tragedian, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.PDP9D8MMKDY2DZSL]{Star-Crossed Duel}, @Compendium[undertaking-homebrew.abilities.X7GBQG8CSADQYOZH]{Blood-Soaked Hands}, @Compendium[undertaking-homebrew.abilities.9KHMDNUC50478I0D]{Untimely Remorse}, @Compendium[undertaking-homebrew.abilities.AI1FILJPEB8JVZ6L]{The Bell Tolls}</p>"
+    "classDetails": "<h3>Bardic Archetype: Tragedian</h3><p><i>Unlock:</i> Have the Bard Starter Abilities.</p><hr/><p>&#x1F193; Given Abilities: @Compendium[undertaking-homebrew.abilities.4A26NHYUBD8OXCX5]{Theme: Hubris}, @Compendium[undertaking-homebrew.abilities.M7ONN7XQ5CD8VK24]{Commiseration}</p><hr/><h3>Tragedian Abilities</h3><p>When taking a level in Tragedian, you may choose from the following abilities: </p><hr/><p>Options: @Compendium[undertaking-homebrew.abilities.PDP9D8MMKDY2DZSL]{Star-Crossed Duel}, @Compendium[undertaking-homebrew.abilities.X7GBQG8CSADQYOZH]{Blood-Soaked Hands}, @Compendium[undertaking-homebrew.abilities.9KHMDNUC50478I0D]{Untimely Remorse}, @Compendium[undertaking-homebrew.abilities.AI1FILJPEB8JVZ6L]{The Bell Tolls}</p>"
   },
   "effects": [],
   "folder": null,

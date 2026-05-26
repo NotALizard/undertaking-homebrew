@@ -12,6 +12,34 @@
     "type": {
       "value": "race",
       "subtype": "branch"
+    },
+    "actionType": "abil",
+    "damage": {
+        "parts": [
+            [
+                "2d4",
+                "poison"
+            ]
+        ],
+        "versatile": ""
+    },
+    "showInAttacks": true,
+    "resource": {
+      "showOnSheet": true,
+      "value": 0,
+      "style": "counter",
+      "name": "Venom",
+      "valueFrom": "manual",
+      "maxFormula": "",
+      "maxFlat": 1,
+      "rechargeOn": "short",
+      "rechargeStyle": "fill",
+      "rechargeFormula": "",
+      "rechargeMessage": "",
+      "overfilledMessage": "",
+      "dropdownIdentifier": "",
+      "addOptionsTo": "",
+      "dropdownOptions": []
     }
   },
   "effects": [],
